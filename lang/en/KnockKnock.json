@@ -1,0 +1,15 @@
+{
+  "NoPermission": "You don't have permissions to run this command.",
+  "NoDoor": "Make sure you are looking at a door.",
+  "DontOwnDoor": "You don't own this door",
+  "MessageAdded": "New Message added to Door\n{0}",
+  "RemovedMessage": "Door Message Removed.",
+  "DoorMessage": "{0}",
+  "NoMessageOnDoor": "The door does not have a message set.",
+  "Commands": "List of Commands:\n/{0} add (Message) - Adds Message to your door\n/{0} remove - Removes door's message",
+  "PermCommands": "List of Commands:\n/{0} add (Message) - Adds Message to your door\n/{0} remove - Removes door's message\n/{0} auto - Turns on auto messages\n/{0} auto (Message) - Set's a message for auto message",
+  "AddCommand": "Incorrect Syntax - /{0} add (Message)",
+  "ToggleAutoOn": "Auto messages have been turned On",
+  "ToggleAutoOff": "Auto messages have been turned Off",
+  "AutoMessageSet": "Your Auto message has been set\n{0}"
+}

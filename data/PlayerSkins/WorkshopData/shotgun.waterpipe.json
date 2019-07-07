@@ -1,0 +1,692 @@
+{
+  "10143": {
+    "title": "The Peace Pipe",
+    "description": "Smoke your enemies with the Peace Pipe!\n\n[color=#FF9800]This is a skin for the [color=#ffdba5]Waterpipe Shotgun[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/10143_small.png?2320052300"
+  },
+  "819137470": {
+    "title": "Rustpunk Scattergun",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Waterpipe Shotgun[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/20407_small.png?2605306453"
+  },
+  "661319648": {
+    "title": "RustPunk Waterpipe Shotgun",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Waterpipe Shotgun[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/21300_small.png?1019019657"
+  },
+  "832764933": {
+    "title": "Western Waterpipe Shotgun",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Waterpipe Shotgun[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/21301_small.png?2542519043"
+  },
+  "907070012": {
+    "title": "Hot Topic Waterpipe Shotgun",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Waterpipe Shotgun[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/22010_small.png?1601957523"
+  },
+  "912464069": {
+    "title": "Riveted Pipe Shotgun",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Waterpipe Shotgun[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/22104_small.png?3893731357"
+  },
+  "1147084675": {
+    "title": "Luxuria",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Waterpipe Shotgun[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/24401_small.png?3097191209"
+  },
+  "1168524895": {
+    "title": "Flaming Pipe",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Waterpipe Shotgun[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/24607_small.png?1047568425"
+  },
+  "1181616781": {
+    "title": "Twisted Pipe",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Waterpipe Shotgun[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/24802_small.png?399480443"
+  },
+  "1205464046": {
+    "title": "Sea Hunter Shotgun",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Waterpipe Shotgun[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/25109_small.png?3074178393"
+  },
+  "1219492103": {
+    "title": "Junkyard Pipe",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Waterpipe Shotgun[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/25305_small.png?1301101400"
+  },
+  "1234721165": {
+    "title": "Apostate",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Waterpipe Shotgun[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/25700_small.png?1667535165"
+  },
+  "1209128595": {
+    "title": "Blacksmith's Pipe",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Waterpipe Shotgun[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/25811_small.png?1767107037"
+  },
+  "1274179291": {
+    "title": "Cannibal Tribe Musket",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Waterpipe Shotgun[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26003_small.png?3237959809"
+  },
+  "1250809355": {
+    "title": "KOI",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Waterpipe Shotgun[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26219_small.png?4100992254"
+  },
+  "1320685736": {
+    "title": "Industrial Pipe Shotgun",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Waterpipe Shotgun[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26604_small.png?325969350"
+  },
+  "1421462560": {
+    "title": "Pirate Pipe",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Waterpipe Shotgun[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/28904_small.png?2299518664"
+  },
+  "1693498234": {
+    "title": "Pure Evil",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Waterpipe Shotgun[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/31802_small.png?1746908552"
+  },
+  "1295315466": {
+    "title": "[FIXED] Radioactive pipe",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/934930395676757266/2F118E1A299CF3BFB9A7F4E26FD78FCB4349252D/"
+  },
+  "612702575": {
+    "title": "Rebel Pipe Shotgun",
+    "description": "You are a rebel? I like you.\r\n[url=http://steamcommunity.com/id/zufick/myworkshopfiles/][img]http://i.imgur.com/KJJ1IKJ.png[/img][/url]\r\n[img]http://i.imgur.com/5NpuybD.png[/img]\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/610604005650440718/1569A85AE87AA720E33BCCF3B533FA3F42C9284A/"
+  },
+  "732379130": {
+    "title": "Firestarter Pipe Shotgun",
+    "description": "This shotgun comes in handy in the heat of the moment.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/260465617058796965/A2B6A5EB0CDFC47CD03F4C46453E2FFAD2DC22FC/"
+  },
+  "1087685890": {
+    "title": "Gold Digger (Dark)",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/847092187901388996/67E7B31C7B21C7C1252F2DE09FB21F499FFD5C56/"
+  },
+  "1387754189": {
+    "title": "Road Maniac Waterpipe",
+    "description": "[url=http://steamcommunity.com/id/madroce/myworkshopfiles] [img]https://i.imgur.com/pU1ApIZ.jpg[/img] [/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/929309775555345133/20F232CFB20B7798B84B592EFDEBBDD9D3BB8F0A/"
+  },
+  "1290564671": {
+    "title": "Steampipe Shotgun",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/941685450584439163/4DB592F0E4EEC815A338D086E0B6523F27B5B52A/"
+  },
+  "1310523532": {
+    "title": "Iron Duke",
+    "description": "A modern waterpipe shotgun of unknown provenance but solid construction. The gunsmith's name is lost to time, but his weapons live on.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/921420865933153731/DE3618E37B3B1202425EF5ED5361DDFA39268CED/"
+  },
+  "1284840438": {
+    "title": "Mad Warrior",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/921418643377414136/4F2B2FFF6FF650D608EB7102A2CE744FC26852FA/"
+  },
+  "1320234756": {
+    "title": "Hell Pipe",
+    "description": "This skin wouldnt have been possible without the help of the magnificient STABBYMCSTABFACE",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/932680825175064854/95F4C4D8C3F2D609DADF9218E035A28E28D1036D/"
+  },
+  "1626673551": {
+    "title": "Radioactive pipe (glow)",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/955227670771711494/6511495DA684B92E5B527AC64D5BF27D0242A44A/"
+  },
+  "1328021439": {
+    "title": "Instigator's shotgun",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/916918850617932068/67A78FA70452FC7F3669F3359EA80D822B014C39/"
+  },
+  "871523638": {
+    "title": "El Pumpo",
+    "description": "[url=http://steamcommunity.com/id/veyskara/myworkshopfiles/][img]https://image.ibb.co/j3wiBQ/followme.png[/img][/url]\r\nEl Pumpo v2:\r\nhttp://steamcommunity.com/sharedfiles/filedetails/?id=893762568\r\n[url=http://steamcommunity.com/workshop/filedetails/?id=86",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/93854627883539500/20D60A83DAC9BCF800A059DD61AF27D24F674FF7/"
+  },
+  "1087666930": {
+    "title": "Gold Digger (White)",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/847092187901355687/EC6A53D8FCD2BFC6F7465E3973312DE64AA02B30/"
+  },
+  "1210356171": {
+    "title": "blacksmith's pipe_v2(PAINTED)",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/876376754302621732/C9940F659E15277D0EB39574BA84674F538EAA1E/"
+  },
+  "840915598": {
+    "title": "Raven lord's rest",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/100603056097192602/B4BEF3CD3B4F880BDDFD3D382762BAEA1783E100/"
+  },
+  "1373036700": {
+    "title": "X-RAY (Glowing)",
+    "description": "[url=http://steamcommunity.com/groups/freddy_designs][img]https://i.imgur.com/wXH8Brw.png[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/914671501019364046/A297FB4EA2C4F89D0D9C699CD75038605725F6D1/"
+  },
+  "582571973": {
+    "title": "Tailpipe Shotgun",
+    "description": "A breach loading shotgun made from old car parts. The muzzle is an auto tailpipe and the grip is a radiator hose. \r\n\r\n\"This...is my BOOMSTICK!\"\r\n--Ash Williams, Army of Darkness, 1992\r\n\r\nPart of the Automotive set.\r\n(ed. note: Rhino Auto is a fictional lab",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/352769663184542259/518CE22692BED0D25F504ED603D30AC8E386D3BF/"
+  },
+  "1632978900": {
+    "title": "Prototype Pipe",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/954102405135675165/11AD56BAC3FD4FFAEDB6DC4786334A3F63DAE754/"
+  },
+  "1747110503": {
+    "title": "Cold Hunter Waterpipe",
+    "description": "- does not glow in any way -",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/807745661124423871/3F5036AB017C18959A728650A3C29D950DD44255/"
+  },
+  "1095296312": {
+    "title": "Gold Digger v2 (Wood)",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/860603645841088519/D2124FB62B0FC2FB971F26613DDEE12BAA140834/"
+  },
+  "1328525426": {
+    "title": "Primal King Waterpipe",
+    "description": "[url=http://steamcommunity.com/id/madroce/myworkshopfiles] [img]https://i.imgur.com/pU1ApIZ.jpg[/img] [/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/934933198917962044/A356A0E40A2D6D43CFB5889C745DE621CE1036B5/"
+  },
+  "1557601862": {
+    "title": "Ancient artifact Shotgun v2",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/954094963358511279/EED640E95176D2126E65D37CC060DC9F42F82874/"
+  },
+  "952406089": {
+    "title": "Indians",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/882001050500064350/C27647D1C8C1F29BDC7AAA9095494065253B9FE5/"
+  },
+  "1112072697": {
+    "title": "MoltenPipe",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/845968449264060495/B595BA106C496F6B9A70DFCD35644565F3C2AF88/"
+  },
+  "1307729061": {
+    "title": "Desolate Waterpipe",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/939434973176014539/5AD6FF0B3A3B8971CFAA651988EBB52E5DB0E3C6/"
+  },
+  "1238545836": {
+    "title": "Lightning",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/918037462603903283/A375742F9D74A4E85E97EAB68DD9B0916A72E436/"
+  },
+  "1177376774": {
+    "title": "Bronze pipe shotgun",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/870744308638525435/D918AEAC5574D86F0651E28D8BFF88BEC3392E35/"
+  },
+  "1742042733": {
+    "title": "Red Hazard Waterpipe",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/795360658847060689/E6A4F4F233886684BCF57E412DFAB773DE527CAD/"
+  },
+  "952406548": {
+    "title": "the angel of death",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/882001050500063317/84C8F441CF56B0D2FE941DF07AECC854F30BA83D/"
+  },
+  "938912627": {
+    "title": "Loudmouth WPS",
+    "description": "[URL=http://steamcommunity.com/id/Deltap42/myworkshopfiles/][IMG]http://i.imgur.com/hBkHsbv.png[/IMG][/URL]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/788540579280953608/9CC6A08C70F54D8E0C6E702C0E836E8D24F5AC7C/"
+  },
+  "961238912": {
+    "title": "BACKUP",
+    "description": "Backup Pipe",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/867356442627400316/00D4B0A35A97987BE97F7B7EBBA81B461E044FE7/"
+  },
+  "1606453449": {
+    "title": "Stylish Waterpipe Shotgun",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/954100158962867439/E384CBDF6995124BB6AD38729AA256AA48495F80/"
+  },
+  "1207798674": {
+    "title": "Red Marble Waterpipe",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/859488132683180603/282C8E4E91C778650063775310DCD502C2A50525/"
+  },
+  "1170130954": {
+    "title": "Waterpipe Shotgun - Souls  Catcher",
+    "description": "[url=http://steamcommunity.com/id/badtripbg/myworkshopfiles/][img]http://i.imgur.com/u3a3NhQ.png[/img][/url]\r\n[url=http://steamcommunity.com/groups/wintrip][img]http://i.imgur.com/iEgnCSQ.png[/img][/url]\r\n\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/865114188911200207/0EE7BA6CE150C9BF1FBF9C5BE0E20A6A61AD4014/"
+  },
+  "1116108596": {
+    "title": "Pinocchio",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/860605452412284552/BB5728390950FC9EED17084125E85C174D99C0BE/"
+  },
+  "1115296046": {
+    "title": "Ant Revolt",
+    "description": "Fantasy art work\r\n[url=http://steamcommunity.com/groups/freddy_designs][img]https://i.imgur.com/wXH8Brw.png[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/843716962721288245/5729092954EC13C96C35E66ECA276255837E26AC/"
+  },
+  "843075691": {
+    "title": "Precious Waterpipe Shotgun",
+    "description": "A very precious and well finished Waterpipe Shotgun. Commonality probably wouldn't get their dirty fingers on this exceptionally beautiful specimen. It is crafted from fine, dark walnut wood and stainless steel.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/106232967014645054/6ABAE0F1FB77621DF8368341FBBCB5E680ACCD4B/"
+  },
+  "842159838": {
+    "title": "EternalExplosionWBS",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/183919959765708628/BC257617ABEF87BD6548B8C9568520AA9F1C223F/"
+  },
+  "912879890": {
+    "title": "Glorious Pipe",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/812181151404811081/4E549291E0058174A4BAF9C8C8E7107CCB2DF538/"
+  },
+  "865799474": {
+    "title": "golden curls",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/82591828987134382/FA3266143B4F7D4B0BFCD891AA995F88A613199F/"
+  },
+  "1373674968": {
+    "title": "Comrades rifle",
+    "description": "WE ARE THE ONE, MY DEAR COMRADES! FIGHT FOR OUR RUSTY WORLD!",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/923678718491408981/941C17C16A9194E5E8D10AD9C2D8EAA936D063AC/"
+  },
+  "1524050052": {
+    "title": "Heart Shot pipe",
+    "description": "[URL=https://discord.gg/9SyYBwh][IMG]https://i.imgur.com/WTAufrq.gif[/img][/url]\r\n\r\n[url=https://steamcommunity.com/id/jesin100/myworkshopfiles/] \r\n[img]https://i.imgur.com/E6zF3z2.gif[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/952965722520161397/EBE8DB23CAB3CAE6545A5FF39C5604F99946B638/"
+  },
+  "1095299736": {
+    "title": "Gold Digger v2(Bone)",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/860603645841098240/B019B7ABCF60746FBF28029B23AAF9B12A7316F6/"
+  },
+  "1193761638": {
+    "title": "Cobalt Pipe Shotgun (v2)",
+    "description": "[url=http://steamcommunity.com/id/veyskara/myworkshopfiles/][img]https://image.ibb.co/j3wiBQ/followme.png[/img][/url]\r\n[url=http://steamcommunity.com/groups/VeysArt/][img]https://i.hizliresim.com/6900l3.jpg[/img][/url]\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/863990249141535308/42319F7A6D050CFCA2B3CD338F12F6DA9BE3CE86/"
+  },
+  "857537400": {
+    "title": "Copper Blunderbuss",
+    "description": "Solid copper plumbing with a nice red studded leather padding. 1-shot greatness!",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/80339162111159365/99ABB884E2F3B1288CDE39891234CA54FAE66225/"
+  },
+  "649672073": {
+    "title": "Antique Pipe Shotgun",
+    "description": "Antique pipe has one of the dopest fresh swag[url=https://www.youtube.com/watch?v=dh6RB1RT9i0].[/url]\r\n[url=http://steamcommunity.com/id/zufick/myworkshopfiles/][img]http://i.imgur.com/KJJ1IKJ.png[/img][/url]\r\n[img]http://i.imgur.com/5NpuybD.png[/img]\r",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/530669546164006595/B9AF6BCFD4C02B99578A30D830237FCF94F53D5A/"
+  },
+  "943928043": {
+    "title": "Viking Today",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/835829308652838462/6D145F207E30CBB91A3BAF39123BE78AD6F946D1/"
+  },
+  "841544543": {
+    "title": "Up Close And Personal Pipe",
+    "description": "[url=http://steamcommunity.com/id/robj2210/myworkshopfiles] [img]http://i.imgur.com/HgtnWmE.png[/img] [/url][url=http://steamcommunity.com/id/robj2210/myworkshopfiles] [img]http://i.imgur.com/Osd3x0B.png[/img] [/url][url=http://steamcommunity.com/groups/Ro",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/96099456470419811/5916EFA730455A1DB983336AEBB5729FB925C57C/"
+  },
+  "1746388556": {
+    "title": "Frost Pipe",
+    "description": "[img]https://i.imgur.com/IsaZzuP.gif[/img]\r\n[img]https://i.imgur.com/n6zGmrZ.gif[/img]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/803242059823045250/1C1CA5D020353F3A4550F2FB7DE098274A760B19/"
+  },
+  "823200436": {
+    "title": "Glory Waterpipe",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/102852953461923978/141C6D82EE3C51B232EE5C6F6CA101100A3051B8/"
+  },
+  "1184320006": {
+    "title": "Blunderbuss",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/870744894167227963/B80A00B98F70748D53DB65579CAE8F40BEE6CC0C/"
+  },
+  "1093780160": {
+    "title": "Royal Wp Shotgun",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/861729391592201683/B14935D35E7DD4FB4FA9B7F0DB9E72CE4CA3A52F/"
+  },
+  "923656156": {
+    "title": "Supreme Waterpipe",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/823441666992784107/47E22BBF12374405002C0078AF2F93321F993C76/"
+  },
+  "946454164": {
+    "title": "Boiling Waterpipe Shotgun",
+    "description": "Water heating pipes have been recycled into a nifty gun.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/847088654743941712/2BDE5C3A1645113FD5A0336FE792CEE40610FC2D/"
+  },
+  "896801150": {
+    "title": "Waterpipe Shotgun | Blue Lagoon",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/169290222320297436/1F21EE6CB3B1474872FD023A7CA6988A8DE9F36E/"
+  },
+  "883563208": {
+    "title": "Prowler Waterpipe",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/87097718867447292/20F7EA9AF3EF6BBCF93FD5DEE1F8644B5C3FB3A7/"
+  },
+  "916668231": {
+    "title": "Shotgun",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/812181709681214959/535917B31C6F75BECBE18AB1A80552A465E6414F/"
+  },
+  "1192664922": {
+    "title": "Cobalt Pipe Shotgun",
+    "description": "[url=http://steamcommunity.com/id/veyskara/myworkshopfiles/][img]https://image.ibb.co/j3wiBQ/followme.png[/img][/url]\r\n[url=http://steamcommunity.com/groups/VeysArt/][img]https://i.hizliresim.com/6900l3.jpg[/img][/url]\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/863990249136824553/51FBE3C2524589E5F6F5EDCC2650B4AAB2CE2C22/"
+  },
+  "1600046903": {
+    "title": "Crimson",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/943966491256115419/A09754BBEB4D5CBB6F712C22CE25D6FE0876A5D4/"
+  },
+  "972941095": {
+    "title": "Hot Stuff",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/839209691810451289/F4A001A5C793E97FBACA65071B664B4EB576AB7D/"
+  },
+  "1205403518": {
+    "title": "Chemical Shot",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/875250500359003769/92ECC23E97189C26F5086C80A7B3DC10C9A3CE47/"
+  },
+  "844393675": {
+    "title": "space pıpe gun",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/167031739929272750/4D4FD97CBFD2D284550F2FF82DE2BB162EDBDD08/"
+  },
+  "858289632": {
+    "title": "Floral Waterpipe",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/80339162114869982/4F9543604BD749040A66B37EDE3A0F16C790E656/"
+  },
+  "941823419": {
+    "title": "waterpıpe",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/832451310938432499/83EC981FEC803627107FBE26604B5F46DA50579B/"
+  },
+  "1709890078": {
+    "title": "Whip-Lash",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/955235368724088111/511AB168ADB6648A292D5D7D5EBD65D7D79FF5CA/"
+  },
+  "877626177": {
+    "title": "Waterpipe Varient",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/159154291261744592/A40F426DB2079631B3C9CF5CCF7559EF140EE3B1/"
+  },
+  "828188059": {
+    "title": "Golden Lizard",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/107357223488672539/DEE9C683DFFD7A06C4D89101967C858E1FB72009/"
+  },
+  "958232022": {
+    "title": "Black Pipe",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/851593544320870226/CC82E9A626BE2E989449261E73A7C0DC5F594957/"
+  },
+  "1126888266": {
+    "title": "Luxury Waterpipe",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/858354911721745726/5955F553B9EA36ABA1C8F8736C868D99C8E1CA9F/"
+  },
+  "844928554": {
+    "title": "Hand-made Waterpipe Shotgun v2",
+    "description": "[URL=http://steamcommunity.com/profiles/76561197968300719/myworkshopfiles/][img]http://i.imgur.com/pooFJgd.jpg[/img]\r\n\r\nA waterpipe Shotgun using a bicycle tire, some blue jeans fabric and a few other things.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/96100090634567871/AF9EC8C0059B03C5FF06CC69E8A20979BF1A44FE/"
+  },
+  "1157912137": {
+    "title": "Antique Pipe Shotgun",
+    "description": "A skin based on a salvaged musket rifle in my head, turned out a bit different. shitty copper, damaged steel yet with a vintage look. You know the drill",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/874120384964907850/0DD19FBBC05D32E83DB3FF08C746268E9F6CE17D/"
+  },
+  "844765588": {
+    "title": "Hand-made Waterpipe Shotgun",
+    "description": "[URL=http://steamcommunity.com/profiles/76561197968300719/myworkshopfiles/][img]http://i.imgur.com/pooFJgd.jpg[/img]\r\n\r\nA waterpipe Shotgun using a bicycle tire, some leather and a few other things.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/96100090633099682/90237850A195CBE3CACB50CC013F43788022491D/"
+  },
+  "854616136": {
+    "title": "Black Waterpipe Shotgun",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/85968271467432985/13B0A1728570EBCAD754AC12EE215920077CE0BB/"
+  },
+  "1633371984": {
+    "title": "Corrosive Pipe",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/958606004765692324/7990975FD83A1974BFEC580FE51E026E032E4F9B/"
+  },
+  "845284656": {
+    "title": "Blunderbuss",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/100603690263183334/F331FB31D5EB9239AF9D0DAEB0E7A9384272D635/"
+  },
+  "1476745120": {
+    "title": "Dragon attack",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/954087182955336243/046509CA1CFED2328A82135620F012B8D60DFC3B/"
+  },
+  "938489423": {
+    "title": "Stylish Pipe",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/784036979649189783/74682690D0AA4062174F95297E510F2BA0F948E5/"
+  },
+  "1759853756": {
+    "title": "Gentlemans Pipe",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/785229283511721050/2D63B0D5A4243C85FC64219078CA31DCD0D86893/"
+  },
+  "890507878": {
+    "title": "The Gas Pipe V2",
+    "description": "[URL=http://steamcommunity.com/id/Deltap42/myworkshopfiles/][IMG]http://i.imgur.com/nX24rAO.png[/IMG][/URL]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/97232327607700485/013AEBC94334F4A5C2B1F5AB7BF68C076C2F343C/"
+  },
+  "1095864439": {
+    "title": "Man Handler",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/863981360762171186/AC484A824F1F0A977F1DDF4BA88BB3259E975547/"
+  },
+  "1629267337": {
+    "title": "SAINT WATERPUMP",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/952975870970360564/E21F5B99D713BD05C65AC6A483D1975804CBA8CA/"
+  },
+  "1695656910": {
+    "title": "Shell Lover",
+    "description": "Hello! Hope you would like this one",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/930464212266615833/BA358CC011CF31BE4083E8E0017BA2FB5F2A54CA/"
+  },
+  "1265788152": {
+    "title": "Industrial Pipey",
+    "description": "Machiney Parts, Steel screw clamps, electrical tape, walnut wooden stock, rubberized grip, repurposed copper. Yum",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/922543041998860098/B70BBF63E71A8E1515C454A78A3B4AB100E808DE/"
+  },
+  "815289419": {
+    "title": "Rodapipe",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/97222190041452876/C72F1B078362F1F306ED1DBEA5043B161D761AF9/"
+  },
+  "936479306": {
+    "title": "Brass Pipe Shotty",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/766022581119179738/36CAC533E2EB15D665F404A421E5BB96103EBECF/"
+  },
+  "894416503": {
+    "title": "Hotpipe",
+    "description": "Why are you even reading this? It’s a waterpipe that looks like it is overheating, stop reading the description and look at the gun!",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/87099228446527885/1E7130CEE6B265DBF0019E414210F553AAC7055F/"
+  },
+  "814732746": {
+    "title": "Pum Baby",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/103977589471242759/DA03FCD61BE78C722111457711C7271B5CFDAF94/"
+  },
+  "821441403": {
+    "title": "The Royal Waterpipe Shotgun",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/100600996497109819/9A3819F23B2880E302F7A8D14CDA95C1867EFC9F/"
+  },
+  "856688273": {
+    "title": "Splosion Waterpipe",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/80339015626950940/AC89C312E7329638BA993F477E63FBB02AF4B2D1/"
+  },
+  "958233406": {
+    "title": "Red Pipe",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/851593544320875940/FA954276081A74F38AC7621DA2DD83A0DD6EC022/"
+  },
+  "880747134": {
+    "title": "w.p. shotgun",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/155777414515645044/439D66F90ECB9313CD75D61479C0DC4B9DCFC0C0/"
+  },
+  "1486707405": {
+    "title": "Safari",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/961969524127501753/B457F4AF504C298B269996A2670682919A8F86E5/"
+  },
+  "865810193": {
+    "title": "золотые завитки",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/82591828987188278/17A4D457C4B30FDE23305A4BDBAF1EA2A6DA68C9/"
+  },
+  "958232767": {
+    "title": "Blue Pipe",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/851593544320873410/A49E2AE81BC345547F8DA748897964328D648EF9/"
+  },
+  "1589657086": {
+    "title": "Indian Shotgun",
+    "description": "This skin uses textures edited from original textures in game, so as to match the art style .",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/949595091929407016/3A4E5249D0B0317BB015DFA08AB06BC517ACE987/"
+  },
+  "842978893": {
+    "title": "Mystic Waterpipe Shotgun",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/170408850330327258/D8412EBE7220AA5A1C24CF66DB67B164601B2F51/"
+  },
+  "816408468": {
+    "title": "Lava Coated Blue Waterpipe Shotgun",
+    "description": "Lava Coated Blue Waterpipe Shotgun",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/101725789668201505/87EC6EDAF4910C9C4202FB7AFEC2CB00C5A41872/"
+  },
+  "862775006": {
+    "title": "Classic WS",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/85969284934417355/766DBD77D7349C1F3DEC63FED447E5D1EB11C721/"
+  },
+  "814475638": {
+    "title": "Waterpipe Shotgun | Vaporizer 2.0",
+    "description": "\r\n\r\nUpdated and tweaked for the new workshop\r\n\r\n\r\n[img]http://i.imgur.com/wiENHBo.png[/img][url=http://steamcommunity.com/groups/Rustworkshopcommunity][img]http://i.imgur.com/dOezsHq.png[/img][/url][url=http://steamcommunity.com/profiles/76561197961155896/",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/105103489375577434/4C1A5498872671B96FB5A8A71B2121FDC0CF8340/"
+  },
+  "1092161641": {
+    "title": "Ice Pipe",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/863980945179950191/664B59D5FCDDD0F419A41318D5E236CF22CCFF1B/"
+  },
+  "1405281611": {
+    "title": "WB Aqua waterpipe",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/914674978436069782/3FDC4614438BAF21E7BB10F3E2670231C80E245A/"
+  },
+  "875554778": {
+    "title": "Waterpipe Shotgun Forest Camo",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/81467197674781081/A0D8DB131F2DED4F1A878BE464C51F48CDB23935/"
+  },
+  "1265700462": {
+    "title": "The Golden Glory Waterpipe Shotgun",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/936053854176015572/87E3247A01C764F510E1F6F4AB1C0222F465AD15/"
+  },
+  "1671968054": {
+    "title": "Plastic Waterpipe Shotgun",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/1001393612706849701/8C84B284F44078EA8A128A8A6D018700C9E5ECCB/"
+  },
+  "1129617054": {
+    "title": "BubbleGun",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/866236641731392285/483856F3679DE2ADA9855CF4D56703E1D5AA133E/"
+  },
+  "835104532": {
+    "title": "Bronze Combat Pipe",
+    "description": "Other version: http://steamcommunity.com/sharedfiles/filedetails/?id=832764933\r\n[url=http://steamcommunity.com/id/zufick/myworkshopfiles/?appid=252490][img]http://i.imgur.com/KJJ1IKJ.png[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/187296715219429571/DB24A1BB7C493E93E990B47F258078DC486C99E1/"
+  },
+  "822928988": {
+    "title": "Rekt Waterpipe",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/103978853365787579/30469088F80D2D84D37385CF0B2D67920093558C/"
+  },
+  "814881657": {
+    "title": "Gkamo Shotgun",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/97222190039035187/E988CC52287A37572CE9FAA2A24EA2E11CC907C0/"
+  },
+  "1219342293": {
+    "title": "X-mas pipe",
+    "description": "Candy cane while its day and glowstick by night.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/876377577843581851/43298599C261F0A5CB5B8DA6E5C443605CD17D85/"
+  },
+  "891952444": {
+    "title": "Waterpipe - desert",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/90476295974258847/443E7F78A4671E2195DACF66BB9356C5F9949727/"
+  },
+  "912484563": {
+    "title": "Waterpipe Shotgun Blood Vein",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/809929375812692745/8D10EE8B3EB666DF2E4410D71311D183BF084A86/"
+  },
+  "1710391827": {
+    "title": "Pipe POP",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/963116666708696743/64BE7E69B59A18C70D230F34F449619E633F7216/"
+  },
+  "1519476468": {
+    "title": "Pirate Shotgun",
+    "description": "Rumour has it that this Shotgun once belonged to the infamous Captain Rustbeard...",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/965349988435951449/013BD1BDC66B5C034721ECC4BF91654DCDC1664C/"
+  },
+  "958170446": {
+    "title": "Dripping Red Pipe",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/851593544320630109/55065386DD31D862F5E0C75CD882CBAE646B18D8/"
+  },
+  "1310014186": {
+    "title": "SplatterPipe Shotgun",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/931553965091183806/D68D7CAFF95B31B1A3DC49940C1A3DA7F0F93DC4/"
+  },
+  "863736950": {
+    "title": "Rusty Trombone",
+    "description": "A more rusty copper like shotgun.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/83717558764587309/96C1325CE607D573A08526ABAC14F92B96DD2A87/"
+  },
+  "1454126920": {
+    "title": "fading pink",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/987862969222587359/EBB9DAC5C9E76319E78B4D7357B622A221A0826B/"
+  },
+  "814592756": {
+    "title": "Bronze Waterpipe Shotgun",
+    "description": "Includes a spooky skeleton friend that you insert your shells into his eye cavity\r\n\r\n[img]http://i.imgur.com/H6MWL7Z.png[/img]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/200804981466220184/21133264EE73401FF858AA99CDBE95566A2C477C/"
+  },
+  "902427676": {
+    "title": "Chromed waterpipe shotgun",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/155780773541473167/E8A583F98D49B8409F42B603049DBAE4583DCBBD/"
+  },
+  "1219166834": {
+    "title": "WaterPipe Painted in Field Conditions",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/867370346058902940/E73FAE771A1E00A56F48DA3239CFB6E60795AF8E/"
+  }
+}

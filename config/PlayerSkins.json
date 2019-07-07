@@ -1,0 +1,58 @@
+{
+  "Announcement Options": {
+    "Display help information to players": true,
+    "Information display interval (minutes)": 10
+  },
+  "Purchase Options": {
+    "Enable purchase system": true,
+    "Plugin used to purchase skins (ServerRewards, Economics)": "ServerRewards"
+  },
+  "Skin Shop Options": {
+    "Custom permissions which can be assigned to skins": [
+      "vip1",
+      "vip2",
+      "vip3"
+    ],
+    "NPC user IDs that players can interact with to open the skin shop": [],
+    "Disable the '/skin shop' command and force players to access it via a NPC": false,
+    "Allow players to sell unwanted skins back to the skin store": true,
+    "Give player the item when they purchase a skin (this disables the reskin menu)": false,
+    "Forced display mode for skin shop (Full, Minimalist, None)": "None",
+    "Send a help message to players when exiting the skin shop": true,
+    "List of shortnames for items to be blocked from appearing in the skin shop": []
+  },
+  "Re-skin Options": {
+    "NPC user IDs that players can interact with to open the re-skin menu": [],
+    "Disable the '/skin' command and force players to access it via a NPC": false
+  },
+  "Workshop Options": {
+    "Retrieve workshop skin information when the plugin loads": true,
+    "Word filter for workshop skins. If the skin title partially contains any of these words it will not be available as a potential skin": [],
+    "Force image URLs to use HTTP instead of HTTPS": false
+  },
+  "UI Options": {
+    "UI Colors": {
+      "Background": {
+        "Color (hex)": "#2b2b2b",
+        "Alpha (0.0 - 1.0)": 0.7
+      },
+      "Panel": {
+        "Color (hex)": "#545554",
+        "Alpha (0.0 - 1.0)": 1.0
+      },
+      "Button": {
+        "Color (hex)": "#393939",
+        "Alpha (0.0 - 1.0)": 1.0
+      },
+      "ButtonSelected": {
+        "Color (hex)": "#d85540",
+        "Alpha (0.0 - 1.0)": 1.0
+      }
+    }
+  },
+  "Version": {
+    "Major": 2,
+    "Minor": 0,
+    "Patch": 9
+  }
+}

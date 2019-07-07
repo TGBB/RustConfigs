@@ -1,0 +1,8 @@
+{
+  "DroppedMsg": "Le Cargo a laché sa cargaison ! Retrouvez la sur la carte (G) - marqueur magenta.",
+  "SpawnMsg": "Un avion cargo vient d'apparaître. Vous serez informé au moment du largage.",
+  "LootedMsg": "Quelqu'un a ouvert une cargaison. Le marqueur est dorénavant bleu ciel.",
+  "KilledMsg": "Une cargaison a été supprimée.",
+  "HUDDistanceMsg": "à <size=12><color=orange>{0}m.</color></size>",
+  "HUDAirdropMsg": "<color=white>AIRDROP</color><color=black>#</color>{0}\n{1}"
+}

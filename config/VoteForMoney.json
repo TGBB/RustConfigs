@@ -1,0 +1,6 @@
+{
+  "InitCheck": true,
+  "AllGroupsGetDefault": false,
+  "Prefix": "<color=#808000ff><b>Vote!:</b></color>",
+  "BlockVote": "0.6"
+}

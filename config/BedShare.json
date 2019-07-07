@@ -1,0 +1,19 @@
+{
+  "sharedBags": [],
+  "ui": {
+    "buttonWidth": 0.25,
+    "buttonHeight": 0.0972222239,
+    "screenMarginX": 0.025,
+    "screenMarginY": 0.0444444455,
+    "verticalSpacer": 0.0222222228,
+    "iconWidth": 0.0385416672,
+    "iconPanelWidth": 0.21875,
+    "iconPaddingX": 0.07083333,
+    "iconPaddingY": 0.161904767,
+    "spawnTextPaddingY": 0.5714286,
+    "bagNameTextPaddingY": 0.304761916,
+    "buttonColor": "0.5000 0.4000 0.2000 0.9000",
+    "bagIconColor": "1.0000 1.0000 1.0000 0.6000",
+    "bagIcon": "assets/icons/sleepingbag.png"
+  }
+}

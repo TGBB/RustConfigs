@@ -1,0 +1,42 @@
+{
+  "clans": {
+    "IGT": {
+      "tag": "IGT",
+      "description": "",
+      "owner": "76561198150536286",
+      "council": null,
+      "created": 1562279365,
+      "updated": 1562286399,
+      "moderators": [],
+      "members": [
+        "76561198150536286",
+        "76561198372997470",
+        "76561198364787037"
+      ],
+      "invites": {},
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": []
+    },
+    "KGB": {
+      "tag": "KGB",
+      "description": "",
+      "owner": "76561198210288324",
+      "council": null,
+      "created": 1562284027,
+      "updated": 1562284496,
+      "moderators": [],
+      "members": [
+        "76561198210288324"
+      ],
+      "invites": {
+        "76561198372997470": 1562284496
+      },
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": []
+    }
+  },
+  "saveStamp": 1562286635,
+  "lastStorage": "json"
+}

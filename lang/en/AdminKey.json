@@ -1,0 +1,6 @@
+{
+  "InvalidKey": "Invalid key!",
+  "AdminGiven": "Success! You are now in the admin group!",
+  "AlreadyAdmin": "You are already an admin",
+  "AdminRemoved": "Success! You have been removed from the admin group!"
+}

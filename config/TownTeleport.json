@@ -1,0 +1,9 @@
+{
+  "BanditCampTeleportCommand": "bandit",
+  "CancelTeleportCommand": "ttc",
+  "CancelTpFallDamage": true,
+  "CancelTpPlayerDamage": true,
+  "OutpostTeleportCommand": "OMGNOOOOOO",
+  "TeleportCooldown": 120,
+  "TeleportCountdown": 10
+}

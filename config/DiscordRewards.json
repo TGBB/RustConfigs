@@ -1,0 +1,51 @@
+{
+  "Settings": {
+    "Bot Token": "NTY4MzE2MDM5OTE0MzIzOTY4.XLgUcA.bWX_Vn6DsMC_jVFetouP_RXI3WY",
+    "Bot Client ID": "568316039914323968",
+    "Bot Status Messages": [ANAL BABY],
+    "Bot Status Cycle Time (seconds)": 300,
+    "Enable DiscordExt Debug Mode": false
+  },
+  "Alternative Rewards": {
+    "Add user to user groups": [
+      "veri"
+    ],
+    "Commands to run on successful validation": [],
+    "Permissions to grant on successful validation": [],
+    "Discord roles to grant on successful validation": [
+      "Verified"
+    ]
+  },
+  "Validation Tokens": {
+    "Token Lifetime (seconds)": 3600,
+    "Require Re-validation": true,
+    "Automatically try and re-validate users when their token has expired": true,
+    "Revalidation Interval (seconds)": 604800
+  },
+  "Global Cooldown": {
+    "Use Global Cooldown": false,
+    "Global Cooldown Time (seconds)": 84600
+  },
+  "UI Options": {
+    "Enable Reward Menu": true,
+    "UI Coloring": {
+      "Button_Selected": {
+        "Hex": "#d85540",
+        "Alpha": 1.0
+      },
+      "Button_Deselected": {
+        "Hex": "#393939",
+        "Alpha": 1.0
+      },
+      "BG_Main": {
+        "Hex": "#2b2b2b",
+        "Alpha": 1.0
+      }
+    }
+  },
+  "Version": {
+    "Major": 0,
+    "Minor": 1,
+    "Patch": 10
+  }
+}

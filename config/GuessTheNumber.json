@@ -1,0 +1,14 @@
+{
+  "Settings": {
+    "Auto Event Repeat Time": 600.0,
+    "Auto Events Enabled": false,
+    "Economics Win Reward": 20,
+    "Event Length": 30.0,
+    "Max Default Number": 20,
+    "Max Tries": 2,
+    "Min Default Number": 1,
+    "ServerRewards Win Reward": 200,
+    "Use Economics": false,
+    "Use ServerRewards": true
+  }
+}

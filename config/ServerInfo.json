@@ -1,0 +1,184 @@
+{
+  "settings": {
+    "Tabs": [
+      {
+        "ButtonText": "Welcome Page!",
+        "HeaderText": "WELCOME!",
+        "Pages": [
+          {
+            "TextLines": [
+              "RULES PAGE",
+              "Rule #1 No spamming Supply Drops, 5 Supply Drops every 15 minutes.",
+              "Rule #2 Any variation of the word 'Admin' or 'Moderator' in your name or clan name will result in",
+              "a kick. You will be given the chance to change your name, if you fail to you WILL be <color=red> BANNED </color>.",
+              "This is not Fortnite... Do not build while being raided!",
+              "No god damn Racism or Homophobia, If you are racist in chat you will be <color=red> BANNED </color>.",
+              "No building in the map, No clipping turrets, No clipping under the map. MAX BASE SIZE IS 15x15",
+              "Click Next Page to view available Commands!"
+            ],
+            "ImageSettings": [
+              {
+                "Position": {
+                  "MinX": 0.0,
+                  "MaxX": 0.5,
+                  "MinY": 0.0,
+                  "MaxY": 0.5
+                },
+                "Url": "",
+                "TransparencyInPercent": 100
+              },
+              {
+                "Position": {
+                  "MinX": 0.5,
+                  "MaxX": 1.0,
+                  "MinY": 0.0,
+                  "MaxY": 0.5
+                },
+                "Url": "",
+                "TransparencyInPercent": 100
+              },
+              {
+                "Position": {
+                  "MinX": 0.0,
+                  "MaxX": 0.5,
+                  "MinY": 0.5,
+                  "MaxY": 1.0
+                },
+                "Url": "",
+                "TransparencyInPercent": 100
+              },
+              {
+                "Position": {
+                  "MinX": 0.5,
+                  "MaxX": 1.0,
+                  "MinY": 0.5,
+                  "MaxY": 1.0
+                },
+                "Url": "",
+                "TransparencyInPercent": 100
+              }
+            ]
+          },
+          {
+            "TextLines": [
+              "Commands! Any commands in <color=red>Red</color> are donation commands.",
+              "<color=lime>/buy</color> Shows vehicles for purchase <color=lime>/spawn</color> spawns them. <color=lime>/bandit</color> teleports to bandit camp",
+              "<color=lime>/kit</color> to view kits. <color=lime>/tpr</color> to request to teleport to a player. <color=lime>/tpa</color> to accept requests.",
+              "<color=lime>/home</color> shows home commands. <color=lime>/sil</color> to add images to signs and paintings. <color=lime>/clan</color> shows clan commands",
+              "In chat, type /pbreg 'Your Username#7263' to register you to the discord",
+              "Go to Next Page to view more commands"
+            ],
+            "ImageSettings": []
+          },
+          {
+            "TextLines": [
+              "<color=lime>/bed</color> for bed commands.  makes a recycler. <color=lime>/backpack</color> shows backpack commands.",
+              "<color=lime>/bgrade</color> Auto upgrades while building. <color=lime>/friend add</color> Adds a friend <color=lime>/where</color> helps find your corpse.",
+              "<color=lime>/skin</color> Bring up skin changer. <color=lime>/bounty</color> Shows bounty commands",
+              "<color=red>/sc</color> Shows commands for Security Cameras. <color=red>/sdoor</color> Turn your door into a sliding door!",
+              "<color=lime>/nextwipe</color> To view wipe timer"
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "Fucking Hell",
+        "HeaderText": "Kind of a place holder",
+        "Pages": [
+          {
+            "TextLines": [
+              "Please",
+              "Read",
+              "Logs",
+              "Before",
+              "Bitching",
+              "At Me"
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "Donor Rewards",
+        "HeaderText": "This is where you view donor rewards!",
+        "Pages": [
+          {
+            "TextLines": [
+              "All donor rewards can be acquired at KODYGAMES.NET",
+              "You can unlock all the skins buy paying $5 in the store. Its worth it if you like skins!",
+              "With every kit you will get a donor tag/group added to your name.",
+              "Some kits or packs may come with unique tags/groups based on their type and the items they contain",
+              "The 'Raid Kit', never expires and has unlimited uses. It does have a 1 hour cooldown though.",
+              "RP does not reset after map wipes.",
+              "",
+              "",
+              "Trading the M249 is strictly forbidden and can result in the kit getting revoked"
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      }
+    ],
+    "ShowInfoOnPlayerInit": true,
+    "ShowInfoOnlyOncePerRuntime": true,
+    "TabToOpenByDefault": 0,
+    "Position": {
+      "MinX": 0.15,
+      "MaxX": 0.9,
+      "MinY": 0.2,
+      "MaxY": 0.9
+    },
+    "BackgroundImage": {
+      "Enabled": false,
+      "Position": {
+        "MinX": 0.0,
+        "MaxX": 1.0,
+        "MinY": 0.0,
+        "MaxY": 1.0
+      },
+      "Url": "",
+      "TransparencyInPercent": 100
+    },
+    "ActiveButtonColor": "#0255255255",
+    "InactiveButtonColor": "#127127127255",
+    "CloseButtonColor": "#127127127255",
+    "NextPageButtonColor": "#127127127255",
+    "PrevPageButtonColor": "#127127127255",
+    "BackgroundColor": "#000255",
+    "HelpButton": {
+      "IsEnabled": true,
+      "Text": "Help",
+      "Position": {
+        "MinX": 0.0,
+        "MaxX": 0.05,
+        "MinY": 0.1,
+        "MaxY": 0.14
+      },
+      "Color": "#127127127255",
+      "FontSize": 18
+    },
+    "UpgradedConfig": false
+  }
+}

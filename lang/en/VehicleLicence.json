@@ -1,0 +1,22 @@
+{
+  "announcement": "Type <color=#00FF00>/licence</color> to get help.",
+  "helpLicence": "These are the available commands: \n<color=#00FF00>/buy</color> -- To buy a vehicle \n<color=#00FF00>/spawn</color> -- To spawn a vehicle \n<color=#00FF00>/recall</color> -- To recall a vehicle",
+  "helpBuy": "These are the available commands: \nMoney: <color=#ff0000>{0}</color> \n<color=#00FF00>/buy row</color> -- <color=#ff0000>{1}</color> to buy a rowing boat \n<color=#00FF00>/buy rhib</color> -- <color=#ff0000>{2}</color> to buy a RHIB \n<color=#00FF00>/buy sedan</color> -- <color=#ff0000>{3}</color> to buy a sedan \n<color=#00FF00>/buy hab</color> -- <color=#ff0000>{4}</color> to buy an hot air balloon \n<color=#00FF00>/buy copter</color> -- <color=#ff0000>{5}</color> to buy a mini copter \n<color=#00FF00>/buy ch47</color> -- <color=#ff0000>{6}</color> to buy a chinook \n",
+  "helpSpawn": "These are the available commands: \n<color=#00FF00>/spawn row</color> -- To spawn a rowing boat \n<color=#00FF00>/spawn rhib</color> -- To spawn a RHIB \n<color=#00FF00>/spawn sedan</color> -- To spawn a sedan \n<color=#00FF00>/spawn hab</color> -- To spawn an hot air balloon \n<color=#00FF00>/spawn copter</color> -- To spawn a mini copter \n<color=#00FF00>/spawn ch47</color> -- To spawn a chinook \n",
+  "helpRecall": "These are the available commands: \n<color=#00FF00>/recall row</color> -- To recall a rowing boat \n<color=#00FF00>/recall rhib</color> -- To recall a RHIB \n<color=#00FF00>/recall sedan</color> -- To recall a sedan \n<color=#00FF00>/recall hab</color> -- To recall an hot air balloon \n<color=#00FF00>/recall copter</color> -- To recall a mini copter \n<color=#00FF00>/recall ch47</color> -- To recall a Chinook \n",
+  "helpOptionNotFound": "This option doesn't exist.",
+  "vehiclePurchased": "You have purchased a {0}, type <color=#00FF00>/spawn</color> for more information.",
+  "vehicleAlreadyPurchased": "You have already purchased {0}.",
+  "vehicleCannotBeBuyed": "You can't buy a {0}.",
+  "vehicleNotOut": "{0} is not out.",
+  "noMoney": "You don't have enough money.",
+  "didntBuyVehicle": "You didn't purchase a vehicle.",
+  "alreadyVehicleOut": "You already have a {0} outside, type <color=#00FF00>/spawn</color> for more information.",
+  "vehicleNotYetPurchased": "You have not yet purchased a {0}.",
+  "vehicleSpawned": "You spawned your {0}.",
+  "vehicleRecalled": "You recalled your {0}.",
+  "vehicleOnCooldown": "You must wait {0} seconds before you can spawn your {1}.",
+  "notInWater": "You must be in the water to use this command.",
+  "buildindBlocked": " You can't spawn a boat appear if you don't have the building privileges.",
+  "noPermission": "You do not have permission to do this."
+}

@@ -1,0 +1,1617 @@
+{
+  "1173523145": {
+    "title": "Bulletstorm",
+    "description": "[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/24613_small.png?3725165888"
+  },
+  "1173459827": {
+    "title": "LR300 - Wild",
+    "description": "[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/24614_small.png?56611461"
+  },
+  "1174458060": {
+    "title": "Daemon Strike",
+    "description": "[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/24705_small.png?2646193975"
+  },
+  "1177273104": {
+    "title": "Mercenary Rifle",
+    "description": "[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/24811_small.png?948724924"
+  },
+  "1176479716": {
+    "title": "Survivor LR-300",
+    "description": "[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/25008_small.png?1604477641"
+  },
+  "1203322875": {
+    "title": "Wildfire LR-300",
+    "description": "[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/25103_small.png?2157954503"
+  },
+  "1239079767": {
+    "title": "Bone Grinder LR-300",
+    "description": "[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/25610_small.png?3223655032"
+  },
+  "1264358358": {
+    "title": "Midway LR300",
+    "description": "[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/25903_small.png?1114905693"
+  },
+  "1282171260": {
+    "title": "Warhead LR300",
+    "description": "[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26206_small.png?2212741878"
+  },
+  "1308037543": {
+    "title": "Polymer LR300",
+    "description": "[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26401_small.png?3048955341"
+  },
+  "1419392688": {
+    "title": "Fury Ex Red",
+    "description": "[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/28605_small.png?4045486984"
+  },
+  "1481478360": {
+    "title": "Tempered Steel LR300",
+    "description": "[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/29007_small.png?3109731434"
+  },
+  "1225499752": {
+    "title": "Deathcore LR300",
+    "description": "[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/29105_small.png?2916614592"
+  },
+  "1535995784": {
+    "title": "Bogeyman LR300",
+    "description": "[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/29607_small.png?132907769"
+  },
+  "1553359638": {
+    "title": "Cold Hunter LR 300",
+    "description": "[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/29808_small.png?2113858555"
+  },
+  "1569062511": {
+    "title": "BullDozer LR300",
+    "description": "[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/30000_small.png?2561833834"
+  },
+  "1578816958": {
+    "title": "Ice Marine LR300",
+    "description": "[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/30204_small.png?496546989"
+  },
+  "1604879931": {
+    "title": "Dead Ringer LR300",
+    "description": "[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/30607_small.png?1850372945"
+  },
+  "1612152593": {
+    "title": "Icarus LR300",
+    "description": "[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/30706_small.png?1606862371"
+  },
+  "1621894466": {
+    "title": "Badlands LR-300",
+    "description": "[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/30901_small.png?3842010582"
+  },
+  "1644715625": {
+    "title": "Marked for Death",
+    "description": "[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/31104_small.png?321439142"
+  },
+  "1652362426": {
+    "title": "Pink Death LR300",
+    "description": "[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/31207_small.png?3232902184"
+  },
+  "1660691287": {
+    "title": "Jungle Fighter LR-300 Stockless",
+    "description": "[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/31403_small.png?754054664"
+  },
+  "1671985039": {
+    "title": "Phantom LR-300",
+    "description": "[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/31501_small.png?1149256674"
+  },
+  "1635559091": {
+    "title": "Prancing Pony LR-300",
+    "description": "[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/31701_small.png?4187890631"
+  },
+  "1725240606": {
+    "title": "Dynasty LR300",
+    "description": "[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/32405_small.png?2478646021"
+  },
+  "1741459108": {
+    "title": "Black Pearl LR300",
+    "description": "[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/32601_small.png?4003067816"
+  },
+  "1725296399": {
+    "title": "Dinasty LR300  (Cherry v.)",
+    "description": " [url=https://steamcommunity.com/id/tonyaer/myworkshopfiles/][img]https://i.imgur.com/Zv9pmZk.png[/img]  ",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/837017343205822632/3DEB42461C736F1DB7465DCE98E9354FCC5BAABE/"
+  },
+  "1642507010": {
+    "title": "Warstory LR",
+    "description": "Link to version with a higher texture resolution: https://steamcommunity.com/sharedfiles/filedetails/?id=1645629645\r\nThe Gun and Sight do not glow in any way\r\n[url=http://steamcommunity.com/id/madroce/myworkshopfiles] [img]https://i.imgur.com/pU1ApIZ.jpg[/",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/957480811954083160/71C104C63C939743C269894B383A3E98DADC64D9/"
+  },
+  "1295381722": {
+    "title": "X-RAY (Glowing)",
+    "description": "[url=http://steamcommunity.com/groups/freddy_designs][img]https://i.imgur.com/wXH8Brw.png[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/922545605120559325/6C8BFA4F52BD457B0D3281B0217F9BECF0086EB5/"
+  },
+  "1256861847": {
+    "title": "LR300 - WARHEAD - PLAIN CAMO",
+    "description": "The LR 300 is an American rifle and conversion kit designed by gunsmith Allan Zitta and manufactured by Z-M Weapons. Was covered by forest camo and some paintings over it.\r\n\r\n[i]I'm at the vanguard.[/i]\r\n\r\n[url=http://steamcommunity.com/id/estavos/myworksh",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/904527992634790409/CE18C8D304294036E4A871DC202E74EC6C6F3CA1/"
+  },
+  "1256866054": {
+    "title": "LR300 - WARHEAD - DESERT CAMO",
+    "description": "The LR 300 is an American rifle and conversion kit designed by gunsmith Allan Zitta and manufactured by Z-M Weapons. Was covered by forest camo and some paintings over it.\r\n\r\n[i]I'm at the vanguard.[/i]\r\n\r\n[url=http://steamcommunity.com/id/estavos/myworksh",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/904527992634807934/164101E6A693C2FB5FFF491EC56D68B40FBFCD68/"
+  },
+  "1645629645": {
+    "title": "Warstory LR (Higher Resolution)",
+    "description": "(i saw that the previous version used a lower resolution texture map. so i had to upload it again)\r\nThe Gun and Sight do not glow in any way\r\n[url=http://steamcommunity.com/id/madroce/myworkshopfiles] [img]https://i.imgur.com/pU1ApIZ.jpg[/img] [/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/956355284418235245/71C104C63C939743C269894B383A3E98DADC64D9/"
+  },
+  "1680760459": {
+    "title": "LR300 Mechanism (NO GLOW)",
+    "description": "LR300 Mechanism. \r\n\r\nRate and share with friends if you like it! :)\r\n----------------------------------------------------------------------------------------------------------------------------------\r\n[h1]Check out the demon edge hammer![/h1]\r\n[url=https:/",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/985631744648930960/AEBE42695C535F1B70471900C6068525E966B83A/"
+  },
+  "1256863749": {
+    "title": "LR300 - WARHEAD - DESERT DDPAT",
+    "description": "The LR 300 is an American rifle and conversion kit designed by gunsmith Allan Zitta and manufactured by Z-M Weapons. Was covered by desert camo and some paintings over it.\r\n\r\n[i]I'm at the vanguard.[/i]\r\n\r\n[url=http://steamcommunity.com/id/estavos/myworksh",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/904527992634797568/D1DF777D82ED671B99C01F0034DF9642E23B5F1C/"
+  },
+  "1256869168": {
+    "title": "LR300 - WARHEAD - URBAN BLACK",
+    "description": "The LR 300 is an American rifle and conversion kit designed by gunsmith Allan Zitta and manufactured by Z-M Weapons. Was covered by forest camo and some paintings over it.\r\n\r\n[i]I'm at the vanguard.[/i]\r\n\r\n[url=http://steamcommunity.com/id/estavos/myworksh",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/904527992634820259/1A7B8DF4DBD90987C1C1995289E0C559DB0E810C/"
+  },
+  "1178212004": {
+    "title": "Tempered | LR300",
+    "description": "[url=http://steamcommunity.com/sharedfiles/filedetails/?id=1185403394][img]https://i.imgur.com/L7l8XNn.jpg[/img][/url]\r\n[url=http://steamcommunity.com/sharedfiles/filedetails/?id=1185400152][img]https://i.imgur.com/BY8RigV.jpg[/img][/url]\r\n[url=http://stea",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/866240755061642998/7DAF66AF837BA03BE4414E1B4C8D342D35AEFFF5/"
+  },
+  "1599973661": {
+    "title": "Hungry Hunter LR300",
+    "description": "The real hunter waits for the victim, the hungry man seeks.\r\n\r\n02.01.2019 - Removed unnecessary paints.\r\n[img]https://i.imgur.com/pIZxEMM.png[/img]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/948470113742027162/F3D54A26D86A0EAFD3C9EFBFF1DC87344099455A/"
+  },
+  "1214177476": {
+    "title": "Polymer LR-300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/867369938042929196/CC67069BC77C1F7307F30285D8865B6E33CB0DC9/"
+  },
+  "1185403394": {
+    "title": "Soul Taker - Gold | LR300",
+    "description": "[url=http://steamcommunity.com/sharedfiles/filedetails/?id=1185400152][img]https://i.imgur.com/BY8RigV.jpg[/img][/url]\r\n[url=http://steamcommunity.com/id/MilhoFrito/myworkshopfiles/?appid=252490][img]https://i.imgur.com/vTDAQU3.png[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/862863634927515985/C8C628A648591F3E1139171071846148D92B29A0/"
+  },
+  "1741726333": {
+    "title": "Black Pearl (Gold Edition)",
+    "description": "[url=https://steamcommunity.com/profiles/76561198082431590/myworkshopfiles/?appid=730]\r\n[img]https://steamuserimages-a.akamaihd.net/ugc/793108063923950709/A3B6C7BB69279F79456E56F062D6E1393E2D860F/[/img]\r\n[img]https://media.giphy.com/media/LQo1NioEAdhWzl6aB",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/793108859030689335/C3EFEBE362DF0B2AC2651252EEB734FB5CE9910D/"
+  },
+  "1173529899": {
+    "title": "Royal Water V2",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/875247637250386655/43730FED71951B1374540CD4686890F062AB7C1F/"
+  },
+  "1256858124": {
+    "title": "LR300 - WARHEAD - FOREST CAMO",
+    "description": "The LR 300 is an American rifle and conversion kit designed by gunsmith Allan Zitta and manufactured by Z-M Weapons. Was covered by forest camo and some paintings over it.\r\n\r\n[i]I'm at the vanguard.[/i]\r\n\r\n[url=http://steamcommunity.com/id/estavos/myworksh",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/904527992634776197/AA214E819658AF3BD2D8D98FEE18D5ABA5F629EA/"
+  },
+  "1178468278": {
+    "title": "Urban knight LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/871870337607224331/A89026E6462A677CE041897E766588778F74C071/"
+  },
+  "1185400152": {
+    "title": "Soul Taker | LR300",
+    "description": "[url=http://steamcommunity.com/sharedfiles/filedetails/?id=1185403394][img]https://i.imgur.com/L7l8XNn.jpg[/img][/url]\r\n[url=http://steamcommunity.com/id/MilhoFrito/myworkshopfiles/?appid=252490][img]https://i.imgur.com/vTDAQU3.png[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/862863634927502308/D4948A55F2D674847079919EC4391CF003A5B21A/"
+  },
+  "1659296381": {
+    "title": "LAST HUNTER",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/942845716304704034/DE08E4892821FBB8D9920DC6622D948137CD5CC7/"
+  },
+  "1184727881": {
+    "title": "Black Diamond LR - Special",
+    "description": "[img]https://i.imgur.com/iNe1Y1w.png[/img]\r\n\r\n_\r\n[url=http://steamcommunity.com/id/Krovv/myworkshopfiles/?appid=252490&p=1&numperpage=30][IMG]http://i.imgur.com/4CVSNoJ.png[/IMG][/url]\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/859485925755824478/9BB6CFEB35AE7EE39E55A956E329D1161305887E/"
+  },
+  "1358218617": {
+    "title": "Urban LR300 V2 (fix)",
+    "description": "[url=http://steamcommunity.com/id/kekegod1/myworkshopfiles/][img]https://i.imgur.com/kEpsFH0.png[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/2433508884706665519/64C8783BE74D99206619D3DFA14CF2203D3BDEB3/"
+  },
+  "1193656371": {
+    "title": "Glory LR300",
+    "description": "[url=http://steamcommunity.com/id/madroce/myworkshopfiles/] [img]https://i.imgur.com/Ov9u3lt.png[/img] [/url]\r\nspecial thanks to stabby for the logo \r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/871871416864710814/88CEC78454841DFF4727E8743F5999B4FD61AA22/"
+  },
+  "1568184421": {
+    "title": "BullDozer LR300",
+    "description": "[url=http://steamcommunity.com/id/criticalerroralgorithm/myworkshopfiles/][img]https://i.imgur.com/F72AAeK.gif[/img]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/952970256809147649/66C8E515921AD1EE79E606AA021D1303C382842E/"
+  },
+  "1709536424": {
+    "title": "Hell's Dogs LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/972123867400794354/F933CF19EB14031377327DF81AEFF1897E35C57B/"
+  },
+  "1360171844": {
+    "title": "Naval LR300",
+    "description": "[url=http://steamcommunity.com/id/madroce/myworkshopfiles] [img]https://i.imgur.com/pU1ApIZ.jpg[/img] [/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/2440264453840869429/D148CCE1CE33DD6D20B317317F9FF463C7DC9F98/"
+  },
+  "1181978352": {
+    "title": "LR300 Excavator",
+    "description": "A heavy lifting LR300 machine gun for tough jobs that need doin'. Bring out the Excavator, hold the trigger down, and let 'er rip.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/851604291018363122/6DDD86575B51F2EC2C99492DF0B83DCF405359E5/"
+  },
+  "1679383938": {
+    "title": "Gambler LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/1001394355820376253/D93AAD743EBE109D6DF96196893374372C2A3218/"
+  },
+  "1225485092": {
+    "title": "Deathcore",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/892140715977682217/08D1B3183E952BCE04B7252DD15920FA2BA024E5/"
+  },
+  "1680451605": {
+    "title": "Brotherhood (LR300)",
+    "description": "[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1651938777]\r\n[img]https://i.imgur.com/JoSjk6l.png[/img] [/url]\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1644415525]\r\n[img]https://i.imgur.com/dJrBYat.png[/img] [/url]\r\n[url=htt",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/989010373844815987/C2C2A454F7E23E2B1D0080B82B3CF292F1FEA8CC/"
+  },
+  "1643286706": {
+    "title": "Deadly Vanilla",
+    "description": "A few words about this skin",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/956355192922225255/6CBC47B59B281CAE491C4E2D3A201D2E6D3DC1E3/"
+  },
+  "1180965952": {
+    "title": "LR300 Coil",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/874122289160628407/2B16E1BBC8EE1918230F7CB404DA16EFBBD477EF/"
+  },
+  "1632697003": {
+    "title": "LR300 - Crimson Life",
+    "description": "if you enjoy the skin feel free to upvote / favourite to see it in game :)\r\n\r\n\r\nwent for a  Simplistic  crimson industrial feel ",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/958606004762151604/81501989AAD4FE990C656132D69ED3354BE9000E/"
+  },
+  "1573430185": {
+    "title": "LR300 - Marine",
+    "description": "***SIGHT DOES NOT GLOW***\r\n\r\nPURCHASE ---> https://store.steampowered.com/itemstore/252490/detail/30204/\r\n\r\nIf you enjoy the skin make sure to upvote and favourite it helps out alot :D\r\n\r\nVersion 2 is out for it \r\nVersion 2 Changes\r\n- Textures Improved Res",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/960852094527178368/ED718EFE510C21623C67A3A0564E7EC64276D32E/"
+  },
+  "1700513274": {
+    "title": "CAUTION LR300",
+    "description": "Skin does not glow\r\n\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1700515047][img]https://steamuserimages-a.akamaihd.net/ugc/918079736735577387/55F9F926A2D327B55AB9565820E269F21332FA91/[/img][/url]\r\n\r\n\r\n[url=https://steamcommunity.com/share",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/918079736735564381/5CC6A98892BA5368EA168A76BEAA144C25F512A7/"
+  },
+  "1220235367": {
+    "title": "Zone LR-300",
+    "description": "[url=http://steamcommunity.com/id/kekegod1/myworkshopfiles/][img]https://i.imgur.com/S5ElUQD.png[/img][/url]\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/874125736124732334/33A229F58D8BD0FE3C233DB978F69D76BFF73A2C/"
+  },
+  "1199614699": {
+    "title": "Fanatic Eagle",
+    "description": "[url=http://steamcommunity.com/groups/freddy_designs][img]https://i.imgur.com/wXH8Brw.png[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/857235480390871743/6FC508A14E7C7A3F7A998668D3F08021021F8D84/"
+  },
+  "1178779087": {
+    "title": "Insidious",
+    "description": "[url=http://steamcommunity.com/id/madroce/myworkshopfiles/] [img]http://i.epvpimg.com/CJUQdab.png[/img] [/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/875247991184632675/0E685B9CCE7C0DE9CB312381FA5EA2B35D9F1124/"
+  },
+  "1356731716": {
+    "title": "Urban LR300 V2",
+    "description": "[h1]Fixed version: https://steamcommunity.com/sharedfiles/filedetails/?id=1358218617\r\n\r\n\r\n[url=http://steamcommunity.com/id/kekegod1/myworkshopfiles/][img]https://i.imgur.com/kEpsFH0.png[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/924802734829908803/483B36E0D7B8AE293D520937CAF9B36627CFAE85/"
+  },
+  "1539380047": {
+    "title": "Trick or Trick",
+    "description": "#Halloween 2018\r\n[img]https://i.imgur.com/JU3mtWt.png[/img]\r\n\r\n_\r\n[url=http://steamcommunity.com/id/Krovv/myworkshopfiles/?appid=252490&p=1&numperpage=30][IMG]http://i.imgur.com/4CVSNoJ.png[/IMG][/url]\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/946211942854867926/3D2D0CC91DEF1D244AE0FB7CC68137C9A9BE2F13/"
+  },
+  "1174047768": {
+    "title": "InkLine LR",
+    "description": "[url=http://steamcommunity.com/id/zufick/myworkshopfiles/?appid=252490][img]http://i.imgur.com/KJJ1IKJ.png[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/879751236392487380/E9C3C76ACABC7CE844E6B23119670255A33742AF/"
+  },
+  "1178773398": {
+    "title": "Frostfire LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/875247991184297210/96B542AB4CD90CEE7E3EE50F6A0F364CCF41E460/"
+  },
+  "1700177871": {
+    "title": "Holographic | LR300",
+    "description": "[b]It reflects a different color depending on the light source position and also your position![/b]\r\n[IMG]https://media.giphy.com/media/7TnwDP39CNJXdF24pt/giphy.gif[/IMG]\r\n[IMG]https://media.giphy.com/media/8cAXu0YKnsajUR7FWi/giphy.gif[/IMG]\r\n[IMG]https://",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/919205585106290877/A5C0BD052DB664278FDFEA6E8EBED707D4CC0DBE/"
+  },
+  "1702963173": {
+    "title": "Project Shield",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/957486443999559519/D1472B5B535F84842922C254BA65AF800CF1A3AE/"
+  },
+  "1622164908": {
+    "title": "Vanguard LR",
+    "description": "it does not glow in any way\r\n[url=http://steamcommunity.com/id/madroce/myworkshopfiles] [img]https://i.imgur.com/pU1ApIZ.jpg[/img] [/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/959730821853757061/51F24F858B9CE0784E6F871A701D2C654A3261ED/"
+  },
+  "1673072719": {
+    "title": "Gambler LR300",
+    "description": "No Part on this weapon glows in the dark",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/1007023210969679344/A0AC6CA827186DCE0FA14D2DF1C71F509090D429/"
+  },
+  "1180733157": {
+    "title": "LR 300 | Power Core",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/857235787203844787/4CE2171799D78DB396CAFC6C480EAE8F72BF4935/"
+  },
+  "1637249199": {
+    "title": "Infected LR300 v2",
+    "description": "[H1]ANOTHER VERSION OF THIS SKIN[/H1] 🡻 🡻 🡻 🡻 🡻 🡻 🡻 🡻 🡻 🡻 🡻 🡻 🡻\r\n\r\n[URL=https://steamcommunity.com/sharedfiles/filedetails/?id=1636888812][IMG]https://i.imgur.com/fYkLlIQ.jpg[/IMG][/URL]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/938340172302394411/FEE5D0DD6FE1387F87010E17A911D1E3205AB132/"
+  },
+  "1653110058": {
+    "title": "Dragon's Spit | LR300",
+    "description": "[IMG]https://i.imgur.com/apiWEES.jpg[/IMG]\r\n[url=http://steamcommunity.com/id/MilhoFrito/myworkshopfiles/?appid=252490][img]https://i.imgur.com/ayqh7Qk.png[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/947348594931242463/82645650E7140FF5F056AB63FC7CA77C6815A6E6/"
+  },
+  "1602431983": {
+    "title": "IGUANA",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/954099759494891111/A9BA993EDFA408E6AFF75D33DCA486EC40844A64/"
+  },
+  "1581185292": {
+    "title": "Captain Sinker | LR300 V2",
+    "description": "[img]https://media.giphy.com/media/2zoIhS4FDj4It7dmqq/giphy.gif[/img]\r\nV2 changes:\r\n- Different color\r\n- Better dirt/scratch textures\r\n- Improved overall quality\r\n- Color vibrancy (it was kinda washed out)\r\n- Higher resolution bake\r\n[url=http://steamcommun",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/951845959930090075/858F1A4817536EA02EF4991F337834BE811C68B4/"
+  },
+  "1199820935": {
+    "title": "Captain Sinker | LR300",
+    "description": "[url=http://steamcommunity.com/sharedfiles/filedetails/?id=1199815570][img]https://i.imgur.com/gHp2evI.jpg[/img][/url]\r\n[url=http://steamcommunity.com/id/MilhoFrito/myworkshopfiles/?appid=252490][img]https://i.imgur.com/vTDAQU3.png[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/865116693757303650/6720699021FBF082329C0CD188B72F8E9541989A/"
+  },
+  "1228605511": {
+    "title": "Deathcore V.3 (Edited for rust)",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/892140961022156949/CCBB6E86B216FD3637122E018E12C3E1E193EF44/"
+  },
+  "1733787663": {
+    "title": "Elegant LR300",
+    "description": "Just look at this in game or workshop :) ",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/804367063059715009/AE5F0466D2A82DC7C5A60E8ADA27A69937198E7B/"
+  },
+  "1672297693": {
+    "title": "Tough Love LR300 (WITH GLOW)",
+    "description": "Tough Love LR300 with emession!\r\n\r\nRate and share with friends if you like it! :)\r\n----------------------------------------------------------------------------------------------------------------------------------\r\n[h1]Follow my workshop![/h1]\r\n[url=https:",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/991260674616519555/9B54F8290EA3229FFF39B8961848DF8B5EB4E120/"
+  },
+  "1189679797": {
+    "title": "LR300 Mechanic",
+    "description": "\"A fine tuned automatic killin' machine\r\nwith a jet black clip and hit man mean\"\r\n\r\n--Apologies to Rihanna, Shut up and Drive",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/851604923252336520/2B19DFED17C3CE515D29D3917E671B0101E577B2/"
+  },
+  "1726653334": {
+    "title": "Snakebite LR300",
+    "description": "Accepted Snakebite SAR\r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1298949573",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/832513667001484439/76D533AF65720F985B6D733459366DE9116DF37D/"
+  },
+  "1648709935": {
+    "title": "二西莫夫lr300",
+    "description": "二西莫夫lr300",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/943970729011705172/87EE2A9BF4600AF3EEDE386B20ED458E66C3F391/"
+  },
+  "1476251597": {
+    "title": "Feel the Fear LR300 [GLOW]",
+    "description": "[url=https://steamcommunity.com/id/retr0f1t/myworkshopfiles/][img]https://i.imgur.com/XfDJWaG.gif[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/954087182954018974/4D48E0E338639660EB80A87CD2BD62B3329D4E7E/"
+  },
+  "1174948275": {
+    "title": "LR300 | Carbon & Plastic",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/854981439924255325/E73A17B83D8148541F4A633E73300FCB1CE8E88F/"
+  },
+  "1698583891": {
+    "title": "Imperial LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/928212412452431215/B4EF0D0ED4A46958E57F2D22EA725F416E0DED39/"
+  },
+  "1372268883": {
+    "title": "Virid Curves",
+    "description": "[url=http://steamcommunity.com/id/zufick/myworkshopfiles/?appid=252490][img]http://i.imgur.com/KJJ1IKJ.png[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/936063271545484787/CBFF6F858F2277232D08795AD3F837678EE87B63/"
+  },
+  "1633189520": {
+    "title": "Psycho LR",
+    "description": "it does not glow in any way\r\nInspired by my Insidous skin from 1 year ago\r\n[url=http://steamcommunity.com/id/madroce/myworkshopfiles] [img]https://i.imgur.com/pU1ApIZ.jpg[/img] [/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/958606004764976878/DDB7C6E46694EBA8697AB4FED2DA4C067AF7043E/"
+  },
+  "1618050758": {
+    "title": "LR  Cyber Predator",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/958604536941361994/634728729C5BE0307BBE7BA558E597168F9B7D55/"
+  },
+  "1195593719": {
+    "title": "Fearless LR300 V3",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/874123562599493465/87E9B8F2B3D82B6AF0DE9FB1DC2AF23104758EF3/"
+  },
+  "1476241768": {
+    "title": "Feel the Fear LR300",
+    "description": "[url=https://steamcommunity.com/id/retr0f1t/myworkshopfiles/][img]https://i.imgur.com/XfDJWaG.gif[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/954087182953988983/E60676332528DB296644C073211075DCA42A9ED1/"
+  },
+  "1700183081": {
+    "title": "Holographic | LR300 (Stockless)",
+    "description": "[b]It reflects a different color depending on the light source position and also your position![/b]\r\n[IMG]https://media.giphy.com/media/7TnwDP39CNJXdF24pt/giphy.gif[/IMG]\r\n[IMG]https://media.giphy.com/media/8cAXu0YKnsajUR7FWi/giphy.gif[/IMG]\r\n[IMG]https://",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/919205585106317180/BD4670312CA306AEED6D3708C26F0C529AD468B9/"
+  },
+  "1681449404": {
+    "title": "ZOMBIE KILLER",
+    "description": "[url=https://steamcommunity.com/profiles/76561198082431590/myworkshopfiles/?appid=730]\r\n[img]https://i.imgur.com/x04cjdF.png[/img]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/993513340528535596/C551E1F02A6AD4ACE9C0902041EBEB4C9E1D4070/"
+  },
+  "1424678622": {
+    "title": "VECTOR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/954083319070575906/E15D297E12839D5392B197AC0D9F583D0D329CEB/"
+  },
+  "1252695362": {
+    "title": "Bloody LR-300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/921416245068231020/C409C9D6F5DD3C8AAC9935922BEFDACFDBDE9139/"
+  },
+  "1538940842": {
+    "title": "Witch!",
+    "description": "#Halloween 2018\r\n[url=http://steamcommunity.com/groups/freddy_designs][img]https://i.imgur.com/wXH8Brw.png[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/941708349847322669/BCBF79A03CFCE4E9DE0E0F6869EF45E5E5B3D5C5/"
+  },
+  "1185992213": {
+    "title": "Hunter LR300",
+    "description": "[url=http://steamcommunity.com/id/madroce/myworkshopfiles/] [img]http://i.epvpimg.com/CJUQdab.png[/img] [/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/871870835767309373/38C757DAD2E1208B9E734DC724A7B371382E1F94/"
+  },
+  "1759851020": {
+    "title": "LR300 Urban Fighter",
+    "description": "[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1755355404][img]https://i.imgur.com/1fR1DgR.jpg[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/800991879185656642/148355E03C6EAD2A7506065AC20BA9C28B6C90DE/"
+  },
+  "1299071092": {
+    "title": "Urban LR300",
+    "description": "[url=http://steamcommunity.com/id/kekegod1/myworkshopfiles/][img]https://i.imgur.com/S5ElUQD.png[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/932679025731072296/F68602B15068E5506F80D5A4406105DDE2440BB0/"
+  },
+  "1213281807": {
+    "title": "Junkyard | LR300",
+    "description": "A LR300 I made with scraps from the newest and rustiest place in Rust.. the Junkyard!\r\n\r\n[url=http://steamcommunity.com/id/MilhoFrito/myworkshopfiles/?appid=252490][img]https://i.imgur.com/vTDAQU3.png[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/871873319173245637/E862691318731895285D2DF663ED0BB6A2CBBA80/"
+  },
+  "1571661805": {
+    "title": "Aurora Borealis LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/947341295639504463/D8CD9151237E0E63F044CED8D3FA99E9C01C4349/"
+  },
+  "1759872007": {
+    "title": "LR300 Urban Fighter V.2",
+    "description": "[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1755355404][img]https://i.imgur.com/1fR1DgR.jpg[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/800991879185774317/FC038B145FCAFDFE1C5F2C0EEB22B2A6004194AF/"
+  },
+  "1656199578": {
+    "title": "LR300 Graffiti",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/945097211117739317/C7A095B47B2279A5B7966FA8FFCDE2AD5BFD0C97/"
+  },
+  "1721094062": {
+    "title": "Hot Racer",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/823506058665628155/417CCE4D3B92AF9AD0E4D5DF3ABAA0327F12601B/"
+  },
+  "1696490685": {
+    "title": "Neon Chaos | LR300",
+    "description": "[b]This idea arose in my head after passing of the well-known game about hackers of Watch Dogs 2.\r\nNegligent covering of acid shades in style street art and addition with rusty steel \r\nwhat can be better =)? \r\nThanks to all for viewing and for support.[/b]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/913575713666039620/415D4EF53BAD407B38EDE61C881CA81EC08AF6A8/"
+  },
+  "1205605152": {
+    "title": "Poison Fang",
+    "description": "[url=http://steamcommunity.com/id/MDemon/myworkshopfiles/][img]http://i.imgur.com/UezOZPP.jpg[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/858361973915545014/9C3D3F5F08D92AB9A6B2CC8E3E13B7449053DF9C/"
+  },
+  "1686816772": {
+    "title": "Pathfinder LR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/1008150427567034229/99DEA0AB33457DCBF232996E12BE8C6E13206F64/"
+  },
+  "1194425830": {
+    "title": "Black Hawk LR-300",
+    "description": "[URL=http://steamcommunity.com/profiles/76561197968300719/myworkshopfiles/][img]http://i.imgur.com/pooFJgd.jpg[/img]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/858360646841787821/6E4EA1753040BBBF19F938C65C92AEEE2C02ADE0/"
+  },
+  "1666002906": {
+    "title": "Pathfinder LR300",
+    "description": "Neither the Gun nor the Sight glow in any way\r\n\r\nInspired by the Star Wars the Old Republic cinematics",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/969867816655916577/DCA0B9EDDFC2508B2E5FA36564C927F6BF6BE603/"
+  },
+  "1179111109": {
+    "title": "Glowing LR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/866240755065645377/DB47255DF3A53BBE3C99EC08316136A2F5FC6B4F/"
+  },
+  "1682191556": {
+    "title": "Oil Rig - LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/994639315293498795/65778715750F173265D0AD1F7F2559E7D7B17A3E/"
+  },
+  "1276592946": {
+    "title": "Antique LR300",
+    "description": "\r\n[url=http://steamcommunity.com/id/zufick/myworkshopfiles/?appid=252490][img]http://i.imgur.com/KJJ1IKJ.png[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/943935949951511754/4011EC3A71EB08F5B82C9E5BFCD7E23DC63EEC6D/"
+  },
+  "1592681617": {
+    "title": "Arctic LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/958602614516346033/396C6A3F83CBA346246738D225FE3A91AA740569/"
+  },
+  "1174638206": {
+    "title": "LR300 | Woodland Camo",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/854981439922827902/868A44C3ECBA990E4EB40089E89181EBDD5939DD/"
+  },
+  "1692921134": {
+    "title": "The power of the beast",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/1008150966045327350/6DCF60C478310541AEBB560225BA2A9A9DA8F54B/"
+  },
+  "1173620196": {
+    "title": "LR300 | Desert Camo [DIGITAL]",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/854981439918170150/8ECB74CECE08E55295EAA2768EF55C7D5226EA40/"
+  },
+  "1637164738": {
+    "title": "Street King LR",
+    "description": "it does not glow in any way\r\n[url=http://steamcommunity.com/id/madroce/myworkshopfiles] [img]https://i.imgur.com/pU1ApIZ.jpg[/img] [/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/958606303352203252/24F8FA4B1F299539500FDBC123A5A3D6CF13125B/"
+  },
+  "1278204282": {
+    "title": "If it aint broke don't fix it",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/941684364686742575/ACB8E5DFC32FA823D21E7D61F2C993126260E9E0/"
+  },
+  "1693415002": {
+    "title": "Digital Camo | LR300 (Stockless)",
+    "description": "[url=http://steamcommunity.com/id/MilhoFrito/myworkshopfiles/?appid=252490][img]https://i.imgur.com/ayqh7Qk.png[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/998017978607747741/F0BCE066622E4CEA5D5E0F4DF52FF0CE05DD7A0A/"
+  },
+  "1621242896": {
+    "title": "Urban Ourcry LR300 v.2",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/959730821850087498/9B803989571A7F0BD7DAB6B0103ECD6895CEAA18/"
+  },
+  "1711856422": {
+    "title": "Speed Demon LR300",
+    "description": "[url=https://steamcommunity.com/id/rafear97/myworkshopfiles/][img]https://i.imgur.com/btAzZxK.gif[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/952983568050894339/B8C75E7A66C819B01450A72A8DD6DC11AEF3FA39/"
+  },
+  "1184274052": {
+    "title": "Blue Stalker LR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/853856383484271734/1B02CD80254E0D9ADE823B9332546AF86494CBBD/"
+  },
+  "1617359449": {
+    "title": "Urban Outcry LR300",
+    "description": "Sights do not glow \r\nif you enjoy the skin feel free to upvote / favourite to see it in game :)",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/959730415480171203/60D2AB5D616889427C7DDD4D88F86897314ACAF4/"
+  },
+  "1182701573": {
+    "title": "Patriotic LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/852730190925625025/9BBCC8C736D111FF086A0B307C0EE2EB2E7F5C90/"
+  },
+  "1622526713": {
+    "title": "LR300 Nuclear War",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/961982620891954882/C17E09A294A933B19EBD9B2D61D1B90145BC8714/"
+  },
+  "1599417654": {
+    "title": "Christmas",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/963106730281275637/8E04A440672BC07317C9B93F8A8C9D5FFAD5574D/"
+  },
+  "1561144845": {
+    "title": "LR300 Kaunan",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/977739325626828984/D6ACC1B4F3D9494932D043BB1FB491749696B60F/"
+  },
+  "1173489954": {
+    "title": "LR300 | Digital Camo",
+    "description": "#LR300 #Digital #Camo #Forest #Green",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/854981439917434230/47CDCE18B51B324C6A4AB4530C1AAB93C3193F15/"
+  },
+  "1561143020": {
+    "title": "LR300 WiCKED",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/977739325626817757/9D405098CE48CA20DEA8401E1B3A1EB5B225544E/"
+  },
+  "1581037236": {
+    "title": "KTS LR300",
+    "description": "Kill To Survive\r\n[img]https://i.imgur.com/Uv2eDTH.png[/img]\r\n_\r\n[url=http://steamcommunity.com/id/Krovv/myworkshopfiles/?appid=252490&p=1&numperpage=30][IMG]http://i.imgur.com/4CVSNoJ.png[/IMG][/url]\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/948468243583592301/97E81876A4B460A083AEC8CB7C331DDD2AFF427A/"
+  },
+  "1205076208": {
+    "title": "Wanderer",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/875250185918066440/959A92BDAB44DB31ACECCE5AECAF8303AA3C5BEE/"
+  },
+  "1616296163": {
+    "title": "Hypnowarp LR",
+    "description": "[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1617553801][img]https://steamuserimages-a.akamaihd.net/ugc/964233781994053405/629CAABC3F9FCBA04427694994413BA922E72B0E/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true[",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/964233781988848791/0EC6E592DAD337468A0AD6BF8CBAC0AB7EA60602/"
+  },
+  "1759547231": {
+    "title": "LR300 - Rustfire 3000",
+    "description": "No Glowing parts in anyway :) \r\n\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/799865528699152647/D68FA9344D0AAAF3D90FD79889DC3545667EBFE5/"
+  },
+  "1759412791": {
+    "title": "Sport Rifle",
+    "description": "costume addition",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/795361929066968428/6535FD452924C3BFD1389212A445CE76F5DD8EA2/"
+  },
+  "1604617677": {
+    "title": "CAMO BGN LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/955225924146418920/769D35E030E91B0EA6D58E79D82AB0629C1184D1/"
+  },
+  "1595827050": {
+    "title": "Santas Lil Helper",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/958602832015910293/B0872B4FF760E2BA6DC488264D8D04703548D227/"
+  },
+  "1740269772": {
+    "title": "Spitfire LR300",
+    "description": "\r\n[url=http://steamcommunity.com/id/criticalerroralgorithm/myworkshopfiles/][img]https://i.imgur.com/F72AAeK.gif[/img]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/802116058287795269/ABF8BC223E493B291AABDFC859860D3416C2B777/"
+  },
+  "1608909582": {
+    "title": "Atheist LR300 Camo",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/943967042663003642/30B06F079BAF314C0F2427ED4289DFE57A672F27/"
+  },
+  "1195414656": {
+    "title": "Fearless LR300  V2",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/874123562599408821/0BEEB85D68CE179D3F8A6C608EB315C77B93363C/"
+  },
+  "1709749394": {
+    "title": "Infection",
+    "description": "Thanks for support guys ) ",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/956361268630317633/091ED1B71BF92CCFDB48993BF890F20CB1812B31/"
+  },
+  "1574236780": {
+    "title": "LR300 Daedalus",
+    "description": "[i]“Man armed with science is like a baby with a box of matches.” [/i]\r\n[url=https://steamcommunity.com/id/anubisdark/myworkshopfiles/?appid=252490][img]https://i.imgur.com/E3L3oED.gif[/img][/url]\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/947341295650550338/5AAAA8A2B8B2FE9F14E01D3F182636B8D90F2B4E/"
+  },
+  "1636888812": {
+    "title": "Infected LR300",
+    "description": "[H1]ANOTHER VERSION OF THIS SKIN[/H1] 🡻 🡻 🡻 🡻 🡻 🡻 🡻 🡻 🡻 🡻 🡻 🡻 🡻\r\n\r\n[URL=https://steamcommunity.com/sharedfiles/filedetails/?id=1637249199][IMG]https://i.imgur.com/z1VbrPi.jpg[/IMG][/URL]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/938340172301191021/4502AB91F71CA7B13361DF416AFBA2737EA91280/"
+  },
+  "1724696650": {
+    "title": "Hight Voltage",
+    "description": "[url=https://steamcommunity.com/profiles/76561198082431590/myworkshopfiles/?appid=730]\r\n[img]https://steamuserimages-a.akamaihd.net/ugc/793108063923950709/A3B6C7BB69279F79456E56F062D6E1393E2D860F/[/img]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/821254455052747546/05726CCD2713E7B3FFCB87B1AD0E764C3FB6216D/"
+  },
+  "1206150856": {
+    "title": "LR300 | Patriot",
+    "description": "[url=http://steamcommunity.com/id/_Sir/myworkshopfiles/][img]http://i.imgur.com/UksxLIL.jpg[/img][/url]\r\n\r\n[url=http://steamcommunity.com/id/satchGFX/myworkshopfiles/][img]https://i.imgur.com/VskxsMK.jpg[/img][/url]\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/870746912111940577/1EF737E93D49F4BFA20ACB3954F005E727F1AE6C/"
+  },
+  "1510098633": {
+    "title": "Electro",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/958593955200809884/E3C7EACDB6196C7D9D87216162719C12A43B1409/"
+  },
+  "1253715604": {
+    "title": "bluedream",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/916912726565274295/D7D4412C30B6A0B8FD6E0976E73FEBAB98A757AE/"
+  },
+  "1667404857": {
+    "title": "Solar Corona - LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/948476013399118861/CE4044C9CA716E00B4185B828B04A5B1ED7C8DC9/"
+  },
+  "1202021220": {
+    "title": "LR300 - Bomber",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/857235601761899858/564415A467D44A3EEE9AC6407E703F0082D8041E/"
+  },
+  "1286002229": {
+    "title": "Stay Away LR300",
+    "description": "Fully skinned LR300.\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/939433237592841020/3BFC9367A47F05E03D9046E010E708B555C3A6CE/"
+  },
+  "1745643265": {
+    "title": "Leopard LR300",
+    "description": "[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1746711503]>>> ANOTHER VERSION <<<[/url]\r\n\r\n[url=https://steamcommunity.com/id/hatsondesignoff/myworkshopfiles/?appid=252490&sort=score&browsefilter=myfiles&view=imagewall][img]https://i.imgur.com",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/787479461924463466/C2DDFF5C22A55091299B9B2A9A9F368FA6A2C3CC/"
+  },
+  "1693010400": {
+    "title": "Templar's LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/986758574033343508/05A69FA85BEC7E69BCB90FAFACCF0BACF35E7026/"
+  },
+  "1257706043": {
+    "title": "LR300 Red Storm",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/920290553159357114/875FD5415AA2E5E971C5E5B60737F432E84E9C6E/"
+  },
+  "1684332834": {
+    "title": "ColdRain LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/994639315304386008/5E6C1B9E0CA689E5670B26F2FAB76644EEA5B083/"
+  },
+  "1578568628": {
+    "title": "Hot Metal LR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/950719629676227887/83F36CD48EFD07CBC1AF94F52E366132FCF5C77A/"
+  },
+  "1727086366": {
+    "title": "LR300 LAB R-A-T (Stockless)",
+    "description": "- glowing sight: No\r\n- stockless: Yes\r\n\r\nCheck out the \"Deafult\" version: \r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1727084871\r\nCheck out the \"Glowing Sight\" version: \r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1727088038",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/840394753483168198/52B6A1B0AE880E38EFCF0D2BEFC974DD301C6673/"
+  },
+  "1619829778": {
+    "title": "blue skull m4",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/940590336274061275/A35117C234D5F1EDF2433A48D2A004BE610E5C11/"
+  },
+  "1702237911": {
+    "title": "The Last Frontier",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/957486443995627715/D68D5235F7B3D55E199121FCA611711A02E68B36/"
+  },
+  "1727084871": {
+    "title": "LR300 LAB R-A-T",
+    "description": "- glowing sight: No\r\n- stockless: No\r\n\r\nCheck out the \"Stockless\" version: \r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1727086366\r\nCheck out the \"Glowing Sight\" version: \r\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1727088038",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/840394753483161683/52B6A1B0AE880E38EFCF0D2BEFC974DD301C6673/"
+  },
+  "1199815930": {
+    "title": "LR300 | Racer",
+    "description": "[url=http://steamcommunity.com/id/_Sir/myworkshopfiles/][img]http://i.imgur.com/UksxLIL.jpg[/img][/url]\r\n\r\n[url=http://steamcommunity.com/id/satchGFX/myworkshopfiles/][img]https://i.imgur.com/VskxsMK.jpg[/img][/url]\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/867368527049286492/75CF440306E00B95A6D58966CC01FF81A12E8264/"
+  },
+  "1660211635": {
+    "title": "LR300 - Jungle Fighter",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/956356471981217393/7AB0206BC5D364A1CD42942409BC061716079889/"
+  },
+  "1176599007": {
+    "title": "Marauder V1",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/878625336494712643/83C7D82939322DDE344C38E474E44DA0688025A1/"
+  },
+  "1594287218": {
+    "title": "Spectrum LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/949595415284729006/A78289999C0CB4AA4DA2F6A9EB80AC8F1E0CCEBD/"
+  },
+  "1533192521": {
+    "title": "LR 300 Warband V2",
+    "description": "If you enjoy the skin make sure to upvote and favourite it helps out alot :D\r\n\r\n\r\n\r\nIf you wish to see my other skins please visit - http://steamcommunity.com/id/L7T/myworkshopfiles/",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/958596195992258646/25409CDC3512A46BFA83097F4D023B4C0E3E2E4D/"
+  },
+  "1527190620": {
+    "title": "LR300-S",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/963099157463140634/F75BA611E37D8A7384E3ABEE2959B08996208D90/"
+  },
+  "1594476508": {
+    "title": "Platinum LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/949595415285615183/9940E16089A76CFB6F02B7C5CBC70687611B174C/"
+  },
+  "1174709965": {
+    "title": "LR300 | Woodland Camo v.2",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/854981439923291396/B662D439EC6FBD394C2E7FD5AE25749F6802B6E7/"
+  },
+  "1405914426": {
+    "title": "Fern's lr",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/923682177683456502/107580AB2D8A68FDCDCFD8A980D722E3991FCC9D/"
+  },
+  "1271165777": {
+    "title": "Battle Worn And Ready",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/941683695166714789/DAD57D8A7BB2BE8C360AF61A1EF47FC19C53C7F7/"
+  },
+  "1611861273": {
+    "title": "RUSTANGEL LR300 <3",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/960855957563291086/AFEB7F28EDE1B5562229F3EC78C1F597D55BA8AC/"
+  },
+  "1207002252": {
+    "title": "Frostbite LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/876376433732746421/D8F0F4DFEC2BECA27D866236F7F33BB171789AD7/"
+  },
+  "1545843883": {
+    "title": "Glowing red",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/952967626530075206/24C7E6784CBFD2C75E7C833B22CDBA394F8EEFE4/"
+  },
+  "1610864337": {
+    "title": "LR300 Green",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/939463741322260026/3982B4F2E7C5E55B34C8888D390F437B2123ADBE/"
+  },
+  "1208742838": {
+    "title": "Restoration",
+    "description": "[img]https://i.imgur.com/saYj9dy.gif[/img]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/863992485500194108/0A504DDE3DF4500FB6671FEDB683B3805EA070AF/"
+  },
+  "1177613305": {
+    "title": "LR300 - Warband",
+    "description": "If you enjoy the skin make sure to upvote and favourite it helps out alot :D\r\n\r\nIf you wish to see my other skins please visit - http://steamcommunity.com/id/L7T/myworkshopfiles/\r\n\r\n- fixed the small silly mistake ;)",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/875247637264196410/9699D4FCC74CC5BA1B4AA72C0110913A2375C58D/"
+  },
+  "1708377115": {
+    "title": "The Last Shot",
+    "description": "RUST STYLE =)",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/956361178930866834/14E82D5741FB73EF080234FCC38C0773F3A0EB15/"
+  },
+  "1604924356": {
+    "title": "FireStorm",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/954099960201220893/42A6CAEC6706AA39DAEB76149F41B51FCB615779/"
+  },
+  "1631111691": {
+    "title": "Tactical LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/947346690650235906/5D399CBC74EC48213995F41708ECA7682E9B22C2/"
+  },
+  "1584607742": {
+    "title": "BloodDeamonSkin",
+    "description": "First attempt at a Gun Skin ",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/959727463728003405/1859D5461D9FE728B7DD09D0568EA889C979997E/"
+  },
+  "1707352890": {
+    "title": "Alligator",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/957486694781736356/76EFEDAD0F77650DDD304DAC5AC1AF3FA0B7EF90/"
+  },
+  "1594652735": {
+    "title": "Rusty Glow LR300",
+    "description": "Rusty colored LR300 with a red-orange glow at night.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/940588222909809541/76932D5156C6A1F1D75312DB8FF7DD2F3246CEB1/"
+  },
+  "1527208053": {
+    "title": "LR300-S BLOOD",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/963099157463196167/0095CDDF90895FA09DCFBA286F7A20E7D71DD483/"
+  },
+  "1734425906": {
+    "title": "Hippie Blaster LR |PINK|",
+    "description": "[url=https://steamcommunity.com/sharedfiles/filedetails/?source=Facepunch.Steamworks&id=1726140917/][img]https://i.imgur.com/LzJie2j.jpg[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/788604464485573419/2ED6C708F6135CFA7D4B569E05380A47867CAF52/"
+  },
+  "1680525366": {
+    "title": "LR300 - Skullcrusher V2",
+    "description": "No Glow \r\n\r\n\r\nIf you enjoy this skin feel free to upvote and fav :)",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/1001394475971911120/57EE676C5EEFAB62CBD6F2D8F173CE41552CB365/"
+  },
+  "1624722255": {
+    "title": "Future L300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/947346087272219744/ED934F7F84015C736481E0202D44859CC000C59B/"
+  },
+  "1658433431": {
+    "title": "Whiteout LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/942845410506907193/A4D71EC49D5CE410ACFEBC5DDBC9FC4BDACA4E10/"
+  },
+  "1651831075": {
+    "title": "lurka",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/954104002475865880/B8C93D06E27B8A682C97EF30C162597183657045/"
+  },
+  "1757860167": {
+    "title": "Ghost",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/799865528692147537/0AAEEEA7146FEF507838D4797C0545ED67E40291/"
+  },
+  "1644289869": {
+    "title": "bluetiger",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/954103393112273013/1C813CD1EC367A148FF4BADBFFE5361B4AD33BB6/"
+  },
+  "1722714493": {
+    "title": "Colorful LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/815624955513127440/28EB5EE640FD8CE07D59B5684ACC5797DC0298FA/"
+  },
+  "1746711503": {
+    "title": "Leopard LR300 v2",
+    "description": "[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1745643265]>>> ANOTHER VERSION <<<[/url]\r\n\r\n[url=https://steamcommunity.com/id/hatsondesignoff/myworkshopfiles/?appid=252490&sort=score&browsefilter=myfiles&view=imagewall][img]https://i.imgur.com",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/787479461928486136/C3201FC006686BEF099EC3987E7141031E42BA49/"
+  },
+  "1240225687": {
+    "title": "Samurai LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/919163362516730163/B85283C29AA2378DAA3268881942065DEC14E1FC/"
+  },
+  "1527236376": {
+    "title": "LR300-S BLUE STORM",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/963099157463295817/A5A42645B8F02115AC02CC656E6274F39E8FCB5D/"
+  },
+  "1578238779": {
+    "title": "Urban LR300",
+    "description": "Are you tired of getting hit in those close quarter encounters? Do you want to feel as if you blend into powerplant or launch site? Then pick up your standard issued Urban Combat LR300 today!",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/949593729767534764/76C108AAFC307A7E56F39AA55AA23A399B254582/"
+  },
+  "1546641109": {
+    "title": "Smashing LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/940583359436773360/65EBABB3F5435680B6B4ADE87B66E65F22425FD4/"
+  },
+  "1554060799": {
+    "title": "Red Camo",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/951843163528098786/F26E920713587837B421B300186261146129C6DA/"
+  },
+  "1594248295": {
+    "title": "LR300 Deep Space",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/957476714621881858/3E64D236E3513D3D6E68ACDEEB4769FFB8E47F76/"
+  },
+  "1209419298": {
+    "title": "LR300 Irradiated Beast",
+    "description": "This skin features the revised version of the Rad Beast with a new color scheme and more metal where the paint isn't.\r\n\r\n\r\nIf you like my skins consider:\r\n\r\n[url=http://steamcommunity.com/id/ThisTrontsStuffMan/myworkshopfiles/?appid=0&sort=score&browsefilt",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/860614032586601016/F78C9FD2F43DA5D968386A572F1D4EE84DE909CC/"
+  },
+  "1680471267": {
+    "title": "LR300 - Skullcrusher",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/1001394475971616071/8BCB9063F4283B3BB135EACE5829EC6B08784BFB/"
+  },
+  "1672327749": {
+    "title": "Ancient Royality",
+    "description": "This relic belongs to its majesty Bombur Dondarion.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/996890173628966489/F7B86A9E38D3D485B108A0F6C697D39D726E7B16/"
+  },
+  "1719798218": {
+    "title": "Camo pink LR",
+    "description": "https://steamcommunity.com/profiles/76561198429456418/myworkshopfiles/",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/819002019251069105/6913787FD0A89266EE6014D049628854D5F25AE3/"
+  },
+  "1396786876": {
+    "title": "Bubble shoot LR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/921429290897993093/A189B64A1215FF83A7FA6C2A37A7D40A96679857/"
+  },
+  "1667303275": {
+    "title": "Lancer - LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/948476013398531240/CDD943FE7FB5701D61370F3849A5A340960C8CDC/"
+  },
+  "1271115363": {
+    "title": "First Order",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/941683695166412184/CED20F9269906942EE068C56D401EBFA2BED8D0D/"
+  },
+  "1656236875": {
+    "title": "LR Uranium",
+    "description": "Nuke Look",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/934964112182779846/5EE7484AF61FBB8D62EDD469D06DC59327407DEA/"
+  },
+  "1734427622": {
+    "title": "Hippie Blaster LR |V2|",
+    "description": "-added smiley on the ironsight\r\n\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?source=Facepunch.Steamworks&id=1726140917/][img]https://i.imgur.com/LzJie2j.jpg[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/788604464485582935/30FB88765A4E911E63710D1FB9F3166CD02671C9/"
+  },
+  "1501479040": {
+    "title": "LR300 Pulse",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/946208197385111561/AA702BBC51843F5C04579E3E34E4A39B2779EA45/"
+  },
+  "1649110492": {
+    "title": "Bloody LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/938341111797617565/7E3DECE2E71ED58674AF95E66838EE36D9D60562/"
+  },
+  "1177303555": {
+    "title": "Lava LR300",
+    "description": "Just in case you're having trouble mowing down other survivors it now includes a GLOW IN THE DARK SIGHT that will be displayed only on your side to give you that edge and not let others see you!",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/866240755059078787/8C0F8F3C4F33D0C5A01B2779FAEA4C7065CFF82C/"
+  },
+  "1230563987": {
+    "title": "Hot Red",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/914659129627231434/4E9EE7C634B5A0804732748A746E6F79E45133DB/"
+  },
+  "1340137575": {
+    "title": "Navy Camo LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/931556501218147725/DB7FC4465CB9B6C21A6AEC01BF04386BE7D63450/"
+  },
+  "1623838779": {
+    "title": "Midnight Killer",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/948471821188415656/015D8CF0DBF73086F4032B58E0F2C07CE7F14626/"
+  },
+  "1472712069": {
+    "title": "War Machine",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/972101581447328896/79AC5B7AFB8ECF6C4EB4D07C81D42CB1B253C226/"
+  },
+  "1487234713": {
+    "title": "LR300 Colored",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/950710452461366223/412618BD472279AFA53A03DD2D74010259E27D32/"
+  },
+  "1642498504": {
+    "title": "LR Oil leak",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/950725412513023409/6F0F52BA49F8F0864A74B403DF0D788ED52E034C/"
+  },
+  "1651957569": {
+    "title": "LR300 CAMO ICE (JOKER)",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/955229988499184897/9B59BA3BBE6905ADCD4AB4461EAB3A27C9BCBC8E/"
+  },
+  "1552361000": {
+    "title": "Norway LR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/957472492311568824/2014CA6D7102D6E9A7B588630BC1E938FA6E24E5/"
+  },
+  "1179240283": {
+    "title": "metal",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/872996098200533655/58A2761D0AF6E8D1AD9C7A43C016A98FF2E50221/"
+  },
+  "1733344783": {
+    "title": "Hippie Blaster LR",
+    "description": "[url=https://steamcommunity.com/sharedfiles/filedetails/?source=Facepunch.Steamworks&id=1726140917/][img]https://i.imgur.com/LzJie2j.jpg[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/788603992023550070/30FB88765A4E911E63710D1FB9F3166CD02671C9/"
+  },
+  "1624195515": {
+    "title": "1",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/952975668499025606/EAC07568CCF02AD99C5EA89DCF1AF93469A92955/"
+  },
+  "1748484617": {
+    "title": "LR300 Custom",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/789731797478246622/DC7E6E586380A3E0EDEBB31BFB35C077A1E73AF8/"
+  },
+  "1179239678": {
+    "title": "lava",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/872996098200529201/7593DB6F77CE486E4535542EFC621366FDD7C04F/"
+  },
+  "1206913030": {
+    "title": "LR300 PRO",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/859487850039682016/7A00D745C47D3C4317FA27E4BB2BD818350758C6/"
+  },
+  "1513954517": {
+    "title": "Expert",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/958593955219540083/26194BC792D309AACFB8A9D6533701A0E6FAECDB/"
+  },
+  "1430848252": {
+    "title": "Toxik LR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/957461710327485284/BA51B817ACB9722284063D25408DBF6D4D3610A3/"
+  },
+  "1406244390": {
+    "title": "Pink Splotchy LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/919178578063543615/FE74D58CE3647EB36FFCA09046458CE39A654FCF/"
+  },
+  "1630236212": {
+    "title": "Old Souls Server LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/940591295027646588/5162068EC247277E86435A84E95DADCE61AF5FC0/"
+  },
+  "1628459901": {
+    "title": "LR300_black",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/957479470593133022/3C3306D78CE2006679259A394584E555C8599A51/"
+  },
+  "1185529408": {
+    "title": "Purple Power",
+    "description": "It may have been created in the deepest parts of the ocean. It may have been created in the vast wonders of space. One thing we know for certain...it made its way all the way to you!",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/876374509919608747/A743AD1DF5E0854FA964A37320B932DB6BD581E7/"
+  },
+  "1572363260": {
+    "title": "LR300Rusty",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/964229794244360588/A5C008A9B234066964DBA7852C1855F730BFC50A/"
+  },
+  "1549643648": {
+    "title": "Bokeh Kitteh",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/947338758892768254/33E0823B4EC546DB80C38F92B347A7DB39C2B433/"
+  },
+  "1579768325": {
+    "title": "Pinky acid LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/950719629681206749/EEA386620B495ED7B12D5A11628A693363F4CE5F/"
+  },
+  "1285913409": {
+    "title": "Burning man",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/921418643382014191/82129C79B94B4B208FF407BD4E585C7DE8F1883C/"
+  },
+  "1550456233": {
+    "title": "Neon LR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/945086959082845898/F99363C62FA72B1819AC9DF8F62F521FB20F1251/"
+  },
+  "1526069510": {
+    "title": "LR - Firebrand",
+    "description": "If you enjoy the skin make sure to upvote and favourite it helps out alot :D\r\n\r\n\r\n\r\nIf you wish to see my other skins please visit - http://steamcommunity.com/id/L7T/myworkshopfiles/",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/961973108177845666/E73C0F7F2F98F6BC06E77BA7DE84359DE5C093E5/"
+  },
+  "1432081812": {
+    "title": "Arctic Camo LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/945076811364547473/ED5E5D8D9B379E7EEA1FB6F85DFED423E12F2CA0/"
+  },
+  "1173228989": {
+    "title": "SAHARA COYOTE",
+    "description": "This is the ultimate realism Arabian Desert Como LR-300, meet The SAHAR COYOTE \r\n\r\n\r\n[url=http://steamcommunity.com/id/HEUREHMoor/myworkshopfiles/][img]http://i.imgur.com/EjOnQoI.png[/img][/url]\r\n\r\n\r\n Vote Yes !!!! and share iT !!!!\r\n\r\nFrom Arabian Themes ",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/951840457011249500/E4D0FFDFF4953354875472FB2D5BF2D198B79A47/"
+  },
+  "1723043683": {
+    "title": "OBS LR300 Winter Patch",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/834765253927267442/737991B5566469FC04ADBABFFFF59FBD33E73B3A/"
+  },
+  "1700212242": {
+    "title": "LR300 - Egg hunter",
+    "description": "#RustySpring2019\r\n\r\nMade for the upcoming rust contest had fun with the concept of this skin :) no glowing parts ",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/928212412458464817/16EDFB440FD2430CD75EE8F4EA8253A86AE2713D/"
+  },
+  "1672764136": {
+    "title": "Digital Camo LR-300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/998016068146625361/AC15D0BCBAA6F5FD4CF077290E95BB7DF06F9EBA/"
+  },
+  "1234311582": {
+    "title": "LR300 AbstractWood",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/914659492480369461/98B5D1F06C0E94CF45F69719BFE68F33249F9AAD/"
+  },
+  "1229942868": {
+    "title": "Blood Spatter LR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/871874762712166615/5E9AE7D395F5B14F840A65EAF7B1CCB1510A8FC6/"
+  },
+  "1638106128": {
+    "title": "pink",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/946221606021459708/F11AD09B636785E0203110FFAB8BAC6FC41495CC/"
+  },
+  "1756992968": {
+    "title": "LR300 Swith",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/793110129242813679/0CE4063A404CF48C4DB28D7EEC033A69587EC4BA/"
+  },
+  "1295201487": {
+    "title": "Star LR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/922545605119945120/C08F3D51AF3C095BF363D9D47244ADE1DF2D59BC/"
+  },
+  "1703910339": {
+    "title": "Sparkle LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/960864143724589367/73E864D873BD4FA31D83632026B5B3414D188F18/"
+  },
+  "1713726255": {
+    "title": "Spring Fling LR300",
+    "description": "Play with this and other great creations on TrumpLand Modded server. All items found in the workshop will be available in the server 172.96.160.179. Join Discord https://discord.gg/r3KpmbD",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/959739316709610226/FC2D6E2ED7A04F98F922E57A493EDE7BD0759C0A/"
+  },
+  "1186184136": {
+    "title": "LR300 - Blue Tiger Camo",
+    "description": "This camo is based off of one of the camos in Call of duty Modern Warefare 2 which used to be one of my all time old favorite games.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/875248544843372859/427367D362807118FA8516D1D9E7D220AEC2C5BF/"
+  },
+  "1193617707": {
+    "title": "Cosmic LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/860612455490407850/3304F5A09F307064144F0B3872ABC10F387A6188/"
+  },
+  "1180927748": {
+    "title": "Green Hex Camo LR-300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/866240989797742798/61F1693C41ADDFDDC7A29A61AF0D256F8F5F04E0/"
+  },
+  "1303479892": {
+    "title": "Seedprayer LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/941686516770245260/830479009C811C3A024769F2C63070A366257AD9/"
+  },
+  "1189925060": {
+    "title": "Hippie Lr300 V2",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/862863922329205150/C30B96C924E30FD42C9ACF7F0DE1B2F399503A56/"
+  },
+  "1179203911": {
+    "title": "Bushmaster",
+    "description": "Named after the deadly snake this gun is rugged and ready for any sort of guerilla warfare!\r\n\r\nTaking a peek at various jungle gear used back in the 40's and 50's I decided to take a crack at something a bit retro. This rifle takes inspiration from weapons",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/865114802563111286/52C0D7AE2593D465C48542798A627B33BD12C2C5/"
+  },
+  "1528385798": {
+    "title": "Clean And Improved LR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/966476706442255519/E57D40F3608C2FFE8FDDEFE92BE3645832082F5B/"
+  },
+  "1507573948": {
+    "title": "undercontroll",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/956341619435222338/5034510808451496CDE4E28472601B4C737B2B22/"
+  },
+  "1177715545": {
+    "title": "green goblin",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/863988952867400053/0D081708C9107ED05D0AED20851D60D2CAF3DB2E/"
+  },
+  "1175678598": {
+    "title": "LR300 The Passenger",
+    "description": "The Pilot of the Helicopter or the Bradley would need a buddy riding around with him...",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/868492236911977445/BE109126BAA349BB99C960A7BF7AAF70A3152260/"
+  },
+  "1271064935": {
+    "title": "Glow Red/blue",
+    "description": "LR300 Glow Red/blue\r\n\r\nCreated by NIPS aka Roman\r\n\r\nVisit us on our Server: 94.250.222.34:28015",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/920291580058047660/B142BC00316ABFAC8ECADE37694817AEB5484D05/"
+  },
+  "1231602466": {
+    "title": "skillszooom",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/913533315982238180/394CE9A2907005C7C615F84288ABF1E47F7881A9/"
+  },
+  "1637603347": {
+    "title": "Jungle Tiger LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/941717856575106188/52E599553C2E288F55CC7689AC34D5E5350C0373/"
+  },
+  "1234305289": {
+    "title": "LR300 PinkHeat",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/914659492480347153/1CAF59C8EE780D4CB33D0AEE5CF22F25BED8BAAB/"
+  },
+  "1176435282": {
+    "title": "LR300 Woodstock",
+    "description": "If you enjoy the skin make sure to upvote and favourite it helps out alot :D\r\n\r\nIf you wish to see my other skins please visit - http://steamcommunity.com/id/L7T/myworkshopfiles/",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/875247637260342613/F33790B5B31433BE09BEE1B82136D570DADBA9F2/"
+  },
+  "1507441893": {
+    "title": "LR300 Shock Wave",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/942830821893526780/0D49C6BF4EE9ECEBE8A7FD0BADBC5A30501A8A53/"
+  },
+  "1572378449": {
+    "title": "lr wooden toy",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/945089495830172354/DF8442DF9033355ABF6E7C9C445927445252D1FF/"
+  },
+  "1173434264": {
+    "title": "LR300 | Rad Beast",
+    "description": "This LR300 was had its bolt and main portion painted with a radioactive beast. It has wear and dirt on the textures.\r\n\r\n\r\nCheck out my other skins: http://steamcommunity.com/id/ThisTrontsStuffMan/myworkshopfiles/?p=1&numperpage=30\r\n\r\n\r\n#Saltyween2017 www.x",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/854981439917162016/46C66D09D29BA2ADF94C870511D239AA8253D6FE/"
+  },
+  "1201545937": {
+    "title": "LR300 Rad Beast r2",
+    "description": "This LR300 has had its bolt cover removed, had a flame pattern painted on and a Radioactive beast painted on top of the flame pattern.\r\n\r\nIf you like my skins consider:\r\n\r\n[url=http://steamcommunity.com/id/ThisTrontsStuffMan/myworkshopfiles/?appid=0&sort=s",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/857235601759592338/095DDBE5F8BB0DE39A3767BE7A40432948F9B3CA/"
+  },
+  "1188456989": {
+    "title": "camo",
+    "description": "vote for my skins",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/860612122496266073/4D60FEC7E6D9B3EAE8FB9A311382DDF995A037D3/"
+  },
+  "1342171241": {
+    "title": "Not Red",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/938312121403319566/AEFCFF558DACC9EB8878BE4DAB6587E22D211B93/"
+  },
+  "1497769324": {
+    "title": "LR SNOW",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/949585485086359010/1D7FC6D847139AA84CB17EC66C9BA70FFD08FB60/"
+  },
+  "1369830444": {
+    "title": "Desert Hound - LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/913545273386384772/55789013193BF28670F0E0F9A7D0540646DE1671/"
+  },
+  "1616516084": {
+    "title": "Camo",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/941715990347892588/CB0CBF1675748CDC147DBAB934E4F298B40C14EA/"
+  },
+  "1174053561": {
+    "title": "SAHARA COYOTE V2",
+    "description": "This is the ultimate realism Arabian Desert Como LR-300, meet The SAHAR COYOTE version 2\r\n\r\ncheck V1:http://steamcommunity.com/sharedfiles/filedetails/?id=1173228989\r\n\r\n[url=http://steamcommunity.com/id/HEUREHMoor/myworkshopfiles/][img]http://i.imgur.com/E",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/874125464625612660/29D992B5C6EBEC4216EF5BA219D74D9261DE1E9F/"
+  },
+  "1516206610": {
+    "title": "White hand",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/958594367141194337/72CA9AD9A8E1ACB156F8A8E3058B5623D7E026A3/"
+  },
+  "1554030792": {
+    "title": "orange digi",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/951843163528022867/A4EA6823B7D97DC5E27DBD1B5B071CF3521F587A/"
+  },
+  "1542512386": {
+    "title": "Camouflage LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/955219426327839217/16CB1D3FC2A3EC3566A2674F547128E067C1BD52/"
+  },
+  "1230174867": {
+    "title": "WINTER CAMOUFLAGE LR300C",
+    "description": "\r\nWINTER CAMOUFLAGE",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/913533229720751249/BE9FA1E652BCB6B308A71CE04CD7D466B9386F8E/"
+  },
+  "1176671179": {
+    "title": "Battle Tested Lr",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/868492236914928429/7089D95A11BEB73F5EB61DAE8B52863182852300/"
+  },
+  "1753913353": {
+    "title": "oil spill",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/799865425714108082/E3FAB276D7B9F7438656F38C4AC70274CCB15D96/"
+  },
+  "1310009277": {
+    "title": "LR300 Collored",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/931553965091168673/3F9404A20A171CA526F359D68550B1FE70A62989/"
+  },
+  "1264268675": {
+    "title": "MARPAT Camo LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/936053764498713963/465351E889909B31945D6E4F064C2F73B5F9E443/"
+  },
+  "1185787537": {
+    "title": "Black metal grill",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/872996817412268263/4E2814AC7933439B5FF70E7D31C74E3D0EDCCB6C/"
+  },
+  "1303734707": {
+    "title": "LR300 Starborn",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/941686516771180691/AD044ECBD1DBBAAC6BEAFE33CD06CE7ED87574F7/"
+  },
+  "1639736809": {
+    "title": "Dragon LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/940592240468013432/B3108C9904AD4C08F5038B0717D9EC9FFCCD4443/"
+  },
+  "1271018979": {
+    "title": "Verruckt Aluustraatz (LR300)",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/928172965698321381/16DD7C8A20096C9DA536D99561A81683DDA099A1/"
+  },
+  "1342362981": {
+    "title": "Wolf Chrome Red",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/913542421124898954/5D3827325D7BE625EF28515E39798BB0CA57854B/"
+  },
+  "1640180369": {
+    "title": "AnonymousCityServer LR300",
+    "description": "Server Name: Anonymous City [SOLO ONLY]TP[InstaSmelt]x5[BonusLoot]\r\nServer Ip/Port: 158.69.115.56:2071\r\n\r\nDiscord: https://discord.gg/5bWZNFY\r\n\r\nForum: https://anonymouscityservers.com/\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/960858511663368003/A00DFD9B8F77E8622030EF6697CDAD1F588751DA/"
+  },
+  "1301050478": {
+    "title": "Manual Forest Coloring",
+    "description": "English:\r\nThe usual standard forest coloring, but made in manual\r\nP.S This coloring was done by your character)\r\n\r\n\r\nРусский:\r\nОбычная стандартная лесная раскраска, но сделана в ручную \r\nP.S Эту раскраску сделал ваш персонаж)\r\n\r\n\r\nAll translated by an auto",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/942812330892155390/E572E6CB7E7DC01ADEF99371DB56466C3BD99942/"
+  },
+  "1225048130": {
+    "title": "Vibe vibe",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/875251999088118359/CA3C9B4CDE4E5497F21346EDA83FC87D87FF745A/"
+  },
+  "1625246651": {
+    "title": "Entrenched",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/952975668504295576/AAD4E87110477864AFD01438E58986AB32FFBEA8/"
+  },
+  "1338185240": {
+    "title": "Red Rebel",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/938311900656420994/D7EBA0466C0E53EFF6C7AF91E4F20B47DDEC67E9/"
+  },
+  "1584612642": {
+    "title": "cuteGunSkin001",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/959727463728020670/45673D5818467EEB92BF791A73137DFF5CC174B2/"
+  },
+  "1344948501": {
+    "title": "Plains Camo LR300",
+    "description": "Temporate climate camo LR300. Blends perfectly into bushes to become almost invisable.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/915794605624467034/8AFE09E10BFC459C7BAF96E711923C82F7078897/"
+  },
+  "1188455570": {
+    "title": "king",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/860612122496259153/A4BADE4CACD2FB85B107D22E86858365456F6D66/"
+  },
+  "1176364919": {
+    "title": "Commando",
+    "description": "Just a proof of concept piece for future tinkering. \r\n\r\nFeel free to use and adapt my Highpass image if you don't feel like weeding out the parts of the image that apply to the butt-stock and 1st person view model elements.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/858359367575294696/E1F2015E6555F0719DC4FA15BA44DBE4DE1DAF11/"
+  },
+  "1183850205": {
+    "title": "Lava Lad LR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/865115089902806564/09817159266851F2A7B5A6C9B1C3E22DA3E0E809/"
+  },
+  "1296395533": {
+    "title": "CN - Shattered LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/942811960698881639/A37702925A472F29DED3F19C937BB9E7D0B167B2/"
+  },
+  "1306154561": {
+    "title": "LR300 Mk1",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/928176053584905577/A9CFD573B04BA5BED9C0F344DD1BACA856BCB1CA/"
+  },
+  "1349810920": {
+    "title": "Static LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/936061078555579886/70B115C69DE43BCA89F43B4EB742817691E7CEB7/"
+  },
+  "1184683569": {
+    "title": "LR300 Kreatief",
+    "description": "This gun is suitable for art apparently.\r\n\r\nIt's also very suitable for Cheeki Breeki !\r\n\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/866241622022739418/DD954B4FEEC7E91023A162FB5FA0533F2990E76F/"
+  },
+  "1220878612": {
+    "title": "Digital LR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/869622325762397605/94BAF9FC6B035A3384190706BE4A783CA93A004C/"
+  },
+  "1229676478": {
+    "title": "Bubble Gun",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/871874762711172793/9350DFACA5AFAFD74B30117BF4B98EA645422997/"
+  },
+  "1642420358": {
+    "title": "LR300 Purple",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/950725412512737494/93DCECA2CF36E0DBA41D7E123FF33367770E6319/"
+  },
+  "1322178962": {
+    "title": "Yellow'n Red LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/931555098131478483/AE951FA0C99579C62C0E82AACC59AF08F155BC83/"
+  },
+  "1746442141": {
+    "title": "#root LR-300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/796486660385561613/B4BC4504F695CF9D42A11E57431DE5877A337F9B/"
+  },
+  "1556103638": {
+    "title": "Light Pink Camo LR",
+    "description": "Light Pink Camo LR",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/947339560637629505/E9D8E788FB5A0AAA2AF2698F0A4EB0DFABACD600/"
+  },
+  "1557561182": {
+    "title": "candy cane lr300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/963102163506455069/77B46E3F75E13611382B7D54613B259C86B464F0/"
+  },
+  "1178407902": {
+    "title": "Rustic Scratched LR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/866240755062900827/F2EC83EE25AA69791B798910786D5BC92AF88244/"
+  },
+  "1674123572": {
+    "title": "Galaxy LR-300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/998016068153794393/C37562F61212532AE637CE08DEDB2E0FE72C542F/"
+  },
+  "1186413415": {
+    "title": "Demon LR",
+    "description": "The Demon is feared and so will you be! The Demon LR300 is a weapon straight from the depths of hell and into your hands.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/876374509923211001/0128A2D1280936002B29B73EF5B0E31C3613AE5C/"
+  },
+  "1178407901": {
+    "title": "Rustic Scratched LR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/866240755062900447/F2EC83EE25AA69791B798910786D5BC92AF88244/"
+  },
+  "1577021063": {
+    "title": "Winter Camo Collections from the YO-YO BOIZ.",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/965356328448247512/A026453C91B36F8DBB4EC9A6DD7466A01850093F/"
+  },
+  "1185772734": {
+    "title": "Trash",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/854982393228610189/CFB4BFE6F71AB8CD388DD4A46F0973B415972F9D/"
+  },
+  "1175444626": {
+    "title": "Spectrum LR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/870744036724614208/42290EF6B4BC35D9523CE7614FA65A9A2DD97DB8/"
+  },
+  "1207869162": {
+    "title": "Glow Vf LR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/868495331927991426/267FC891349EE76B11309E482BD567EB4E63F0C7/"
+  },
+  "1602501625": {
+    "title": "invis lr",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/956351612195399976/CEE044D9B4BC45262DF94BEB4D1FB86632D1B69A/"
+  },
+  "1693284672": {
+    "title": "Desperado LR-300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/998017978607151095/878DB7DDF4DB0E18FF6F6766AA1C1914A694B4CF/"
+  },
+  "1358352037": {
+    "title": "LR300 - CAMO GORKA",
+    "description": "LR300 - CAMO GORKA",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/2419998085835121667/02D918E67758949FDED4017E84BC471AC75958AA/"
+  },
+  "1652530550": {
+    "title": "flailbasher lr-300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/941719098299142947/A96304A40FA6F341FA6636F577BF5B746A985DA5/"
+  },
+  "1185618853": {
+    "title": "Camouflage",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/860611893422620237/09CB67EA257CD185122D5E2E99A4EE8F1147EE78/"
+  },
+  "1329212492": {
+    "title": "camo white LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/923674458674266099/F827319857CC1F777492DBA5927D0F0F636F9947/"
+  },
+  "1319619876": {
+    "title": "Splatter LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/931554890098147988/17349A7E0A255197976FC2C314AD26B589C2CD3B/"
+  },
+  "1556641993": {
+    "title": "FireBall Lr300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/963102163501894393/866BE063EAD2FB7D5839E86F3C526250C348AA44/"
+  },
+  "1381148254": {
+    "title": "Irradied LR300",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/921427707930770551/46F53400E36909669148AC1FECE1F6A11592817B/"
+  }
+}

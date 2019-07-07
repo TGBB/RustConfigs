@@ -1,0 +1,9 @@
+{
+  "Welcome Message": "<size=17>Welcome to the <color=#0099CC>Server</color></size>\n--------------------------------------------\n<color=#0099CC>•</color> Type <color=#0099CC>/info</color> for all available commands\n<color=#0099CC>•</color> Read the server rules by typing <color=#0099CC>/info</color>\n<color=#0099CC>•</color> Thanks for joining. Please visit KODYGAMES.STORE",
+  "Join Message": "<color=#37BC61>✔</color> {0} <color=#37BC61>joined the server</color> from <color=#37BC61>{1}</color>",
+  "Join Message Unknown": "<color=#37BC61>✔</color> {0} <color=#37BC61>joined the server</color>",
+  "Leave Message": "<color=#FF4040>✘</color> {0} <color=#FF4040>Disconnected</color> ({1})",
+  "Join Message (Console)": "{0} joined the server from {1}",
+  "Join Message Unknown (Console)": "{0} joined the server",
+  "Leave Message (Console)": "{0} left the server ({1})"
+}

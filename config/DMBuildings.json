@@ -1,0 +1,26 @@
+{
+  "Building_Multipliers": {
+    "Arrow": 1.0,
+    "Bite": 1.0,
+    "Bleeding": 1.0,
+    "Blunt": 1.0,
+    "Bullet": 0.0,
+    "Cold": 1.0,
+    "ColdExposure": 1.0,
+    "Decay": 1.0,
+    "Drowned": 1.0,
+    "ElectricShock": 1.0,
+    "Explosion": 0.75,
+    "Fall": 1.0,
+    "Generic": 1.0,
+    "Heat": 1.0,
+    "Hunger": 1.0,
+    "Poison": 1.0,
+    "Radiation": 1.0,
+    "RadiationExposure": 0.8,
+    "Slash": 1.0,
+    "Stab": 1.0,
+    "Suicide": 1.0,
+    "Thirst": 1.0
+  }
+}

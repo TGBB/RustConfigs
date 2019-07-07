@@ -1,0 +1,25 @@
+{
+  "A. GUI Settings": {
+    "Background color": "0.1 0.1 0.1 0.75",
+    "Background sprite": "assets/content/ui/ui.background.gradient.psd"
+  },
+  "B. List": [
+    {
+      "Command": "help",
+      "Text": "<size=30><color=#FFFF00>COMMANDS!</color></size>\n\n\n<size=20> <color=#FFFFFF> All commands are being listed, if you want to know what it does visit our website! \n /home /buy /bandit /town /rules /kit /help /tpr /tpc /tpa /sc /terminal \n /skin buy /buy /recall /spawn /v /claim /rewardlist /pbreg DISCORD#0000 to register for raid alerts. \n /rt /remove /skin / \n\n\n\n\n\nEnd</color></size>"
+    },
+    {
+      "Command": "rules",
+      "Text": "<size=30><color=#FF0000>Rules!</color></size>\n\n\n <size=20><color=#FFFFFF>Any variation of the word 'Admin' or 'Moderator' in your name or clan name will result in a kick, \n if you fail to change your name you will be banned. \n This is not Fortnite... Do not build while being raided, if youre doing that im just going to call you a dipshit.. \n No god damn Racism or Homophobia, If you are racist in text chat, PMs, or voice chat you will be warned once.\n If you continue to be racist you will be banned. Any form of racism in your name is forbidden as well. \n No building in the map, No clipping turrets, No clipping under the map. \n MAX BASE SIZE IS 50x50, multiple bases are allowed. You must remove any raid bases after your raid is done. \n If you have any question or concerns please contact a Moderator or Admin</color> </size>"
+    },
+    {
+      "Command": "vip",
+      "Text": "<size=30><color=#FF0000>VIP</color></size>\n\n\n <size=20><color=#FFFFFF>As a VIP you get 10 homes, 160 Home tps, and a 5 second TP timer.\n You get 90 daily TPRs with 5 second count down.\n10 addition town teleports, with 5 second count down.\nYou get access to the Security Cameras, Remote Turrets, and all Vehicles free.\nYou also get large backpacks, 2 additional rows added to your backpack.\nYou get 5000 RP after each subscription, so every month..</color> </size>"
+    },
+    {
+      "Command": "shop",
+      "Text": "<size=30><color=#FF0000>SHOP!!</color></size>\n\n\n <size=20><color=#FFFFFF> Soo if youre looking for the in game shop its /s not /shop\n However if you wan VIP access you can go to shop.kodygames.store and purchase it there! RP does not wipe!!</color> </size>"
+    }
+  ],
+  "Name of entry that will show for first time": "rules"
+}

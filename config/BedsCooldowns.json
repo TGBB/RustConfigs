@@ -1,0 +1,19 @@
+{
+  "Permission - Params": {
+    "bedscooldowns.vip1": {
+      "Priority": 0,
+      "Sleeping bag cooldown": 65.0,
+      "Bed cooldown": 30.0
+    },
+    "bedscooldowns.vip2": {
+      "Priority": 2,
+      "Sleeping bag cooldown": 50.0,
+      "Bed cooldown": 30.0
+    },
+    "bedscooldowns.vip3": {
+      "Priority": 3,
+      "Sleeping bag cooldown": 0.0,
+      "Bed cooldown": 30.0
+    }
+  }
+}

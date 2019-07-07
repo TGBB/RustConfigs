@@ -1,0 +1,52 @@
+{
+  "box.wooden.large": {
+    "OrderButtonHeight": 0.028,
+    "OrderButtonWidth": 0.01,
+    "OrderButtonX": 0.888,
+    "OrderButtonY": 0.586,
+    "SortButtonHeight": 0.028,
+    "SortButtonWidth": 0.046,
+    "SortButtonX": 0.9,
+    "SortButtonY": 0.586
+  },
+  "coffinstorage": {
+    "OrderButtonHeight": 0.028,
+    "OrderButtonWidth": 0.01,
+    "OrderButtonX": 0.888,
+    "OrderButtonY": 0.758,
+    "SortButtonHeight": 0.028,
+    "SortButtonWidth": 0.046,
+    "SortButtonX": 0.9,
+    "SortButtonY": 0.758
+  },
+  "dropbox.deployed": {
+    "OrderButtonHeight": 0.028,
+    "OrderButtonWidth": 0.01,
+    "OrderButtonX": 0.888,
+    "OrderButtonY": 0.328,
+    "SortButtonHeight": 0.028,
+    "SortButtonWidth": 0.046,
+    "SortButtonX": 0.9,
+    "SortButtonY": 0.328
+  },
+  "small_stash_deployed": {
+    "OrderButtonHeight": 0.028,
+    "OrderButtonWidth": 0.01,
+    "OrderButtonX": 0.888,
+    "OrderButtonY": 0.242,
+    "SortButtonHeight": 0.028,
+    "SortButtonWidth": 0.046,
+    "SortButtonX": 0.9,
+    "SortButtonY": 0.242
+  },
+  "woodbox_deployed": {
+    "OrderButtonHeight": 0.028,
+    "OrderButtonWidth": 0.01,
+    "OrderButtonX": 0.888,
+    "OrderButtonY": 0.328,
+    "SortButtonHeight": 0.028,
+    "SortButtonWidth": 0.046,
+    "SortButtonX": 0.9,
+    "SortButtonY": 0.328
+  }
+}

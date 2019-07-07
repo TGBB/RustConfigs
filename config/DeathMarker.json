@@ -1,0 +1,23 @@
+{
+  "In-Game Visuals": {
+    "Arrow enabled": true,
+    "Arrow Vertical Offset": 150.0,
+    "Radius Randomised Offset": false,
+    "Sphere Radius": 3.0,
+    "Text Enabeld": true,
+    "Text Vertical Offset": 170.0,
+    "Use In-Game Visuals": true,
+    "Use Radius Sphere": true,
+    "Visuals Length": 60.0
+  },
+  "Map Marker": {
+    "Marker Colour1": "yellow",
+    "Marker Show Length": 100.0
+  },
+  "Settings": {
+    "Notification Message Delay": 5.0,
+    "Radius Size": 2.0,
+    "Send Notification On Respawn": true,
+    "Use Console Death Debug": false
+  }
+}

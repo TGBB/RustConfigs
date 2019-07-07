@@ -1,0 +1,7 @@
+{
+  "CancelOnKill": true,
+  "DefaultDelay": 45,
+  "MaximumDelay": 120,
+  "MinimumDelay": 20,
+  "UsePermissions": false
+}

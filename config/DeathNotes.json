@@ -1,0 +1,519 @@
+{
+  "Translations": {
+    "Death Messages": [
+      {
+        "KillerType": "Player",
+        "VictimType": "Player",
+        "DamageType": "Bullet",
+        "Messages": [
+          "{killer} shot {victim} using their {weapon} over a distance of {distance}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Player",
+        "DamageType": "Arrow",
+        "Messages": [
+          "{victim} was shot by {killer} with their {weapon} over a distance of {distance}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Player",
+        "DamageType": "Heat",
+        "Messages": [
+          "{killer} inflamed {victim} with their {weapon}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{killer} killed {victim} using their {weapon}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Player",
+        "DamageType": "Slash",
+        "Messages": [
+          "{killer} slashed {victim} into pieces with their {weapon}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Animal",
+        "DamageType": "*",
+        "Messages": [
+          "{killer} killed a {victim} using their {weapon}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Animal",
+        "DamageType": "Bullet",
+        "Messages": [
+          "{killer} shot a {victim} using their {weapon} over a distance of {distance}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Animal",
+        "DamageType": "Arrow",
+        "Messages": [
+          "{killer} shot a {victim} using their {weapon} over a distance of {distance}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Murderer",
+        "DamageType": "*",
+        "Messages": [
+          "{killer} fought off a {victim}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Scientist",
+        "DamageType": "*",
+        "Messages": [
+          "{killer} fucked the {victim}"
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Bradley",
+        "DamageType": "*",
+        "Messages": [
+          "{killer} destroyed the {victim} with their {weapon}."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Helicopter",
+        "DamageType": "*",
+        "Messages": [
+          "The fucking {victim} was finally shot down by {killer},Thank you!"
+        ]
+      },
+      {
+        "KillerType": "Animal",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{victim} couldn't run away from the {killer} and got smacked."
+        ]
+      },
+      {
+        "KillerType": "Bradley",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{victim} was fucking destroyed by the {killer}."
+        ]
+      },
+      {
+        "KillerType": "Helicopter",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{victim} had no chance against the {killer}."
+        ]
+      },
+      {
+        "KillerType": "Trap",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "Aww {victim} was a dingus and ran into a {killer}."
+        ]
+      },
+      {
+        "KillerType": "Barricade",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          " Wow,{victim} was impaled by a {killer}."
+        ]
+      },
+      {
+        "KillerType": "Turret",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{owner}'s {killer} did its job and killed {victim}."
+        ]
+      },
+      {
+        "KillerType": "Murderer",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "A {killer} haunted down {victim}."
+        ]
+      },
+      {
+        "KillerType": "Scientist",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "A {killer} shot down {victim}."
+        ]
+      },
+      {
+        "KillerType": "ScientistSentry",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{victim} did not did not follow the rules in a safezone and was killed by a {killer}."
+        ]
+      },
+      {
+        "KillerType": "-",
+        "VictimType": "Player",
+        "DamageType": "Fall",
+        "Messages": [
+          "{victim} fell to their death."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Player",
+        "DamageType": "Suicide",
+        "Messages": [
+          "{victim} had enough of life."
+        ]
+      },
+      {
+        "KillerType": "HeatSource",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{victim} was grilled on a {killer}."
+        ]
+      },
+      {
+        "KillerType": "Lock",
+        "VictimType": "Player",
+        "DamageType": "*",
+        "Messages": [
+          "{victim} was being an idiot and got electrecuted by {owner}'s {killer}."
+        ]
+      },
+      {
+        "KillerType": "*",
+        "VictimType": "Player",
+        "DamageType": "Heat",
+        "Messages": [
+          "{victim} burned to death."
+        ]
+      },
+      {
+        "KillerType": "*",
+        "VictimType": "Player",
+        "DamageType": "Radiation",
+        "Messages": [
+          "{victim} became just a touch too radioactive."
+        ]
+      },
+      {
+        "KillerType": "*",
+        "VictimType": "Player",
+        "DamageType": "Cold",
+        "Messages": [
+          "{victim} turned into an ice statue."
+        ]
+      },
+      {
+        "KillerType": "*",
+        "VictimType": "Player",
+        "DamageType": "Drowned",
+        "Messages": [
+          "As {victim} just found out, breathing underwater is rather difficult."
+        ]
+      },
+      {
+        "KillerType": "Player",
+        "VictimType": "Player",
+        "DamageType": "Bleeding",
+        "Messages": [
+          "{victim} bled out after being attacked by {killer}."
+        ]
+      }
+    ],
+    "Names": {
+      "Bear Trap": "Bear Trap",
+      "Landmine": "Landmine",
+      "Wolf": "Wolf",
+      "Chicken": "Chicken",
+      "Boar": "Boar",
+      "Scientist": "Scientist",
+      "Auto Turret": "Auto Turret",
+      "Horse": "Horse",
+      "Bear": "Bear",
+      "Stag": "Stag",
+      "Scientist Sentry": "Scientist Sentry",
+      "Helicopter": "Helicopter",
+      "Fire": "Fire",
+      "Code Lock": "Code Lock",
+      "Wooden Floor Spikes": "Floor Spikes",
+      "Campfire": "Campfire",
+      "Barricade": "Barricade",
+      "Bradley APC": "Bradley",
+      "Barbed Wooden Barricade": "Wooden Barricade",
+      "Gun Trap": "Gun Trap",
+      "Metal Barricade": "Metal Barricade",
+      "Flame Turret": "Flame Turret",
+      "ardelia": "ardelia",
+      "lilli": "lilli",
+      "susan": "susan",
+      "krystin": "krystin",
+      "aurelio": "aurelio",
+      "alia": "alia",
+      "tynisha": "tynisha",
+      "richard": "richard",
+      "daniell": "daniell",
+      "mathilde": "mathilde",
+      "luciano": "luciano",
+      "palmira": "palmira",
+      "gay": "gay",
+      "kerstin": "kerstin",
+      "jesica": "jesica",
+      "kyla": "kyla",
+      "easter": "easter",
+      "diann": "diann",
+      "nita": "nita",
+      "rocio": "rocio",
+      "elenor": "elenor",
+      "ramona": "ramona",
+      "jeanene": "jeanene",
+      "elana": "elana",
+      "tyson": "tyson",
+      "marie": "marie",
+      "jann": "jann",
+      "laureen": "laureen",
+      "launa": "launa",
+      "marni": "marni",
+      "rusty": "rusty",
+      "Zombie": "Zombie",
+      "MiliMan": "MiliMan",
+      "Theron": "Theron",
+      "Robbin": "Robbin",
+      "Shaquana": "Shaquana",
+      "Erik": "Erik",
+      "Many": "Many",
+      "HQM Protector": "HQM Protector",
+      "Leticia": "Leticia",
+      "Essie": "Essie",
+      "daddy": "daddy",
+      "Laurice": "Laurice",
+      "Clemente": "Clemente",
+      "Larhonda": "Larhonda",
+      "Rupert": "Rupert",
+      "Lela": "Lela",
+      "Cathrine": "Cathrine",
+      "BillyBo": "BillyBo",
+      "Reginald": "Reginald",
+      "Hertha": "Hertha",
+      "Catherine": "Catherine",
+      "Leland": "Leland",
+      "Crissy": "Crissy",
+      "Micki": "Micki",
+      "Winona": "Winona",
+      "Al": "Al",
+      "Sima": "Sima",
+      "Lorilee": "Lorilee",
+      "Ligia": "Ligia",
+      "Flossie": "Flossie",
+      "Derek": "Derek",
+      "Sunny": "Sunny",
+      "Gene": "Gene",
+      "Skye": "Skye",
+      "Clora": "Clora",
+      "Tiana": "Tiana",
+      "Janey": "Janey",
+      "Jamie": "Jamie",
+      "Gemma": "Gemma",
+      "Kermit": "Kermit",
+      "Tambra": "Tambra",
+      "Jimmy": "Jimmy",
+      "Sherrell": "Sherrell",
+      "Julius": "Julius",
+      "Murray": "Murray",
+      "Reed": "Reed",
+      "Bailey": "Bailey",
+      "Xochitl": "Xochitl",
+      "Anabel": "Anabel",
+      "Ashton": "Ashton",
+      "Particia": "Particia",
+      "Nakia": "Nakia",
+      "Shakita": "Shakita",
+      "Elmer": "Elmer",
+      "Faustina": "Faustina",
+      "Almeta": "Almeta",
+      "Roseanne": "Roseanne",
+      "Tari": "Tari",
+      "Karma": "Karma",
+      "Demetrius": "Demetrius",
+      "Tai": "Tai",
+      "Barbara": "Barbara",
+      "Lorean": "Lorean",
+      "Tanesha": "Tanesha",
+      "Gaynell": "Gaynell",
+      "Elinore": "Elinore",
+      "Delbert": "Delbert",
+      "Mila": "Mila",
+      "Joline": "Joline",
+      "Aileen": "Aileen",
+      "Ethelyn": "Ethelyn",
+      "Barabara": "Barabara",
+      "Adam": "Adam",
+      "Latesha": "Latesha",
+      "Janna": "Janna",
+      "Reinaldo": "Reinaldo",
+      "Maya": "Maya",
+      "Maxima": "Maxima",
+      "Mercedez": "Mercedez",
+      "Dorcas": "Dorcas",
+      "Kathern": "Kathern",
+      "Lashonda": "Lashonda",
+      "Mariam": "Mariam",
+      "Calandra": "Calandra",
+      "Jacquiline": "Jacquiline",
+      "Wai": "Wai",
+      "Alleen": "Alleen",
+      "Magaret": "Magaret",
+      "Manuel": "Manuel",
+      "Buck": "Buck",
+      "Whitley": "Whitley",
+      "Justin": "Justin",
+      "Delmar": "Delmar",
+      "Rosemarie": "Rosemarie",
+      "Carmelina": "Carmelina",
+      "Cherilyn": "Cherilyn",
+      "Leanne": "Leanne",
+      "Dreama": "Dreama",
+      "Ela": "Ela",
+      "Carmelo": "Carmelo",
+      "Jefferson": "Jefferson",
+      "Doyle": "Doyle",
+      "Sharron": "Sharron",
+      "Sharleen": "Sharleen",
+      "Thotiana": "Thotiana",
+      "Base Player": "Base Player"
+    },
+    "Bodyparts": {
+      "Head": "Head",
+      "Body": "Body",
+      "Stomach": "Stomach",
+      "Foot": "Foot",
+      "Chest": "Chest",
+      "Leg": "Leg",
+      "Arm": "Arm",
+      "Hand": "Hand"
+    },
+    "Weapons": {
+      "Assault Rifle": "Assault Rifle",
+      "LR-300 Assault Rifle": "LR-300 Assault Rifle",
+      "M249": "M249",
+      "Satchel Charge": "Satchel Charge",
+      "Bolt Action Rifle": "Bolt Action Rifle",
+      "Crossbow": "Crossbow",
+      "Double Barrel Shotgun": "Double Barrel Shotgun",
+      "L96 Rifle": "L96 Rifle",
+      "Thompson": "Thompson",
+      "Semi-Automatic Rifle": "Semi-Automatic Rifle",
+      "Hunting Bow": "Hunting Bow",
+      "Rocket": "Rocket",
+      "Jackhammer": "Jackhammer",
+      "Revolver": "Revolver",
+      "MP5A4": "MP5A4",
+      "Pump Shotgun": "Pump Shotgun",
+      "F1 Grenade": "F1 Grenade",
+      "Waterpipe Shotgun": "Waterpipe Shotgun",
+      "Beancan Grenade": "Beancan Grenade",
+      "Rock": "Rock",
+      "Salvaged Cleaver": "Salvaged Cleaver",
+      "Custom SMG": "Custom SMG",
+      "Timed Explosive Charge": "Timed Explosive Charge",
+      "Flame Thrower": "Flame Thrower",
+      "l96.entity": "l96.entity",
+      "Hatchet": "Hatchet",
+      "M92 Pistol": "M92 Pistol",
+      "Stone Pickaxe": "Stone Pickaxe",
+      "Wooden Spear": "Wooden Spear",
+      "Spas-12 Shotgun": "Spas-12 Shotgun",
+      "High Velocity Rocket": "High Velocity Rocket",
+      "Python Revolver": "Python Revolver",
+      "pickaxe.entity": "pickaxe.entity",
+      "Pickaxe": "Pickaxe",
+      "Stone Hatchet": "Stone Hatchet",
+      "Salvaged Sword": "Salvaged Sword",
+      "Bone Club": "Bone Club",
+      "Bone Knife": "Bone Knife",
+      "Torch": "Torch",
+      "Stone Spear": "Stone Spear",
+      "ak47u.entity": "ak47u.entity",
+      "M39 Rifle": "M39 Rifle",
+      "Salvaged Icepick": "Salvaged Icepick",
+      "semi_auto_rifle.entity": "semi_auto_rifle.entity",
+      "Eoka Pistol": "Eoka Pistol",
+      "Nailgun": "Nailgun",
+      "Longsword": "Longsword",
+      "Mace": "Mace",
+      "Salvaged Hammer": "Salvaged Hammer",
+      "Flashlight": "Flashlight",
+      "Machete": "Machete",
+      "Chainsaw": "Chainsaw",
+      "Salvaged Axe": "Salvaged Axe",
+      "m249.entity": "m249.entity",
+      "Semi-Automatic Pistol": "Semi-Automatic Pistol",
+      "axe_salvaged.entity": "axe_salvaged.entity",
+      "Compound Bow": "Compound Bow",
+      "Incendiary Rocket": "Incendiary Rocket",
+      "stone_pickaxe.entity": "stone_pickaxe.entity",
+      "hatchet.entity": "hatchet.entity",
+      "lr300.entity": "lr300.entity",
+      "stonehatchet.entity": "stonehatchet.entity",
+      "butcherknife.entity": "butcherknife.entity",
+      "icepick_salvaged.entity": "icepick_salvaged.entity",
+      "Combat Knife": "Combat Knife",
+      "Multiple Grenade Launcher": "Multiple Grenade Launcher",
+      "40mm_grenade_he": "40mm_grenade_he",
+      "knife.combat.entity": "knife.combat.entity",
+      "python.entity": "python.entity",
+      "pistol_semiauto.entity": "pistol_semiauto.entity"
+    },
+    "Attachments": {
+      "Holosight": "Holosight",
+      "Weapon Lasersight": "Weapon Lasersight",
+      "4x Zoom Scope": "4x Zoom Scope",
+      "Weapon flashlight": "Weapon flashlight",
+      "Silencer": "Silencer",
+      "Simple Handmade Sight": "Simple Handmade Sight",
+      "8x Zoom Scope": "8x Zoom Scope",
+      "Muzzle Boost": "Muzzle Boost",
+      "Muzzle Brake": "Muzzle Brake",
+      "16x Zoom Scope": "16x Zoom Scope"
+    }
+  },
+  "Variable Formats": {
+    "attachments": " ({value})"
+  },
+  "Variable Colors": {
+    "killer": "#C4FF00",
+    "victim": "#C4FF00",
+    "weapon": "#C4FF00",
+    "attachments": "#C4FF00",
+    "distance": "#C4FF00",
+    "owner": "#C4FF00"
+  },
+  "Chat Format": "<color=#838383>[<color=#80D000>DeathNotes</color>] {message}</color>",
+  "Chat Icon (SteamID)": "76561198077847390",
+  "Show Kills in Console": true,
+  "Show Kills in Chat": true,
+  "Message Broadcast Radius (in meters)": -1,
+  "Use Metric Distance": true,
+  "Require Permission (deathnotes.cansee)": false
+}

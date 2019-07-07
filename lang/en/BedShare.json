@@ -1,0 +1,17 @@
+{
+  "Prefix": "<color=orange>[ BedShare ]</color> ",
+  "CannotShareOther": "You cannot {1} another player's {0}",
+  "ShareSuccess": "This {0} is now {1}",
+  "NotShared": "This {0} is not shared",
+  "NoBag": "No bag or bed found",
+  "ClearSuccess": "Successfully cleared {0} bags/beds",
+  "NoClearPerm": "You do not have permission to clear shared beds/bags",
+  "CommandList": "<color=cyan>Valid Commands:</color>\r\n{0}",
+  "Status": "This {0} is currently {1}",
+  "ValidateStats": "Shared bag/bed mappings validated - {0} removed",
+  "SharedHeaderText": "Spawn in Shared Sleeping Bag",
+  "SharedBagNameText": "{0} (public) [Shared by {1}]",
+  "SharedBagNameTextPrivate": "{0} (private) [Shared by {1}]",
+  "InvalidArguments": "Invalid arguments for command: {0}",
+  "PlayersNotFound": "Unable to find player(s): {0}"
+}

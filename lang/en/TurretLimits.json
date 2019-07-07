@@ -1,0 +1,17 @@
+{
+  "NoAdminLimits": "Admins do not have turret limits enabled.",
+  "CannotDeployWithoutTC": "Cannot deploy turret without tool cupboard access.",
+  "TurretsDisabled": "Turrets are disabled on this server.",
+  "CombinedTurretPowerWarning": "Turrets on this server require power and will not fire without a power source in the base.",
+  "AutoTurretPowerWarning": "Autoturrets on this server require power and will not fire without a power source in the base.",
+  "FlameTurretPowerWarning": "Flame turrets on this server require power and will not fire without a power source in the base.",
+  "ShotgunTrapPowerWarning": "Shotgun traps on this server require power and will not fire without a power source in the base.",
+  "TurretLimitReached_Combined": "Turret limit reached. You have already deployed {0} or more turrets in this base.",
+  "DeployedTurret_Combined": "You have deployed {0}/{1} max turrets for this base.",
+  "TurretLimitReached_AutoTurret": "Autoturret limit reached. You have already deployed {0} or more autoturrets in this base.",
+  "DeployedTurret_AutoTurret": "You have deployed {0}/{1} max autoturrets for this base.",
+  "TurretLimitReached_FlameTurret": "Flame turret limit reached. You have already deployed {0} or more flame turrets in this base.",
+  "DeployedTurret_FlameTurret": "You have deployed {0}/{1} max flame turrets for this base.",
+  "TurretLimitReached_ShotgunTrap": "Shotgun trap limit reached. You have already deployed {0} or more shotgun traps in this base.",
+  "DeployedTurret_ShotgunTrap": "You have deployed {0}/{1} max shotgun traps for this base."
+}

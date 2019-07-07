@@ -1,0 +1,2998 @@
+{
+  "76561198202072202": {
+    "defaultSkins": {
+      "rifle.ak": 1750654242
+    },
+    "purchasedSkins": {
+      "pistol.python": [
+        1290876678,
+        1631920728
+      ],
+      "wall.frame.garagedoor": [
+        1625113971,
+        1617613419
+      ],
+      "lmg.m249": [
+        1731742251,
+        1740639585
+      ],
+      "rifle.ak": [
+        1750654242
+      ]
+    },
+    "displayMode": 1
+  },
+  "76561198953939002": {
+    "defaultSkins": {
+      "wall.frame.garagedoor": 1461027316,
+      "lmg.m249": 1717623152,
+      "metal.facemask": 1581351961,
+      "hat.miner": 829630319,
+      "smg.mp5": 842450078,
+      "pants": 882835458,
+      "shotgun.pump": 1740730387,
+      "pistol.python": 1220094437,
+      "target.reactive": 807485969,
+      "metal.plate.torso": 1586132318,
+      "roadsign.jacket": 1084394793,
+      "roadsign.kilt": 794291485,
+      "rocket.launcher": 812276376,
+      "rifle.semiauto": 1373855909,
+      "door.hinged.metal": 813657419,
+      "pants.shorts": 869748230,
+      "sleepingbag": 1594075680,
+      "jacket.snow": 10082,
+      "shirt.tanktop": 797500789,
+      "smg.thompson": 812794363,
+      "tshirt": 14181,
+      "door.hinged.toptier": 1135727503,
+      "rifle.ak": 1588206436,
+      "rifle.bolt": 812317051,
+      "shoes.boots": 962503020,
+      "burlap.shoes": 930342997,
+      "burlap.trousers": 1639840203,
+      "coffeecan.helmet": 914060966,
+      "shotgun.double": 1119129773,
+      "fridge": 1588042048,
+      "furnace": 1310469435,
+      "attire.hide.boots": 1350520045,
+      "attire.hide.pants": 795483967,
+      "attire.hide.poncho": 791183636,
+      "attire.hide.skirt": 1334373087,
+      "attire.hide.vest": 1373326815,
+      "mask.balaclava": 806865728,
+      "jacket": 812292082,
+      "box.wooden.large": 576569265,
+      "burlap.gloves": 1381163775,
+      "locker": 881997061,
+      "tshirt.long": 833955964,
+      "box.wooden": 1583358156,
+      "hammer": 1493894253,
+      "chair": 871271807,
+      "rifle.lr300": 1635559091
+    },
+    "purchasedSkins": {
+      "wall.frame.garagedoor": [
+        1625113971,
+        1193437138,
+        1461027316,
+        1645407409
+      ],
+      "lmg.m249": [
+        1717623152,
+        1707369274,
+        1711588659,
+        1708026534,
+        1713134590,
+        1707954956,
+        1717186064,
+        1720218876
+      ],
+      "metal.facemask": [
+        1586135331,
+        1581351961
+      ],
+      "hat.miner": [
+        829630319,
+        912323919,
+        813625552
+      ],
+      "smg.mp5": [
+        842450078
+      ],
+      "pants": [
+        1549371593,
+        882835458
+      ],
+      "shotgun.pump": [
+        1740730387
+      ],
+      "pistol.python": [
+        1220094437
+      ],
+      "target.reactive": [
+        807485969
+      ],
+      "roadsign.jacket": [
+        830905785,
+        1198125212,
+        933715369,
+        1727562915,
+        924536021,
+        1278562831,
+        1084394793
+      ],
+      "metal.plate.torso": [
+        1338135872,
+        1586132318
+      ],
+      "roadsign.kilt": [
+        794291485,
+        1100090326
+      ],
+      "rocket.launcher": [
+        842106092,
+        865686051,
+        1090954950,
+        812276376
+      ],
+      "rifle.semiauto": [
+        856839314,
+        1373855909
+      ],
+      "door.hinged.metal": [
+        813657419,
+        1515292576,
+        808668389
+      ],
+      "pants.shorts": [
+        869748230
+      ],
+      "sleepingbag": [
+        1594075680
+      ],
+      "jacket.snow": [
+        543283584,
+        1549022797,
+        1126282325,
+        1196258087,
+        1648569376,
+        10082
+      ],
+      "shirt.tanktop": [
+        797500789
+      ],
+      "smg.thompson": [
+        812794363
+      ],
+      "tshirt": [
+        799340786,
+        882444096,
+        1201062226,
+        14181
+      ],
+      "door.hinged.toptier": [
+        1710779863,
+        1265623938,
+        1135727503
+      ],
+      "rifle.ak": [
+        1175238674,
+        858541594,
+        1588206436
+      ],
+      "rifle.bolt": [
+        812317051
+      ],
+      "shoes.boots": [
+        843534134,
+        962503020
+      ],
+      "burlap.shoes": [
+        930342997
+      ],
+      "burlap.trousers": [
+        1438073678,
+        1639840203
+      ],
+      "coffeecan.helmet": [
+        950713271,
+        1164355094,
+        914060966
+      ],
+      "shotgun.double": [
+        1119129773,
+        863703883
+      ],
+      "fridge": [
+        864982270,
+        1588042048
+      ],
+      "furnace": [
+        1310469435,
+        1551837051,
+        1408709167
+      ],
+      "attire.hide.boots": [
+        1350520045
+      ],
+      "attire.hide.pants": [
+        818204153,
+        795483967
+      ],
+      "attire.hide.poncho": [
+        791183636
+      ],
+      "attire.hide.skirt": [
+        1334373087
+      ],
+      "attire.hide.vest": [
+        1373326815
+      ],
+      "mask.balaclava": [
+        821440548,
+        806865728
+      ],
+      "jacket": [
+        1376361749,
+        812292082
+      ],
+      "box.wooden.large": [
+        839548433,
+        1675863456,
+        1282579113,
+        576569265,
+        10123,
+        10141
+      ],
+      "burlap.gloves": [
+        1381163775
+      ],
+      "locker": [
+        879848740,
+        1103093558,
+        1188492089,
+        881997061
+      ],
+      "tshirt.long": [
+        833955964
+      ],
+      "box.wooden": [
+        1583358156,
+        885247837
+      ],
+      "hammer": [
+        1493894253
+      ],
+      "chair": [
+        871271807,
+        1154498476
+      ],
+      "rifle.lr300": [
+        1635559091
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198378449674": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198347694134": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198868817531": {
+    "defaultSkins": {
+      "rifle.bolt": 1517933342,
+      "rifle.ak": 1685375084,
+      "rifle.lr300": 1671985039,
+      "knife.combat": 1707332381
+    },
+    "purchasedSkins": {
+      "rifle.bolt": [
+        1517933342
+      ],
+      "rifle.ak": [
+        1685375084
+      ],
+      "rifle.lr300": [
+        1671985039
+      ],
+      "knife.combat": [
+        1707332381
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198169458826": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198836040367": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198861570548": {
+    "defaultSkins": {},
+    "purchasedSkins": {
+      "metal.facemask": [],
+      "metal.plate.torso": [],
+      "spinner.wheel": [],
+      "smg.thompson": [],
+      "tshirt": [],
+      "vending.machine": [],
+      "water.purifier": [],
+      "shotgun.waterpipe": [],
+      "pistol.semiauto": [],
+      "rug": [],
+      "lmg.m249": [],
+      "bow.hunting": [],
+      "hat.dragonmask": [],
+      "knife.combat": [],
+      "door.hinged.toptier": [],
+      "target.reactive": [],
+      "tshirt.long": [],
+      "roadsign.kilt": [
+        828173323
+      ],
+      "pants": []
+    },
+    "displayMode": 1
+  },
+  "76561198844399580": {
+    "defaultSkins": {},
+    "purchasedSkins": {
+      "locker": [],
+      "fun.guitar": [],
+      "door.hinged.toptier": [
+        801937986
+      ],
+      "wall.frame.garagedoor": [
+        1645407409,
+        1180968592,
+        1759641728
+      ],
+      "mask.bandana": [
+        10104,
+        1185794212,
+        903595865
+      ],
+      "hat.cap": [
+        1525189085
+      ],
+      "hat.beenie": [],
+      "rifle.bolt": [
+        840105253,
+        10116
+      ],
+      "burlap.shirt": [
+        1229561297,
+        1127407306,
+        1294812700
+      ],
+      "chair": [
+        871339422
+      ],
+      "fridge": [],
+      "table": [
+        875258582
+      ],
+      "box.wooden.large": [],
+      "shoes.boots": [
+        809586899,
+        1657109993,
+        1111680681
+      ],
+      "burlap.shoes": [
+        790679533
+      ],
+      "burlap.trousers": [
+        1438073678
+      ],
+      "metal.plate.torso": [
+        1587225313,
+        1771804406
+      ],
+      "metal.facemask": [
+        1587225942,
+        1771714129
+      ],
+      "pants": [
+        1587846022,
+        1787243248,
+        1768737448,
+        1766646393
+      ],
+      "sleepingbag": [
+        1586749954,
+        1773435398
+      ],
+      "burlap.gloves.new": [
+        1368419860,
+        1633859273
+      ],
+      "mask.balaclava": [
+        807719156
+      ],
+      "roadsign.kilt": [
+        1248433379,
+        1349158079,
+        1759482713
+      ],
+      "roadsign.jacket": [
+        1248434418,
+        1349163491,
+        1759481001
+      ],
+      "deer.skull.mask": [
+        837166252
+      ],
+      "hat.boonie": [
+        1760060421
+      ],
+      "burlap.headwrap": [
+        861551572,
+        822358002,
+        785890135
+      ],
+      "coffeecan.helmet": [
+        1539575334,
+        1202978872,
+        1759479029
+      ],
+      "knife.combat": [
+        1719795241
+      ],
+      "barricade.concrete": [
+        828182621
+      ],
+      "smg.2": [
+        1198145190
+      ],
+      "hat.dragonmask": [
+        10161
+      ],
+      "grenade.f1": [
+        836745325
+      ],
+      "furnace": [
+        1539436979,
+        1587226587,
+        1230539924,
+        1230975843,
+        1588458946
+      ],
+      "hammer": [
+        1586965130
+      ],
+      "hatchet": [
+        1772892883
+      ],
+      "hoodie": [
+        1587744366,
+        1768733505,
+        1787216403,
+        1766644324
+      ],
+      "pickaxe": [
+        1780027581
+      ],
+      "shotgun.pump": [
+        1760154042
+      ],
+      "pistol.revolver": [
+        1787802800
+      ],
+      "rifle.semiauto": [
+        1788152335,
+        1772028068
+      ],
+      "door.hinged.metal": [
+        1772296521,
+        1780241717,
+        1759765099
+      ],
+      "stonehatchet": [
+        1788439811
+      ],
+      "stone.pickaxe": [
+        1788447750
+      ],
+      "smg.thompson": [
+        1772377862
+      ],
+      "vending.machine": [
+        1780228760
+      ],
+      "bow.hunting": [
+        1759967280,
+        1773297889,
+        1788414884
+      ],
+      "crossbow": [
+        1772979668
+      ],
+      "rifle.ak": [
+        1760078043
+      ]
+    },
+    "displayMode": 1
+  },
+  "76561198094304071": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198026965114": {
+    "defaultSkins": {
+      "roadsign.kilt": 1202976443,
+      "rifle.lr300": 1176479716,
+      "tshirt.long": 10004,
+      "shoes.boots": 10023,
+      "rifle.ak": 1338305091,
+      "pants": 1150763210
+    },
+    "purchasedSkins": {
+      "metal.plate.torso": [
+        797410767,
+        794169855
+      ],
+      "metal.facemask": [
+        1638135398,
+        899001394,
+        831923884
+      ],
+      "roadsign.kilt": [
+        1349158079,
+        1202976443
+      ],
+      "rifle.lr300": [
+        1176479716
+      ],
+      "tshirt.long": [
+        10004
+      ],
+      "shoes.boots": [
+        10023
+      ],
+      "rifle.ak": [
+        1338305091
+      ],
+      "pants": [
+        1150763210
+      ],
+      "hoodie": [
+        10086
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198396026729": {
+    "defaultSkins": {
+      "bow.hunting": 1729805132,
+      "mask.balaclava": 1261652109,
+      "jacket": 812292082,
+      "box.wooden.large": 1282579113,
+      "burlap.gloves": 1381163775,
+      "locker": 1103093558,
+      "tshirt.long": 833955964,
+      "longsword": 854252556,
+      "lmg.m249": 1708026534,
+      "metal.plate.torso": 1338135872,
+      "hat.miner": 813625552,
+      "smg.mp5": 842450078,
+      "pants": 882835458,
+      "pickaxe": 876264389,
+      "pistol.python": 1220094437,
+      "shotgun.pump": 1740730387,
+      "target.reactive": 807485969,
+      "pistol.semiauto": 853003385,
+      "rifle.semiauto": 1373855909,
+      "door.hinged.metal": 813657419,
+      "pants.shorts": 869748230,
+      "sleepingbag": 1594075680,
+      "jacket.snow": 1126282325,
+      "stone.pickaxe": 1093810068,
+      "stonehatchet": 866646937,
+      "shirt.tanktop": 797500789,
+      "smg.thompson": 812794363,
+      "tshirt": 1201062226,
+      "shotgun.waterpipe": 1207798674,
+      "box.wooden": 1583358156,
+      "door.hinged.wood": 875395089,
+      "vending.machine": 915855042,
+      "water.purifier": 811807918,
+      "door.hinged.toptier": 1710779863,
+      "rifle.ak": 858541594,
+      "mask.bandana": 1563948437,
+      "hat.cap": 866832163,
+      "hat.beenie": 1246971967,
+      "bone.club": 1093946783,
+      "deer.skull.mask": 1613647873,
+      "knife.bone": 1204472982,
+      "hat.boonie": 1646473856,
+      "shoes.boots": 843534134,
+      "burlap.headwrap": 851733950,
+      "burlap.shirt": 1609929258,
+      "burlap.shoes": 930342997,
+      "burlap.trousers": 1639840203,
+      "chair": 1389200420,
+      "coffeecan.helmet": 1164355094,
+      "hammer": 1493894253,
+      "furnace": 1408709167,
+      "wall.frame.garagedoor": 1389194464,
+      "attire.hide.boots": 823696227,
+      "attire.hide.vest": 1373326815
+    },
+    "purchasedSkins": {
+      "rifle.bolt": [
+        812317051
+      ],
+      "bow.hunting": [
+        1729805132,
+        1731956058
+      ],
+      "mask.balaclava": [
+        1261652109,
+        821440548,
+        806865728
+      ],
+      "jacket": [
+        1489357469,
+        812292082,
+        1417185486,
+        1376361749
+      ],
+      "box.wooden.large": [
+        839548433,
+        1675863456,
+        1282579113
+      ],
+      "burlap.gloves": [
+        1381163775
+      ],
+      "locker": [
+        879848740,
+        1188492089,
+        1103093558
+      ],
+      "tshirt.long": [
+        833955964
+      ],
+      "longsword": [
+        854252556,
+        933118569
+      ],
+      "lmg.m249": [
+        1708026534,
+        1707954956,
+        1707961069,
+        1717186064,
+        1717623152,
+        1707369274,
+        1720218876,
+        1713409171,
+        1711588659,
+        1704710950,
+        1718289161,
+        1731742251,
+        1740224810,
+        1707567208,
+        1729824483,
+        1726140917,
+        1740639585
+      ],
+      "metal.plate.torso": [
+        1338135872
+      ],
+      "hat.miner": [
+        813625552,
+        1230115161,
+        829630319,
+        912323919
+      ],
+      "smg.mp5": [
+        842450078,
+        926185469
+      ],
+      "pants": [
+        1549371593,
+        882835458
+      ],
+      "pickaxe": [
+        876264389,
+        816190265,
+        1672923450
+      ],
+      "pistol.python": [
+        1220094437
+      ],
+      "shotgun.pump": [
+        1740730387
+      ],
+      "target.reactive": [
+        807485969
+      ],
+      "pistol.semiauto": [
+        853003385,
+        849580149,
+        814800485,
+        879224140
+      ],
+      "rifle.semiauto": [
+        856839314,
+        1373855909
+      ],
+      "door.hinged.metal": [
+        813657419,
+        1515292576,
+        808668389
+      ],
+      "pants.shorts": [
+        863891398,
+        869748230
+      ],
+      "sleepingbag": [
+        1594075680,
+        1577059722,
+        1397224841
+      ],
+      "jacket.snow": [
+        1648569376,
+        1126282325,
+        543283584,
+        1549022797,
+        1196258087
+      ],
+      "stone.pickaxe": [
+        1093810068
+      ],
+      "stonehatchet": [
+        866646937,
+        1673193401,
+        854681011
+      ],
+      "shirt.tanktop": [
+        797500789
+      ],
+      "smg.thompson": [
+        812794363
+      ],
+      "tshirt": [
+        1201062226,
+        799340786,
+        882444096
+      ],
+      "shotgun.waterpipe": [
+        1207798674
+      ],
+      "box.wooden": [
+        1583358156,
+        885247837
+      ],
+      "door.hinged.wood": [
+        875395089
+      ],
+      "vending.machine": [
+        915855042,
+        868767810,
+        1098859045,
+        1260123537
+      ],
+      "water.purifier": [
+        811807918,
+        829621103,
+        797790491,
+        1372382636,
+        921492366
+      ],
+      "door.hinged.toptier": [
+        1710779863,
+        1265623938
+      ],
+      "rifle.ak": [
+        858541594
+      ],
+      "mask.bandana": [
+        1563948437
+      ],
+      "hat.cap": [
+        866832163
+      ],
+      "hat.beenie": [
+        1246971967
+      ],
+      "bone.club": [
+        1093946783
+      ],
+      "deer.skull.mask": [
+        1613647873
+      ],
+      "knife.bone": [
+        1204472982
+      ],
+      "hat.boonie": [
+        1646473856
+      ],
+      "shoes.boots": [
+        843534134
+      ],
+      "burlap.headwrap": [
+        851733950
+      ],
+      "burlap.shirt": [
+        1609929258
+      ],
+      "burlap.shoes": [
+        1092104183,
+        1098777881,
+        930342997
+      ],
+      "burlap.trousers": [
+        1639840203,
+        1438073678
+      ],
+      "chair": [
+        1389200420
+      ],
+      "coffeecan.helmet": [
+        950713271,
+        1164355094
+      ],
+      "hammer": [
+        1493894253
+      ],
+      "furnace": [
+        1310469435,
+        1247459815,
+        1408709167,
+        1551837051
+      ],
+      "wall.frame.garagedoor": [
+        1193437138,
+        1389194464,
+        1381748872,
+        1625113971
+      ],
+      "attire.hide.boots": [
+        823696227
+      ],
+      "attire.hide.vest": [
+        1373326815
+      ]
+    },
+    "displayMode": 1
+  },
+  "76561198909011686": {
+    "defaultSkins": {
+      "pistol.python": 1220094437
+    },
+    "purchasedSkins": {
+      "pistol.python": [
+        1220094437
+      ],
+      "box.wooden.large": [],
+      "metal.plate.torso": [],
+      "metal.facemask": [],
+      "rifle.lr300": []
+    },
+    "displayMode": 1
+  },
+  "76561198962766558": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198453528112": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198047710180": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198875941961": {
+    "defaultSkins": {
+      "rifle.bolt": 818403150,
+      "pistol.semiauto": 10073,
+      "roadsign.kilt": 794291485
+    },
+    "purchasedSkins": {
+      "rifle.bolt": [
+        818403150
+      ],
+      "pistol.semiauto": [
+        10073
+      ],
+      "roadsign.kilt": [
+        794291485
+      ]
+    },
+    "displayMode": 1
+  },
+  "76561198296027961": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198100963340": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198276395218": {
+    "defaultSkins": {},
+    "purchasedSkins": {
+      "metal.plate.torso": [
+        1335770974
+      ],
+      "metal.facemask": [
+        1203888714
+      ],
+      "rifle.semiauto": [
+        1373855909
+      ],
+      "door.hinged.metal": [
+        1213613030
+      ],
+      "rifle.ak": [
+        1659781652
+      ],
+      "rifle.lr300": [
+        1671985039
+      ]
+    },
+    "displayMode": 1
+  },
+  "76561197974712000": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198146335995": {
+    "defaultSkins": {
+      "rifle.lr300": 1671985039,
+      "wall.frame.garagedoor": 1415079530,
+      "lmg.m249": 1740224810,
+      "door.hinged.toptier": 930478674
+    },
+    "purchasedSkins": {
+      "rifle.lr300": [
+        1671985039
+      ],
+      "wall.frame.garagedoor": [
+        1415079530,
+        1529742943
+      ],
+      "lmg.m249": [
+        1740224810
+      ],
+      "door.hinged.toptier": [
+        801937986,
+        930478674
+      ],
+      "pistol.python": [
+        1364964220,
+        1258109891
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198019052193": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198885473674": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198341204778": {
+    "defaultSkins": {
+      "rifle.semiauto": 1448088345,
+      "roadsign.kilt": 828173323,
+      "metal.facemask": 835026584,
+      "hoodie": 677636990,
+      "rifle.ak": 1435827815,
+      "shoes.boots": 1084392788,
+      "pants": 798690647
+    },
+    "purchasedSkins": {
+      "rifle.semiauto": [
+        1098038362,
+        1448088345
+      ],
+      "roadsign.kilt": [
+        828173323
+      ],
+      "metal.plate.torso": [
+        832233112
+      ],
+      "metal.facemask": [
+        835026584
+      ],
+      "hoodie": [
+        677636990
+      ],
+      "rifle.ak": [
+        1435827815
+      ],
+      "shoes.boots": [
+        1084392788
+      ],
+      "pants": [
+        798690647
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198333352386": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198054359017": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198215514689": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198031074747": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198393596615": {
+    "defaultSkins": {},
+    "purchasedSkins": {
+      "shoes.boots": [
+        10023,
+        1657109993,
+        1441308562
+      ],
+      "hoodie": [
+        10086,
+        1740562395,
+        1373714814
+      ],
+      "metal.plate.torso": [
+        1575392727,
+        1638812721,
+        1578628782,
+        797410767
+      ],
+      "metal.facemask": [
+        803894027,
+        1638135398,
+        1547874663,
+        784316334
+      ],
+      "pants": [
+        1740505052,
+        1740563572,
+        1441311938
+      ],
+      "roadsign.kilt": [
+        1388416860,
+        1657108026,
+        1558579257,
+        1441848470
+      ],
+      "rifle.lr300": [
+        1671985039,
+        1741459108
+      ],
+      "rifle.ak": [
+        1685375084,
+        1760078043
+      ],
+      "wall.frame.garagedoor": [
+        1617613419,
+        1772483395
+      ],
+      "box.wooden.large": [
+        1196352289
+      ],
+      "furnace": [
+        1723387671,
+        1775718906
+      ],
+      "lmg.m249": [
+        1712378771
+      ],
+      "rifle.m39": [
+        1708365495
+      ],
+      "sleepingbag": [
+        1283724154,
+        1773435398
+      ],
+      "smg.thompson": [
+        1689944021
+      ],
+      "door.hinged.toptier": [
+        1395469801,
+        869475498
+      ],
+      "locker": [
+        881997061
+      ],
+      "table": [
+        872346354,
+        875258582
+      ],
+      "rug": [
+        907327964,
+        1740724608
+      ],
+      "fridge": [
+        864918396
+      ],
+      "hammer": [
+        1720644451
+      ],
+      "jacket": [
+        834233801
+      ],
+      "jacket.snow": [
+        10083
+      ],
+      "vending.machine": [
+        1780228760
+      ],
+      "box.wooden": [
+        930694436
+      ],
+      "rifle.bolt": [
+        1687042408
+      ],
+      "rifle.semiauto": [
+        1788152335
+      ],
+      "smg.2": [
+        1753609137
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198146180230": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198840947036": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198797264880": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198182570315": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198196066957": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198888801320": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198184883786": {
+    "defaultSkins": {
+      "rifle.ak": 1118706219
+    },
+    "purchasedSkins": {
+      "rifle.ak": [
+        1118706219
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561197971722693": {
+    "defaultSkins": {
+      "door.hinged.toptier": 1605324677,
+      "wall.frame.garagedoor": 1209586977,
+      "door.hinged.metal": 1120339199,
+      "box.wooden.large": 10123
+    },
+    "purchasedSkins": {
+      "door.hinged.toptier": [
+        801937986,
+        1605324677,
+        839925176,
+        801831553
+      ],
+      "wall.frame.garagedoor": [
+        1209586977,
+        1645407409,
+        1334974046
+      ],
+      "door.hinged.metal": [
+        1120339199
+      ],
+      "box.wooden.large": [
+        854002617,
+        854718942,
+        878850459,
+        978112601,
+        797422750,
+        798455489,
+        10124,
+        10123,
+        842083350
+      ],
+      "rifle.semiauto": [
+        899564368
+      ],
+      "rifle.ak": [
+        1118706219
+      ],
+      "rifle.m39": [
+        1708343082
+      ],
+      "rifle.lr300": [
+        1308037543
+      ]
+    },
+    "displayMode": 1
+  },
+  "76561198271952004": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198806522970": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198359963274": {
+    "defaultSkins": {},
+    "purchasedSkins": {
+      "door.hinged.toptier": [
+        807729959
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198240026206": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198928371346": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198873274085": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198807042312": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198046916104": {
+    "defaultSkins": {},
+    "purchasedSkins": {
+      "lmg.m249": [
+        1707567208
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198359649816": {
+    "defaultSkins": {},
+    "purchasedSkins": {
+      "rug": [
+        1114718055
+      ]
+    },
+    "displayMode": 1
+  },
+  "76561198125374070": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198899109385": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198811716048": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198331192139": {
+    "defaultSkins": {},
+    "purchasedSkins": {
+      "hatchet": [
+        1546404025
+      ]
+    },
+    "displayMode": 1
+  },
+  "76561198071301826": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198030802940": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561197990919168": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198929145713": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198338688611": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198038213143": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198175173842": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198872648435": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198272755222": {
+    "defaultSkins": {
+      "rifle.m39": 1708365495
+    },
+    "purchasedSkins": {
+      "rifle.lr300": [],
+      "smg.2": [],
+      "rifle.m39": [
+        1708365495
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198094144893": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198378210794": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198943319693": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198426407124": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198862453451": {
+    "defaultSkins": {
+      "rifle.semiauto": 1448088345,
+      "pickaxe": 1428399027,
+      "rifle.lr300": 1725240606,
+      "rifle.ak": 1583542371,
+      "smg.2": 820350952
+    },
+    "purchasedSkins": {
+      "rifle.semiauto": [
+        1448088345
+      ],
+      "pistol.semiauto": [],
+      "pickaxe": [
+        1428399027
+      ],
+      "salvaged.sword": [],
+      "wall.frame.garagedoor": [],
+      "smg.2": [
+        820350952
+      ],
+      "rifle.ak": [
+        1583542371
+      ],
+      "rifle.lr300": [
+        1725240606
+      ]
+    },
+    "displayMode": 1
+  },
+  "76561198166632770": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198079061642": {
+    "defaultSkins": {
+      "rifle.lr300": 1173523145
+    },
+    "purchasedSkins": {
+      "rifle.lr300": [
+        1173523145
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198855946454": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198171941310": {
+    "defaultSkins": {
+      "lmg.m249": 1708026534
+    },
+    "purchasedSkins": {
+      "lmg.m249": [
+        1708026534
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198348124112": {
+    "defaultSkins": {
+      "rifle.semiauto": 818613234
+    },
+    "purchasedSkins": {
+      "rifle.semiauto": [
+        818613234
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198383392296": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198069415468": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198403096039": {
+    "defaultSkins": {
+      "door.hinged.toptier": 1135727503
+    },
+    "purchasedSkins": {
+      "door.hinged.toptier": [
+        933057923,
+        1135727503
+      ]
+    },
+    "displayMode": 1
+  },
+  "76561198076554454": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198043598757": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198868869468": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198335499563": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198137547647": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198882421171": {
+    "defaultSkins": {
+      "wall.frame.garagedoor": 1180981036
+    },
+    "purchasedSkins": {
+      "wall.frame.garagedoor": [
+        1180981036
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198798301262": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 1
+  },
+  "76561198963356520": {
+    "defaultSkins": {
+      "door.hinged.toptier": 1402412287,
+      "furnace": 1458047080,
+      "pistol.python": 1373936691,
+      "crossbow": 1699027694,
+      "box.wooden.large": 1196352289,
+      "door.hinged.metal": 1727356485,
+      "rifle.ak": 1685375084,
+      "hoodie": 897890977,
+      "sleepingbag": 1283724154,
+      "attire.hide.boots": 823696227,
+      "lmg.m249": 1719536313,
+      "roadsign.jacket": 953104456
+    },
+    "purchasedSkins": {
+      "door.hinged.toptier": [
+        804286931,
+        1402412287
+      ],
+      "furnace": [
+        1458047080
+      ],
+      "pistol.python": [
+        1373936691
+      ],
+      "crossbow": [
+        1699027694
+      ],
+      "box.wooden.large": [
+        1196352289
+      ],
+      "door.hinged.metal": [
+        1727356485
+      ],
+      "rifle.ak": [
+        1685375084
+      ],
+      "hoodie": [
+        897890977
+      ],
+      "sleepingbag": [
+        944993672,
+        1283724154
+      ],
+      "attire.hide.boots": [
+        823696227
+      ],
+      "lmg.m249": [
+        1719536313
+      ],
+      "roadsign.jacket": [
+        953104456
+      ]
+    },
+    "displayMode": 1
+  },
+  "76561198066479989": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198215854175": {
+    "defaultSkins": {},
+    "purchasedSkins": {
+      "lmg.m249": [],
+      "knife.combat": [],
+      "rifle.lr300": [
+        1635559091
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198833480362": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198965622917": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198143817599": {
+    "defaultSkins": {
+      "rifle.semiauto": 1448088345,
+      "wall.frame.garagedoor": 1575268855
+    },
+    "purchasedSkins": {
+      "rifle.semiauto": [
+        1448088345
+      ],
+      "wall.frame.garagedoor": [
+        1575268855
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198449437020": {
+    "defaultSkins": {
+      "wall.frame.garagedoor": 1645407409
+    },
+    "purchasedSkins": {
+      "wall.frame.garagedoor": [
+        1645407409
+      ]
+    },
+    "displayMode": 1
+  },
+  "76561198088337872": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198417946814": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198413087627": {
+    "defaultSkins": {
+      "smg.thompson": 812794363,
+      "rifle.lr300": 1635559091,
+      "wall.frame.garagedoor": 1529558717
+    },
+    "purchasedSkins": {
+      "smg.thompson": [
+        812794363
+      ],
+      "rifle.lr300": [
+        1635559091
+      ],
+      "wall.frame.garagedoor": [
+        1529558717
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198086151937": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198089204224": {
+    "defaultSkins": {
+      "fun.guitar": 844914652,
+      "box.wooden.large": 1306240898
+    },
+    "purchasedSkins": {
+      "fun.guitar": [
+        844914652
+      ],
+      "box.wooden.large": [
+        1306240898
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198350677484": {
+    "defaultSkins": {
+      "rifle.ak": 10138,
+      "rifle.lr300": 1569062511
+    },
+    "purchasedSkins": {
+      "rifle.ak": [
+        10138
+      ],
+      "rifle.lr300": [
+        1569062511
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198256315499": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198316922657": {
+    "defaultSkins": {
+      "rug": 1740724608
+    },
+    "purchasedSkins": {
+      "rug": [
+        907327964,
+        1740724608
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198935030552": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198190875331": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198047804039": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198125858256": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198156657559": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198807392126": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 1
+  },
+  "76561198015787978": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198342281492": {
+    "defaultSkins": {
+      "pistol.semiauto": 805925675
+    },
+    "purchasedSkins": {
+      "pistol.semiauto": [
+        805925675
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198266883165": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198252277828": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 1
+  },
+  "76561198913972200": {
+    "defaultSkins": {
+      "rifle.semiauto": 1448088345,
+      "rifle.lr300": 1671985039,
+      "hoodie": 1740503746
+    },
+    "purchasedSkins": {
+      "rifle.semiauto": [
+        1448088345
+      ],
+      "rifle.lr300": [
+        1671985039
+      ],
+      "hoodie": [
+        1740503746
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198168829967": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198120786210": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198257050873": {
+    "defaultSkins": {},
+    "purchasedSkins": {
+      "icepick.salvaged": [
+        820810719
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198105033046": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198845740678": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198950230663": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198408506620": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198272069134": {
+    "defaultSkins": {
+      "rifle.ak": 10138,
+      "smg.mp5": 1673754411,
+      "pistol.semiauto": 1553005167
+    },
+    "purchasedSkins": {
+      "rifle.ak": [
+        10138
+      ],
+      "smg.mp5": [
+        1673754411
+      ],
+      "pistol.semiauto": [
+        1553005167
+      ]
+    },
+    "displayMode": 1
+  },
+  "76561198242928866": {
+    "defaultSkins": {
+      "rifle.ak": 1202410378,
+      "rifle.lr300": 1635559091
+    },
+    "purchasedSkins": {
+      "rifle.ak": [
+        1202410378
+      ],
+      "hoodie": [],
+      "pants": [],
+      "rifle.lr300": [
+        1635559091
+      ]
+    },
+    "displayMode": 1
+  },
+  "76561198795887171": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198838092928": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 1
+  },
+  "76561198823483397": {
+    "defaultSkins": {},
+    "purchasedSkins": {
+      "metal.facemask": [
+        792079554,
+        792827436
+      ],
+      "metal.plate.torso": [
+        842577956
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198433237711": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198173672722": {
+    "defaultSkins": {},
+    "purchasedSkins": {
+      "rifle.lr300": [
+        1671985039
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198305730670": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198148564102": {
+    "defaultSkins": {
+      "hammer": 1720644451,
+      "salvaged.sword": 1652800384
+    },
+    "purchasedSkins": {
+      "hammer": [
+        1457914371,
+        1720644451
+      ],
+      "salvaged.sword": [
+        1652800384
+      ]
+    },
+    "displayMode": 1
+  },
+  "76561198880952944": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198064240488": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198819606856": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198848472125": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198966507571": {
+    "defaultSkins": {
+      "lmg.m249": 1717623152
+    },
+    "purchasedSkins": {
+      "lmg.m249": [
+        1731742251,
+        1717623152
+      ]
+    },
+    "displayMode": 1
+  },
+  "76561198114952532": {
+    "defaultSkins": {
+      "rifle.ak": 1088459232
+    },
+    "purchasedSkins": {
+      "rifle.ak": [
+        1088459232
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198092621834": {
+    "defaultSkins": {},
+    "purchasedSkins": {
+      "rifle.lr300": [
+        1481478360
+      ],
+      "metal.facemask": [
+        784316334
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198422478700": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198149323941": {
+    "defaultSkins": {
+      "rifle.lr300": 1173523145
+    },
+    "purchasedSkins": {
+      "rifle.lr300": [
+        1173523145
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198205225465": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198307688085": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198851372571": {
+    "defaultSkins": {
+      "metal.plate.torso": 1338135872
+    },
+    "purchasedSkins": {
+      "metal.plate.torso": [
+        1338135872
+      ]
+    },
+    "displayMode": 1
+  },
+  "76561198272047484": {
+    "defaultSkins": {
+      "rifle.m39": 1708365495,
+      "rifle.lr300": 1203322875
+    },
+    "purchasedSkins": {
+      "rifle.m39": [
+        1708365495
+      ],
+      "rifle.lr300": [
+        1203322875
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561197963442790": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198170110786": {
+    "defaultSkins": {},
+    "purchasedSkins": {
+      "pistol.semiauto": [
+        868298519
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198360728536": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198163459629": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198034519333": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561197967940705": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198271809603": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198319030827": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198851024368": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198374653663": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198452985105": {
+    "defaultSkins": {},
+    "purchasedSkins": {
+      "rifle.ak": [
+        1685375084,
+        859845460
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198799216618": {
+    "defaultSkins": {
+      "rifle.ak": 1467269924
+    },
+    "purchasedSkins": {
+      "rifle.ak": [
+        1467269924
+      ]
+    },
+    "displayMode": 1
+  },
+  "76561198276757204": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198257423070": {
+    "defaultSkins": {
+      "metal.plate.torso": 797410767,
+      "metal.facemask": 784316334,
+      "roadsign.kilt": 1737733590,
+      "hoodie": 1564974974,
+      "pants": 1371313777,
+      "rifle.ak": 1746886322,
+      "rifle.semiauto": 1566048269
+    },
+    "purchasedSkins": {
+      "rifle.ak": [
+        1118706219,
+        903882218,
+        1746886322
+      ],
+      "metal.plate.torso": [
+        797410767,
+        798736321
+      ],
+      "metal.facemask": [
+        784316334,
+        807821375
+      ],
+      "roadsign.kilt": [
+        1737733590
+      ],
+      "hoodie": [
+        1564974974
+      ],
+      "pants": [
+        1371313777
+      ],
+      "rifle.semiauto": [
+        1566048269
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198170824933": {
+    "defaultSkins": {
+      "rifle.ak": 10138
+    },
+    "purchasedSkins": {
+      "rifle.ak": [
+        10138
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198052236071": {
+    "defaultSkins": {
+      "rifle.lr300": 1644715625,
+      "lmg.m249": 1726140917,
+      "metal.plate.torso": 1578628782,
+      "metal.facemask": 1313529548
+    },
+    "purchasedSkins": {
+      "rifle.lr300": [
+        1644715625
+      ],
+      "lmg.m249": [
+        1726140917
+      ],
+      "metal.plate.torso": [
+        1578628782
+      ],
+      "metal.facemask": [
+        1313529548
+      ]
+    },
+    "displayMode": 1
+  },
+  "76561198148225336": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198271981591": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198892797524": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 1
+  },
+  "76561198119412626": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198394122014": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198824665773": {
+    "defaultSkins": {
+      "metal.plate.torso": 970700662,
+      "icepick.salvaged": 844666224,
+      "rifle.ak": 903882218
+    },
+    "purchasedSkins": {
+      "metal.plate.torso": [
+        970700662
+      ],
+      "icepick.salvaged": [
+        844666224
+      ],
+      "rifle.ak": [
+        903882218
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198880480981": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561197965833188": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198880851126": {
+    "defaultSkins": {},
+    "purchasedSkins": {
+      "pistol.semiauto": [
+        1553005167,
+        1720501333
+      ],
+      "door.hinged.metal": [
+        827190175,
+        832957536,
+        835119969,
+        849614068,
+        859864870,
+        836815358,
+        883741993,
+        897274189,
+        901194793,
+        915684869,
+        934924536,
+        914869833,
+        922419554,
+        917719889,
+        921076360,
+        961909886,
+        959898495,
+        948930384,
+        942658960,
+        928503162,
+        962391797,
+        1083653685,
+        1066783524,
+        1109694864,
+        1117884427,
+        1176406578,
+        1120339199,
+        1119310953,
+        1141051963,
+        1175547229,
+        1170684837,
+        950560231,
+        1211678957,
+        1213613030,
+        1227441654,
+        1239808532,
+        1260208160,
+        1281626747,
+        1290467327,
+        1294718018,
+        1309566989,
+        1306412169,
+        1313458951,
+        1321264697,
+        1328395850,
+        1356332123,
+        1356364616,
+        1342459239,
+        1328566466,
+        1362729705,
+        1390896848,
+        1362595551,
+        1354718926,
+        1380022034,
+        1383063240,
+        1401769919,
+        1412186246,
+        1415394917,
+        1412241247,
+        1435254318,
+        1438420454,
+        1443957299,
+        1447958101,
+        1466554259,
+        1457845730,
+        1447671986,
+        1523940330,
+        1448354224,
+        1524017223,
+        1539115581,
+        1205721755,
+        1565096963,
+        1576050073,
+        1514174191,
+        1587119000,
+        1631261352,
+        1617363766,
+        1595324955,
+        1587777999,
+        1653322594,
+        1727356485,
+        1707455661,
+        1687047599,
+        1680572723,
+        1733664175,
+        1747674239,
+        1759765099
+      ],
+      "wall.frame.garagedoor": [
+        1428456080,
+        1529558717
+      ],
+      "metal.facemask": [
+        807821375,
+        1587225942,
+        794837198,
+        1638135398,
+        784316334,
+        1586135331
+      ],
+      "lmg.m249": [
+        1719536313,
+        1712378771,
+        1707973294
+      ],
+      "pickaxe": [
+        1616992357,
+        1444912645
+      ],
+      "rifle.ak": [
+        809190373,
+        1457951707
+      ],
+      "burlap.headwrap": [
+        785890135,
+        896506958
+      ],
+      "barricade.concrete": [
+        791070521,
+        846663258,
+        828182621,
+        924112225,
+        939333522
+      ],
+      "sleepingbag": [
+        1396600730,
+        1296042340,
+        1586749954,
+        1711044880
+      ],
+      "door.hinged.wood": [
+        1176899114,
+        1415496136
+      ],
+      "box.wooden": [
+        787716105
+      ],
+      "box.wooden.large": [
+        1102266445,
+        10141,
+        10124,
+        10123
+      ],
+      "knife.bone": [
+        933322251
+      ],
+      "deer.skull.mask": [
+        882204381,
+        784259585
+      ],
+      "burlap.shirt": [
+        882451685,
+        1294812700,
+        1755124648
+      ],
+      "burlap.trousers": [
+        1127409880,
+        809968188,
+        1755140135
+      ],
+      "attire.hide.boots": [
+        837175591,
+        1230633097
+      ],
+      "burlap.gloves.new": [
+        1100928373,
+        1368419860
+      ],
+      "bone.club": [
+        791109245
+      ],
+      "mask.bandana": [
+        10065,
+        10104,
+        1710737837
+      ],
+      "hat.beenie": [
+        10040
+      ],
+      "furnace": [
+        1230539924
+      ],
+      "mask.balaclava": [
+        856403207
+      ],
+      "locker": [
+        881411749
+      ],
+      "hammer": [
+        1539336419
+      ],
+      "door.hinged.toptier": [
+        807729959
+      ],
+      "rocket.launcher": [
+        1657103887
+      ],
+      "rifle.lr300": [
+        1652362426
+      ],
+      "hoodie": [
+        835836079,
+        1587744366,
+        1740562395
+      ],
+      "hat.boonie": [
+        1760060421
+      ],
+      "pants": [
+        10049,
+        1587846022,
+        1740563572,
+        1229552157
+      ],
+      "roadsign.jacket": [
+        1400828574
+      ],
+      "roadsign.kilt": [
+        784577443,
+        944586866,
+        934742835,
+        1657108026
+      ],
+      "metal.plate.torso": [
+        798736321,
+        1587225313,
+        796728308,
+        1638812721,
+        797410767,
+        1586132318
+      ],
+      "shoes.boots": [
+        1657109993,
+        10023
+      ],
+      "smg.mp5": [
+        1654499223
+      ],
+      "knife.combat": [
+        1715608877
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198164546390": {
+    "defaultSkins": {},
+    "purchasedSkins": {
+      "rifle.ak": [
+        1575397458
+      ]
+    },
+    "displayMode": 1
+  },
+  "76561198335893806": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198329317481": {
+    "defaultSkins": {
+      "metal.facemask": 784316334,
+      "lmg.m249": 1719536313,
+      "roadsign.kilt": 1400837602
+    },
+    "purchasedSkins": {
+      "metal.facemask": [
+        784316334
+      ],
+      "metal.plate.torso": [
+        797410767
+      ],
+      "lmg.m249": [
+        1719536313
+      ],
+      "rifle.ak": [
+        840477492,
+        859845460
+      ],
+      "roadsign.kilt": [
+        1400837602
+      ],
+      "pants": [
+        10048
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198282984071": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198270986139": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198950951056": {
+    "defaultSkins": {},
+    "purchasedSkins": {
+      "door.hinged.metal": [
+        934924536
+      ],
+      "wall.frame.garagedoor": [
+        1529558717
+      ],
+      "box.wooden.large": [
+        1582501552
+      ],
+      "icepick.salvaged": [
+        933760454
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198958353273": {
+    "defaultSkins": {},
+    "purchasedSkins": {
+      "lmg.m249": [
+        1712378771
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198123462209": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198123125387": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198084778607": {
+    "defaultSkins": {},
+    "purchasedSkins": {
+      "furnace": [
+        1723387671
+      ],
+      "rifle.ak": [
+        859845460
+      ],
+      "table": [
+        872346354
+      ],
+      "box.wooden.large": [
+        1196352289
+      ]
+    },
+    "displayMode": 1
+  },
+  "76561198185335545": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198366897658": {
+    "defaultSkins": {
+      "knife.combat": 1706788762,
+      "rifle.ak": 10138,
+      "rifle.lr300": 1419392688
+    },
+    "purchasedSkins": {
+      "knife.combat": [
+        1706788762
+      ],
+      "rifle.ak": [
+        10138
+      ],
+      "rifle.lr300": [
+        1621894466,
+        1419392688
+      ]
+    },
+    "displayMode": 1
+  },
+  "76561198037803141": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198360870745": {
+    "defaultSkins": {
+      "hoodie": 835836079,
+      "rifle.lr300": 1176479716,
+      "metal.facemask": 900645045,
+      "pants": 1448346336,
+      "explosive.satchel": 1586074827,
+      "sleepingbag": 1565127136,
+      "door.hinged.toptier": 1477263064,
+      "burlap.headwrap": 942098139,
+      "mask.bandana": 903595865,
+      "metal.plate.torso": 1771804406,
+      "roadsign.jacket": 1759481001,
+      "rifle.m39": 1707880195,
+      "burlap.gloves.new": 1633859273
+    },
+    "purchasedSkins": {
+      "hoodie": [
+        835836079,
+        10142,
+        1448343881,
+        1740562395,
+        1150818496,
+        1408832378,
+        1385322661
+      ],
+      "rifle.lr300": [
+        1176479716,
+        1635559091
+      ],
+      "metal.facemask": [
+        900645045,
+        943128194,
+        1638135398,
+        1313529548,
+        792079554,
+        1587225942
+      ],
+      "pants": [
+        1448346336,
+        1740563572,
+        1229552157,
+        1587846022
+      ],
+      "explosive.satchel": [
+        1586074827
+      ],
+      "sleepingbag": [
+        1565127136
+      ],
+      "door.hinged.toptier": [
+        1477263064
+      ],
+      "burlap.headwrap": [
+        896506958,
+        942098139,
+        822358002
+      ],
+      "mask.bandana": [
+        903595865
+      ],
+      "burlap.gloves.new": [
+        610098458,
+        904961862,
+        1633859273
+      ],
+      "shoes.boots": [
+        10034,
+        1100926907,
+        1657109993
+      ],
+      "wall.frame.garagedoor": [
+        1309406283,
+        1398568170,
+        1523814360
+      ],
+      "metal.plate.torso": [
+        1771804406,
+        1638812721,
+        895066686,
+        1522963149,
+        1753699785,
+        1586132318
+      ],
+      "box.wooden.large": [
+        798455489,
+        928502682,
+        942917320,
+        1196352289
+      ],
+      "smg.mp5": [
+        1693898215
+      ],
+      "roadsign.kilt": [
+        1400837602,
+        1558579257,
+        1759482713,
+        1657108026,
+        1737733590
+      ],
+      "roadsign.jacket": [
+        1400828574,
+        1388417448,
+        1759481001,
+        1248434418,
+        1743991748
+      ],
+      "lmg.m249": [
+        1719536313
+      ],
+      "rifle.m39": [
+        1707880195
+      ],
+      "rocket.launcher": [
+        1657103887
+      ],
+      "locker": [
+        1328242213
+      ],
+      "attire.hide.skirt": [
+        793180528
+      ],
+      "attire.hide.poncho": [
+        1269162578,
+        825459163
+      ],
+      "attire.hide.boots": [
+        1230633097
+      ],
+      "attire.hide.helterneck": [
+        798669794
+      ],
+      "burlap.shirt": [
+        1294812700,
+        1229561297
+      ],
+      "burlap.trousers": [
+        1380047706
+      ],
+      "hat.beenie": [
+        10040
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198220550199": {
+    "defaultSkins": {
+      "metal.plate.torso": 1638812721,
+      "hoodie": 1740562395,
+      "pants": 1740563572,
+      "metal.facemask": 1638135398,
+      "roadsign.kilt": 1657108026,
+      "shoes.boots": 1657109993
+    },
+    "purchasedSkins": {
+      "metal.plate.torso": [
+        1638812721
+      ],
+      "metal.facemask": [
+        1638135398
+      ],
+      "pants": [
+        1740563572
+      ],
+      "hoodie": [
+        1740562395
+      ],
+      "roadsign.kilt": [
+        1657108026
+      ],
+      "shoes.boots": [
+        1657109993
+      ],
+      "rifle.lr300": [
+        1553359638
+      ],
+      "door.hinged.metal": [
+        1380022034
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198130654182": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198842290815": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198278729873": {
+    "defaultSkins": {
+      "rifle.lr300": 1635559091
+    },
+    "purchasedSkins": {
+      "rifle.lr300": [
+        1635559091
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198176074135": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198040413897": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198807895446": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198121974206": {
+    "defaultSkins": {},
+    "purchasedSkins": {
+      "rifle.ak": [
+        840477492,
+        875130056,
+        885146172,
+        849047662,
+        859845460,
+        654502185,
+        809190373,
+        10138,
+        10137,
+        10135,
+        920472848,
+        908297014,
+        895307805
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198839450012": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198044401057": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198830604258": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198880321380": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198216504789": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198387180080": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198799191457": {
+    "defaultSkins": {
+      "metal.facemask": 800980236
+    },
+    "purchasedSkins": {
+      "rifle.ak": [
+        10138,
+        809190373
+      ],
+      "metal.facemask": [
+        800980236
+      ],
+      "metal.plate.torso": [
+        798736321
+      ]
+    },
+    "displayMode": 2
+  },
+  "76561198353904355": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198338466685": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198348421932": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198364379352": {
+    "defaultSkins": {
+      "door.hinged.toptier": 1376526519,
+      "wall.frame.garagedoor": 1461027316,
+      "furnace": 1539005624
+    },
+    "purchasedSkins": {
+      "door.hinged.toptier": [
+        1376526519
+      ],
+      "wall.frame.garagedoor": [
+        1461027316
+      ],
+      "furnace": [
+        1775718906,
+        1539005624
+      ]
+    },
+    "displayMode": 1
+  },
+  "76561198969918712": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198079878394": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198150536286": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198067267394": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  },
+  "76561198405419870": {
+    "defaultSkins": {},
+    "purchasedSkins": {},
+    "displayMode": 2
+  }
+}

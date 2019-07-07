@@ -1,0 +1,19 @@
+{
+  "No Permission": "You cannot use this command!",
+  "Event Already Active": "There is currently already an event that is active!",
+  "Event Started": "A random number event has started, correctly guess the random number (between {0} and {1}) to win a prize! use /guess <number> to enter",
+  "Help Message": "<color=#cccc00>/gtn start</color> (this will use the default min/max set in the config)",
+  "Help Message1": "<color=#cccc00>/gtn start <min number> <max number></color> (allows you to set custom min/max numbers)",
+  "Help Message2": "<color=#cccc00>/gtn end</color> (will end the current event)",
+  "No Event": "There are no current events active",
+  "Max Tries": "You have already guessed the maximum number of times",
+  "Event Win": "{0} has won the event! (correct number was {1})",
+  "Economics Reward": "You have earned ${0} for guessing the correct number!",
+  "ServerRewards Reward": "You have earned {0} RP for guessing the correct number!",
+  "Wrong Number": "You guessed the wrong number (you have {0} tries left)",
+  "/guess Invalid Syntax": "Invalid syntax! /guess <number>",
+  "Event Timed Out": "The event time has run out and no one successfully guessed the number!",
+  "Invalid Guess Entry": "The guess you entered was invalid! numbers only please",
+  "Event Created": "The event has been succesfully created, the winning number is {0}",
+  "GTN console invalid syntax": "Invalid syntax! gtn <start/end> <min number> <max number>"
+}

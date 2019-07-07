@@ -1,0 +1,23 @@
+{
+  "Title": "Voting: ",
+  "availVotes": "Available votes.",
+  "voted": "Thanks for your vote",
+  "noVote": "No such vote",
+  "noVoteVariant": "No such vote variant",
+  "badSyntax": "Error, use /vote",
+  "syntax": "Syntax: /vote addtimed DDMMYYYY \"name of vote\" \"first value\" \"second value\"\n/vote add \"name of vote\" \"first value\" \"second value\"\n/vote stop <number>\n/vote start <number>\n/vote remove <number>\n/vote reset <number>",
+  "alreadyVoted": "You have already voted",
+  "voteReset": "Vote reseted",
+  "voteAdd": "New vote added",
+  "voteAddAnnounce": "New vote {0} added, use /{1}",
+  "voteRemove": "Vote removed",
+  "voteStart": "Vote started",
+  "voteStop": "Vote stopped",
+  "voteRewardSR2": "You've been rewarded for voting {0} RP for /s",
+  "voteRewardE": "You've been rewarded for voting",
+  "tillDate": " till ",
+  "votes": "votes",
+  "announceWithReward": "{0} votes available, type /{1} and recieve some rewards, help server to get better",
+  "announce": "{0} votes available, type /{1}, help server to get better",
+  "notEnoughTime": "Sorry, you cannot use the vote as being a new player, plase stay at server for another {0} hours"
+}

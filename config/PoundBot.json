@@ -1,0 +1,7 @@
+{
+  "api.key": "54d7c8ed-7087-4396-86a9-da0fed7b5c2e",
+  "api.url": "https://api.poundbot.com/",
+  "config.version": 2,
+  "players.registered.group": "poundbot.registered",
+  "show_own_damage": true
+}

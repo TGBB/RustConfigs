@@ -1,0 +1,35 @@
+{
+  "Remote Settings": {
+    "Allow players to cycle through all linked turrets": true,
+    "Can players toggle turret automation": true,
+    "Can players control the turret remotely": true,
+    "Can players access the turret inventory": true,
+    "Display camera overlay UI": true,
+    "Camera overlay image URL": "http://www.chaoscode.io/oxide/Images/RustNET/turretoverlay.png",
+    "Turret icon URL for RustNET menu": "http://www.chaoscode.io/oxide/Images/RustNET/turreticon.png"
+  },
+  "Options": {
+    "Maximum distance a turret controller can be set away from the terminal": 50.0,
+    "Turret options per permission": {
+      "remoteturrets.set": {
+        "Turret Settings": {
+          "Fire Rate - Time between shots in seconds": 0.115,
+          "Aim Cone (Accuracy)": 4.0
+        },
+        "Maximum turrets allowed per base": 6
+      },
+      "remoteturrets.pro": {
+        "Turret Settings": {
+          "Fire Rate - Time between shots in seconds": 0.115,
+          "Aim Cone (Accuracy)": 4.0
+        },
+        "Maximum turrets allowed per base": 20
+      }
+    }
+  },
+  "Version": {
+    "Major": 0,
+    "Minor": 2,
+    "Patch": 22
+  }
+}

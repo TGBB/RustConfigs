@@ -1,0 +1,73 @@
+{
+  "Auto": {
+    "aimCones": {
+      "turretconfig.default": 6.0
+    },
+    "ammoTypes": {
+      "turretconfig.default": "ammo.rifle"
+    },
+    "autoHealths": {
+      "turretconfig.default": 1000.0
+    },
+    "bulletModifiers": {
+      "turretconfig.default": 2.0
+    },
+    "bulletSpeeds": {
+      "turretconfig.default": 200.0
+    },
+    "defaultAimCone": 6.0,
+    "defaultAmmoType": "ammo.rifle",
+    "defaultAutoHealth": 1000,
+    "defaultBulletModifier": 1.0,
+    "defaultBulletSpeed": 220.0,
+    "defaultSightRange": 34.0,
+    "sightRanges": {
+      "turretconfig.default": 30.0
+    }
+  },
+  "Flame": {
+    "arcs": {
+      "turretconfig.default": 45.0
+    },
+    "defaultArc": 45.0,
+    "defaultFlameHealth": 300.0,
+    "defaultFlameModifier": 1.0,
+    "defaultFlameRadius": 4.0,
+    "defaultFlameRange": 7.0,
+    "defaultFuelPerSec": 1.0,
+    "defaultTriggerDuration": 5.0,
+    "flameHealths": {
+      "turretconfig.default": 300.0
+    },
+    "flameModifiers": {
+      "turretconfig.default": 2.0
+    },
+    "flameRadiuses": {
+      "turretconfig.default": 4.0
+    },
+    "flameRanges": {
+      "turretconfig.default": 7.0
+    },
+    "fuelPerSecs": {
+      "turretconfig.default": 1.0
+    },
+    "triggerDurations": {
+      "turretconfig.default": 5.0
+    }
+  },
+  "Settings": {
+    "adminOverride": true,
+    "animalOverride": true,
+    "animals": [
+      "stag",
+      "boar",
+      "chicken",
+      "horse"
+    ],
+    "globalDamageModifier": 1.0,
+    "infiniteAmmo": false,
+    "sleepOverride": false,
+    "useGlobalDamageModifier": false
+  },
+  "VERSION": "2.0.7"
+}

@@ -1,0 +1,9 @@
+{
+  "Display banner (for players with permission .banner)": {
+    "On Air Drop": "true",
+    "On Cargo spawn": "true"
+  },
+  "Map Marker settings": {
+    "Radius (10 by default)": "0.5"
+  }
+}

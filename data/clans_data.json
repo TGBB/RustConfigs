@@ -1,0 +1,137 @@
+{
+  "idk": {
+    "clanTag": "idk",
+    "ownerID": "76561198393017307",
+    "moderators": [],
+    "members": {
+      "76561198393017307": "Apollo-117"
+    },
+    "clanAlliances": [],
+    "invitedPlayers": {
+      "76561198403280910": "Tdot"
+    },
+    "invitedAllies": [],
+    "pendingInvites": [
+      "BAD"
+    ]
+  },
+  "BAD": {
+    "clanTag": "BAD",
+    "ownerID": "76561198926329876",
+    "moderators": [],
+    "members": {
+      "76561198926329876": "jmts223"
+    },
+    "clanAlliances": [],
+    "invitedPlayers": {},
+    "invitedAllies": [
+      "idk"
+    ],
+    "pendingInvites": []
+  },
+  "SAL": {
+    "clanTag": "SAL",
+    "ownerID": "76561198844399580",
+    "moderators": [],
+    "members": {
+      "76561198844399580": "Unconscious"
+    },
+    "clanAlliances": [],
+    "invitedPlayers": {},
+    "invitedAllies": [],
+    "pendingInvites": []
+  },
+  "NmB": {
+    "clanTag": "NmB",
+    "ownerID": "76561198347694134",
+    "moderators": [],
+    "members": {
+      "76561198347694134": "NoneChen",
+      "76561198378449674": "0MEN"
+    },
+    "clanAlliances": [],
+    "invitedPlayers": {},
+    "invitedAllies": [],
+    "pendingInvites": []
+  },
+  "RvT": {
+    "clanTag": "RvT",
+    "ownerID": "76561198861570548",
+    "moderators": [],
+    "members": {
+      "76561198861570548": "Sorry"
+    },
+    "clanAlliances": [],
+    "invitedPlayers": {
+      "76561198888801320": "Baseball_God",
+      "76561198875941961": "PVP_godesses"
+    },
+    "invitedAllies": [],
+    "pendingInvites": []
+  },
+  "Gay": {
+    "clanTag": "Gay",
+    "ownerID": "76561198306046509",
+    "moderators": [],
+    "members": {
+      "76561198306046509": "✪Sana 사나 CS.MONEY",
+      "76561198393020860": "Marcello"
+    },
+    "clanAlliances": [],
+    "invitedPlayers": {},
+    "invitedAllies": [],
+    "pendingInvites": []
+  },
+  "APX": {
+    "clanTag": "APX",
+    "ownerID": "76561198146180230",
+    "moderators": [],
+    "members": {
+      "76561198146180230": "Hypnotikk",
+      "76561198143209361": "Rachito"
+    },
+    "clanAlliances": [],
+    "invitedPlayers": {},
+    "invitedAllies": [],
+    "pendingInvites": []
+  },
+  "BPM": {
+    "clanTag": "BPM",
+    "ownerID": "76561198396026729",
+    "moderators": [],
+    "members": {
+      "76561198396026729": "Jockustoe"
+    },
+    "clanAlliances": [],
+    "invitedPlayers": {
+      "76561198868817531": "Coldoughnut"
+    },
+    "invitedAllies": [],
+    "pendingInvites": []
+  },
+  "ZG": {
+    "clanTag": "ZG",
+    "ownerID": "76561198360830024",
+    "moderators": [],
+    "members": {
+      "76561198360830024": "[ZG] OdinsSohn"
+    },
+    "clanAlliances": [],
+    "invitedPlayers": {},
+    "invitedAllies": [],
+    "pendingInvites": []
+  },
+  "VL": {
+    "clanTag": "VL",
+    "ownerID": "76561198046916104",
+    "moderators": [],
+    "members": {
+      "76561198046916104": "ReApZ_MuErTe_MeX.",
+      "76561198268109310": "Cesar00"
+    },
+    "clanAlliances": [],
+    "invitedPlayers": {},
+    "invitedAllies": [],
+    "pendingInvites": []
+  }
+}

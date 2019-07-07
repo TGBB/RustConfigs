@@ -1,0 +1,12 @@
+{
+  "No Permission": "You are not allowed to use this command",
+  "No Entity Found": "No door was found",
+  "No Permission For DoorType": "You are not allowed to upgrade this type of door",
+  "Need Building Auth": "You need building authorization to upgrade this door",
+  "Need Lock Auth": "You need to be authorized on the lock to upgrade this door",
+  "Sliding Door Enabled": "Sliding door enabled",
+  "Sliding Door Disabled": "Sliding door disabled",
+  "/SAD Invalid Syntax": "Invaild Syntax! /sad <time>",
+  "Invalid Input": "Invalid time input!",
+  "SAD timing updated": "Sliding Auto Door timing has been updated"
+}

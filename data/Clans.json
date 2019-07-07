@@ -1,0 +1,214 @@
+{
+  "clans": {
+    "USSR": {
+      "tag": "USSR",
+      "description": "",
+      "owner": "76561198210288324",
+      "council": null,
+      "created": 1562401603,
+      "updated": 1562453430,
+      "moderators": [],
+      "members": [
+        "76561198210288324",
+        "76561198082104414",
+        "76561198372997470",
+        "76561198890631860"
+      ],
+      "invites": {},
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": []
+    },
+    "Xans": {
+      "tag": "Xans",
+      "description": "",
+      "owner": "76561198867207359",
+      "council": null,
+      "created": 1562302720,
+      "updated": 1562302720,
+      "moderators": [],
+      "members": [
+        "76561198867207359"
+      ],
+      "invites": {},
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": []
+    },
+    "bap": {
+      "tag": "bap",
+      "description": "",
+      "owner": "76561198136354521",
+      "council": null,
+      "created": 1562332265,
+      "updated": 1562342848,
+      "moderators": [],
+      "members": [
+        "76561198136354521",
+        "76561198251389042"
+      ],
+      "invites": {},
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": []
+    },
+    "fap": {
+      "tag": "fap",
+      "description": "",
+      "owner": "76561198875941961",
+      "council": null,
+      "created": 1562368749,
+      "updated": 1562370527,
+      "moderators": [],
+      "members": [
+        "76561198875941961",
+        "76561197995138893"
+      ],
+      "invites": {},
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": []
+    },
+    "Nom": {
+      "tag": "Nom",
+      "description": "",
+      "owner": "76561198150536286",
+      "council": null,
+      "created": 1562381560,
+      "updated": 1562454087,
+      "moderators": [],
+      "members": [
+        "76561198150536286",
+        "76561198807895446",
+        "76561198394180931"
+      ],
+      "invites": {},
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": []
+    },
+    "HOMO": {
+      "tag": "Actually A Gay Guy",
+      "description": "",
+      "owner": "76561198202072202",
+      "council": null,
+      "created": 1562382185,
+      "updated": 1562382185,
+      "moderators": [],
+      "members": [
+        "76561198202072202"
+      ],
+      "invites": {},
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": []
+    },
+    "Grim": {
+      "tag": "Grim",
+      "description": "",
+      "owner": "76561198800403309",
+      "council": null,
+      "created": 1562387630,
+      "updated": 1562387630,
+      "moderators": [],
+      "members": [
+        "76561198800403309"
+      ],
+      "invites": {},
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": []
+    },
+    "Pve": {
+      "tag": "Pve",
+      "description": "",
+      "owner": "76561198968565924",
+      "council": null,
+      "created": 1562392012,
+      "updated": 1562454917,
+      "moderators": [],
+      "members": [
+        "76561198968565924",
+        "76561198085765933",
+        "76561198340480470"
+      ],
+      "invites": {},
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": []
+    },
+    "W40": {
+      "tag": "W40",
+      "description": "Fun",
+      "owner": "76561198017850693",
+      "council": null,
+      "created": 1562392476,
+      "updated": 1562402990,
+      "moderators": [],
+      "members": [
+        "76561198017850693",
+        "76561197991901031",
+        "76561198033539638"
+      ],
+      "invites": {},
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": []
+    },
+    "CBT": {
+      "tag": "CBT",
+      "description": "",
+      "owner": "76561198101525007",
+      "council": null,
+      "created": 1562397782,
+      "updated": 1562452089,
+      "moderators": [],
+      "members": [
+        "76561198101525007",
+        "76561198067267394",
+        "76561198210503144"
+      ],
+      "invites": {},
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": []
+    },
+    "dunk": {
+      "tag": "dunk",
+      "description": "",
+      "owner": "76561198101326286",
+      "council": null,
+      "created": 1562452126,
+      "updated": 1562455864,
+      "moderators": [],
+      "members": [
+        "76561198101326286",
+        "76561198131060231",
+        "76561198004742873"
+      ],
+      "invites": {},
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": []
+    },
+    "m247": {
+      "tag": "m247",
+      "description": "",
+      "owner": "76561198880410897",
+      "council": null,
+      "created": 1562454996,
+      "updated": 1562455046,
+      "moderators": [],
+      "members": [
+        "76561198880410897",
+        "76561198152447708"
+      ],
+      "invites": {},
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": []
+    }
+  },
+  "saveStamp": 1562456182,
+  "lastStorage": "json"
+}

@@ -1,0 +1,10 @@
+{
+  "FindSolarPanelsAdjust": "Finding and adjusting all Solar Panels. (This may take some time)",
+  "FindBatteriesAdjust": "Finding and adjusting all Batteries. (This may take some time)",
+  "FindSolarPanelsRevert": "Finding and reverting all Solar Panels. (This may take some time)",
+  "FindBatteriesRevert": "Finding and reverting all Batteries. (This may take some time)",
+  "HelpMenu": "====== Player Commands ======",
+  "BeReloadHelp": "/belectric reload => Reloads the config.",
+  "NoPermission": "No Permission!",
+  "ConfigUpdateOrFix": "Configuration file is corrupt (or doesn't exists), creating new one!"
+}

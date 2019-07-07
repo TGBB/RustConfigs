@@ -1,0 +1,65 @@
+{
+  "Apikey": "NTY4MzI3NzEwMDM2NzIxNjc2.XOjSyQ.ig7l2eV7AqgGj2GWsCvw34hWPU0",
+  "Channels": [
+    {
+      "channelid": "568333690363445248",
+      "perms": [
+        "p_death",
+		"death_pvp",
+		"death_animal",
+		"death_vehicle",
+		"death_pve"
+      ]
+    },
+	{
+      "channelid": "568342988556861440",
+      "perms": [
+        "p_chat",
+      ]
+    },
+	{
+      "channelid": "568344362812047371",
+      "perms": [
+        
+        "p_connect",
+		"p_disconnect"
+      ]
+    },
+	{
+      "channelid": "546480052393476097",
+      "perms": [
+        "p_report"
+      ]
+    },
+	{
+      "channelid": "548073885011148821",
+      "perms": [
+        "p_bug"
+      ]
+    },
+	{
+      "channelid": "568317744508829739",
+      "perms": [
+        "msg_serverinit",
+		"msg_helispawn",
+		"msg_planespawn",
+		"msg_bradleyspawn",
+		"msg_shipspawn",
+		"msg_chinookspawn",
+		"p_chat"
+      ]
+    }
+  ],
+  "Commandprefix": "*",
+  "Commandroles": {
+    "command": [
+      "Admin",
+      "Moderator"
+    ]
+  },
+  "FilteredWord": "<censored>",
+  "FilterWords": [
+    "nigger",
+    "fag"
+  ]
+}

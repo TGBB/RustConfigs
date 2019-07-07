@@ -1,0 +1,15 @@
+{
+  "Log Player Healing1": "'{0}({1})' used '{2}' {3}",
+  "Log Player Respawning1": "'{0}({1})' has respawned {2}",
+  "Log Entity Attack1": "'{0}{5}' were attacked by '{1}{6}' {2}for {3} damage {4}",
+  "Log Player Hurt Himself1": "'{0}' hurt himself {1}for {2} damage {3}",
+  "Log Entity Death1": "'{0}{4}' were killed by '{1}{5}' {2}{3}",
+  "Log Player Kill Himself1": "'{0}' committed suicide {1}{2}{3}",
+  "Log Player Hurt Other": "'{0}' were killed by '{1}' {2}",
+  "Log Weapon": "with a",
+  "Log Suicide": "damage",
+  "Log Distance F": "from",
+  "Log Distance M": "meters",
+  "Log Damage": "for",
+  "Log At": "at"
+}

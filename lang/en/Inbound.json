@@ -1,0 +1,12 @@
+{
+  "CargoPlaneInbound1": "Cargo plane inbound{0}!",
+  "HelicopterInbound1": "Helicopter inbound{0}!",
+  "SupplyDropInbound1": "Supply drop inbound{0}!",
+  "CargoshipInbound1": "Cargoship inbound{0}!",
+  "ChinookInbound1": "Chinook inbound{0}!",
+  "BradleyInbound": "Bradley inbound{0}!",
+  "PlayerSupplyDrop1": "{0} has deployed a supply drop{1}!",
+  "PositionAt": " at {0}",
+  "HackableInbound": "Hackable Crate dropped{0}!",
+  "HackablePlayer": "{0} has started hacking a crate{1}!"
+}

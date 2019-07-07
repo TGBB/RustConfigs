@@ -1,0 +1,32 @@
+{
+  "Text Display Frequency (Seconds)": 0.3,
+  "Enable Messages Cyclicity": false,
+  "Use Random Cyclicity (Instead of sequential)": false,
+  "Cycle Messages Every ~N Seconds": 4.0,
+  "Messages": [
+    {
+      "Top Status": "<color=#ffff00>Welcome to California 20x!</color>",
+      "Bottom Status": "<color=#add8e6>Loading... Be Patient!</color>"
+    },
+    {
+      "Top Status": "<color=#add8e6>Welcome to California 20x!</color>",
+      "Bottom Status": "<color=#ffff00>Do /help and /rules!</color>"
+    }
+  ],
+  "Enable Queue Messages": true,
+  "Queue Messages": [
+    {
+      "Top Status": "<color=##ffff00>You're in queue...</color>",
+      "Bottom Status": "<color=#add8e6>{AHEAD} players ahead of you.</color>"
+    },
+    {
+      "Top Status": "<color=#add8e6>You're in queue...</color>",
+      "Bottom Status": "<color=#ffff00>{BEHIND} players behind you.</color>"
+    }
+  ],
+  "QueuePosition": null,
+  "Last Message (When entering game)": {
+    "Top Status": "<color=#ffff00>Welcome to our server!</color>",
+    "Bottom Status": "<color=#008000>Entering game...</color>"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "DroppedMsg": "Aidrop dropped ! Check its position on your MAP (G) - magenta marker.",
+  "SpawnMsg": "A Cargo Plane has spawn. Airdrop will be notified on time.",
+  "LootedMsg": "Someone is looting a SupplyDrop. Marker changed to cyan color.",
+  "KilledMsg": "A Supplydrop has despawn.",
+  "HUDDistanceMsg": "<size=12><color=orange>{0}m.</color></size> away",
+  "HUDAirdropMsg": "<color=white>AIRDROP</color><color=black>#</color>{0}\n{1}"
+}

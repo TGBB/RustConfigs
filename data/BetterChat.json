@@ -1,0 +1,393 @@
+[
+  {
+    "GroupName": "admin",
+    "Priority": 0,
+    "Title": {
+      "Text": "Staff>",
+      "Color": "red",
+      "Size": 16,
+      "Hidden": false,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "White",
+      "Size": 16
+    },
+    "Message": {
+      "Color": "White",
+      "Size": 16
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+  {
+    "GroupName": "allkits",
+    "Priority": 0,
+    "Title": {
+      "Text": "{Donator}",
+      "Color": "#55aaff",
+      "Size": 15,
+      "Hidden": false,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "#55aaff",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "white",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+  {
+    "GroupName": "bi",
+    "Priority": 0,
+    "Title": {
+      "Text": "{lil Gay lil Straight}",
+      "Color": "#FF0080",
+      "Size": 15,
+      "Hidden": false,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "#55aaff",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "white",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+  {
+    "GroupName": "builder",
+    "Priority": 0,
+    "Title": {
+      "Text": "Builder",
+      "Color": "#0000A0",
+      "Size": 15,
+      "Hidden": false,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "#55aaff",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "white",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+  {
+    "GroupName": "cust1",
+    "Priority": 0,
+    "Title": {
+      "Text": "{Ghostrider}",
+      "Color": "#c6153c",
+      "Size": 15,
+      "Hidden": false,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "#55aaff",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "white",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+  {
+    "GroupName": "default",
+    "Priority": 0,
+    "Title": {
+      "Text": "",
+      "Color": "#55aaff",
+      "Size": 15,
+      "Hidden": true,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "#0080C0",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "white",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+  {
+    "GroupName": "donor",
+    "Priority": 0,
+    "Title": {
+      "Text": "{Donator}",
+      "Color": "#00FF40",
+      "Size": 15,
+      "Hidden": false,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "#55aaff",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "Black",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+  {
+    "GroupName": "gay",
+    "Priority": 0,
+    "Title": {
+      "Text": "{JUST GAY}",
+      "Color": "#EA44EA",
+      "Size": 15,
+      "Hidden": false,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "#55aaff",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "white",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+  {
+    "GroupName": "legends",
+    "Priority": 0,
+    "Title": {
+      "Text": "{Legend}",
+      "Color": "#FFD700",
+      "Size": 16,
+      "Hidden": false,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "Black",
+      "Size": 16
+    },
+    "Message": {
+      "Color": "white",
+      "Size": 16
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+  {
+    "GroupName": "meme",
+    "Priority": 0,
+    "Title": {
+      "Text": "{MEME LORD}",
+      "Color": "#EE15DE",
+      "Size": 16,
+      "Hidden": false,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "#55aaff",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "white",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+  {
+    "GroupName": "milf",
+    "Priority": 0,
+    "Title": {
+      "Text": "{MILF}",
+      "Color": "#FF0080",
+      "Size": 15,
+      "Hidden": false,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "#55aaff",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "white",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+  {
+    "GroupName": "mod",
+    "Priority": 0,
+    "Title": {
+      "Text": "Staff>",
+      "Color": "#FF8040",
+      "Size": 16,
+      "Hidden": false,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "#8000FF",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "#00FF40",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+  {
+    "GroupName": "mq",
+    "Priority": 0,
+    "Title": {
+      "Text": "{MEME QUEEN}",
+      "Color": "#8000FF",
+      "Size": 15,
+      "Hidden": false,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "#55aaff",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "white",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+  {
+    "GroupName": "owner",
+    "Priority": 1,
+    "Title": {
+      "Text": "OWNER",
+      "Color": "Fuchsia",
+      "Size": 17,
+      "Hidden": false,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "White",
+      "Size": 17
+    },
+    "Message": {
+      "Color": "#FF8000",
+      "Size": 16
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+  {
+    "GroupName": "vari",
+    "Priority": 0,
+    "Title": {
+      "Text": "[V]",
+      "Color": "Lime",
+      "Size": 16,
+      "Hidden": false,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "#55aaff",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "white",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+  {
+    "GroupName": "vip",
+    "Priority": 0,
+    "Title": {
+      "Text": "{VIP}-",
+      "Color": "#0080FF",
+      "Size": 16,
+      "Hidden": false,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "#FB7D00",
+      "Size": 16
+    },
+    "Message": {
+      "Color": "white",
+      "Size": 16
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+  {
+    "GroupName": "vipplus",
+    "Priority": 0,
+    "Title": {
+      "Text": "{VIP}-",
+      "Color": "#00FF40",
+      "Size": 16,
+      "Hidden": false,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "#55aaff",
+      "Size": 16
+    },
+    "Message": {
+      "Color": "white",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  }
+]

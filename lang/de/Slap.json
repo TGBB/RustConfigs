@@ -1,0 +1,9 @@
+{
+  "CommandUsage": "Verbrauch: {0} <Name oder Id> <amount> (Betrag ist optional)",
+  "Cooldown": "Noch ein bisschen warten Sie, bevor Sie versuchen, wieder zu schlagen",
+  "NotAllowed": "Sie sind nicht berechtigt, verwenden Sie den Befehl '{0}'",
+  "PlayerNotFound": "Player '{0}' wurde nicht gefunden",
+  "PlayerSlapped": "{0} hat geschlagen!",
+  "YouGotSlapped": "Sie bekam schlug!",
+  "YouGotSlappedBy": "Sie bekam von {0} geschlagen!"
+}

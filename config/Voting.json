@@ -1,0 +1,30 @@
+{
+  "Overall": {
+    "AnnounceMessage": "{0} votes available, type /{1}, vote and get 250RP and help server to get better",
+    "AnnounceMessageNewVote": "New vote {0} added, use /{1}",
+    "AnnounceNewVote": true,
+    "AnnounceTimer": 65,
+    "AnnounceUseGUIAnnouncements": false,
+    "AnnounceUsePopupNotifications": true,
+    "ChatCommand": "vote",
+    "LimitByPlayedTime": 0,
+    "UseLimitByPlayedTime": false
+  },
+  "Rewards": {
+    "AddPointsServerRewardsForVote": 250,
+    "DepositEconomicsForVote": 0,
+	"scrap": 0
+  },
+  "UI": {
+    "AnchorMax": "0.95 0.95",
+    "AnchorMin": "0.05 0.05",
+    "BackgroundColor": "0 0 0 0.8",
+    "VoteNameAlreadyVotedColor": "1 0 0 1",
+    "VoteNameColor": "1 0 0 1",
+    "VoteNameFontSize": 18,
+    "VoteValueBackground": "0.5 0.5 0.5 1",
+    "VoteValueColor": "0 0.8 0.3",
+    "VoteValueColorAlreadyVoted": "0 0 0 1",
+    "VoteValueFontSize": 18
+  }
+}

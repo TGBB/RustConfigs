@@ -1,0 +1,1174 @@
+{
+  "Kits": {
+    "my": {
+      "name": "My",
+      "description": null,
+      "max": 0,
+      "cooldown": 0.0,
+      "authlevel": 0,
+      "hide": false,
+      "npconly": false,
+      "permission": null,
+      "image": null,
+      "building": null,
+      "items": []
+    },
+    "home": {
+      "name": "Home",
+      "description": null,
+      "max": 0,
+      "cooldown": 0.0,
+      "authlevel": 0,
+      "hide": false,
+      "npconly": false,
+      "permission": null,
+      "image": null,
+      "building": null,
+      "items": []
+    },
+    "dressmedaddy": {
+      "name": "DressMeDaddy",
+      "description": "Just a basic set of warm atire.",
+      "max": 10,
+      "cooldown": 200.0,
+      "authlevel": 0,
+      "hide": false,
+      "npconly": false,
+      "permission": "kits.Dress",
+      "image": "https://rustlabs.com/img/items180/hoodie.png",
+      "building": null,
+      "items": [
+        {
+          "itemid": -1549739227,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 237239288,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 1751045826,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 1366282552,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        }
+      ]
+    },
+    "autokit": {
+      "name": "autokit",
+      "description": null,
+      "max": 0,
+      "cooldown": 0.0,
+      "authlevel": 1,
+      "hide": true,
+      "npconly": false,
+      "permission": null,
+      "image": null,
+      "building": null,
+      "items": [
+        {
+          "itemid": 1608640313,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -1695367501,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 794356786,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -22883916,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 785728077,
+          "container": "main",
+          "amount": 293,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -1252059217,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -1302129395,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 818877484,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": true,
+          "blueprintTarget": 0,
+          "mods": []
+        }
+      ]
+    },
+    "marksman": {
+      "name": "Marksman",
+      "description": "This kit is unlocked by donation. It contains an l96, M39, 16x scope 8x scope 4000HV ammo, Binoculars, Roadsign armor, and more",
+      "max": 0,
+      "cooldown": 7200.0,
+      "authlevel": 0,
+      "hide": false,
+      "npconly": false,
+      "permission": "kits.marks",
+      "image": "https://rustlabs.com/img/items180/rifle.l96.png",
+      "building": null,
+      "items": [
+        {
+          "itemid": -2002277461,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 1850456855,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -699558439,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 237239288,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 567235583,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 174866732,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -132516482,
+          "container": "main",
+          "amount": 2,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -1850571427,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -1850571427,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 1712070256,
+          "container": "main",
+          "amount": 2000,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -778367295,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": true,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 1079279582,
+          "container": "belt",
+          "amount": 100,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -1262185308,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -194953424,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 818877484,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": true,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 28201841,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": true,
+          "blueprintTarget": 0,
+          "mods": []
+        }
+      ]
+    },
+    "raid": {
+      "name": "Raid",
+      "description": "The kit contains a M249, 20C4 20 Rockets, +more do /info",
+      "max": 0,
+      "cooldown": 7000.0,
+      "authlevel": 0,
+      "hide": false,
+      "npconly": false,
+      "permission": "kits.Raid",
+      "image": "https://rustlabs.com/img/items180/lmg.m249.png",
+      "building": null,
+      "items": [
+        {
+          "itemid": 1110385766,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -194953424,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -1108136649,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -1549739227,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 935692442,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 237239288,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -1880870149,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -1321651331,
+          "container": "main",
+          "amount": 1000,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -742865266,
+          "container": "main",
+          "amount": 22,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 785728077,
+          "container": "main",
+          "amount": 146,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -2069578888,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": true,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 442886268,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": true,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 1079279582,
+          "container": "belt",
+          "amount": 150,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 1248356124,
+          "container": "belt",
+          "amount": 15,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        }
+      ]
+    },
+    "jackme": {
+      "name": "JackMe",
+      "description": "A Jack Hammer",
+      "max": 0,
+      "cooldown": 100.0,
+      "authlevel": 0,
+      "hide": false,
+      "npconly": false,
+      "permission": "kits.jack",
+      "image": "https://rustlabs.com/img/items180/jackhammer.png",
+      "building": null,
+      "items": [
+        {
+          "itemid": 1488979457,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        }
+      ]
+    },
+    "electricitystarterpack": {
+      "name": "ElectricityStarterPack",
+      "description": "Gives you everything you need to start using electricity, Donor Only do /info",
+      "max": 400,
+      "cooldown": 3600.0,
+      "authlevel": 0,
+      "hide": false,
+      "npconly": false,
+      "permission": "kits.elect",
+      "image": "http://oi66.tinypic.com/v4z4t3.jpg",
+      "building": null,
+      "items": [
+        {
+          "itemid": 2090395347,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 2090395347,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 2090395347,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 2090395347,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -1286302544,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -502177121,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 762289806,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 762289806,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 762289806,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 762289806,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -1507239837,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -1507239837,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 1171735914,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 1171735914,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 2100007442,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 2100007442,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -690968985,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -690968985,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -144417939,
+          "container": "main",
+          "amount": 1000,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -295829489,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -563624462,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -563624462,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 665332906,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 1951603367,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -798293154,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 553270375,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 553270375,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 553270375,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -798293154,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -939424778,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        }
+      ]
+    },
+    "mats": {
+      "name": "mats",
+      "description": "100k HQM 100k Metal Frags, Stone and Wood. Donation only, visit the website store.",
+      "max": 0,
+      "cooldown": 10800.0,
+      "authlevel": 0,
+      "hide": false,
+      "npconly": false,
+      "permission": "kits.mats",
+      "image": null,
+      "building": null,
+      "items": [
+        {
+          "itemid": 317398316,
+          "container": "main",
+          "amount": 300000,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 69511070,
+          "container": "main",
+          "amount": 300000,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -2099697608,
+          "container": "main",
+          "amount": 300000,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -151838493,
+          "container": "main",
+          "amount": 300000,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        }
+      ]
+    },
+    "legendmats": {
+      "name": "LegendMats",
+      "description": "60k HQM, Metal Frags, Wood, Stone, and 50k Scrap. Part of the Legend pack!",
+      "max": 30,
+      "cooldown": 18000.0,
+      "authlevel": 0,
+      "hide": false,
+      "npconly": false,
+      "permission": "kits.legend",
+      "image": null,
+      "building": null,
+      "items": [
+        {
+          "itemid": 317398316,
+          "container": "main",
+          "amount": 100000,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 69511070,
+          "container": "main",
+          "amount": 100000,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -2099697608,
+          "container": "main",
+          "amount": 100000,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -151838493,
+          "container": "main",
+          "amount": 100000,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -932201673,
+          "container": "main",
+          "amount": 100000,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        }
+      ]
+    },
+    "heavyscientist": {
+      "name": "HeavyScientist",
+      "description": "Unlock by donation. This kit contains the Heavy Scientist suit, Grenade Launcher, 100x 40mm HE,Buckshot, and Smoke Ammo. Also contains 200C4, M92, AK, And the corresponding ammo.",
+      "max": 0,
+      "cooldown": 7600.0,
+      "authlevel": 0,
+      "hide": false,
+      "npconly": false,
+      "permission": "kits.heavy",
+      "image": "https://rustlabs.com/img/screenshots/heavyscientist.png",
+      "building": null,
+      "items": [
+        {
+          "itemid": -1772746857,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 915408809,
+          "container": "main",
+          "amount": 35,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 1055319033,
+          "container": "main",
+          "amount": 35,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 349762871,
+          "container": "main",
+          "amount": 35,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -1211166256,
+          "container": "main",
+          "amount": 1200,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 785728077,
+          "container": "main",
+          "amount": 1200,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -1123473824,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": true,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -852563019,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": true,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 1545779598,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": true,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 1248356124,
+          "container": "belt",
+          "amount": 50,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        }
+      ]
+    },
+    "daily": {
+      "name": "daily",
+      "description": "A daily kit",
+      "max": 0,
+      "cooldown": 86400.0,
+      "authlevel": 0,
+      "hide": false,
+      "npconly": false,
+      "permission": "kits.daily",
+      "image": null,
+      "building": null,
+      "items": [
+        {
+          "itemid": 1608640313,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -1695367501,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 794356786,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -22883916,
+          "container": "wear",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -946369541,
+          "container": "main",
+          "amount": 1000,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -151838493,
+          "container": "main",
+          "amount": 10001,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 317398316,
+          "container": "main",
+          "amount": 10000,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -932201673,
+          "container": "main",
+          "amount": 5000,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 69511070,
+          "container": "main",
+          "amount": 10000,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -265876753,
+          "container": "main",
+          "amount": 2000,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -2099697608,
+          "container": "main",
+          "amount": 11000,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 1104520648,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 1488979457,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 1079279582,
+          "container": "belt",
+          "amount": 70,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -1758372725,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": true,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -1405508498,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 143803535,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        }
+      ]
+    },
+    "torch": {
+      "name": "Torch",
+      "description": "Just a Torch",
+      "max": 20,
+      "cooldown": 0.0,
+      "authlevel": 0,
+      "hide": false,
+      "npconly": false,
+      "permission": "kits.torch",
+      "image": null,
+      "building": null,
+      "items": [
+        {
+          "itemid": 795236088,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        }
+      ]
+    }
+  }
+}

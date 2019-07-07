@@ -1,0 +1,6 @@
+{
+  "Empty the airdrops": true,
+  "Empty the crates of the crashsites": true,
+  "Slaps players who don't empty containers": true,
+  "Time before the loot containers are empties": 10
+}

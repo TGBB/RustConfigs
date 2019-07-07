@@ -1,0 +1,108 @@
+{
+  "Settings": {
+    "ChatName": "<color=red>Teleportation</color>: ",
+    "HomesEnabled": true,
+    "TPREnabled": true,
+    "TownEnabled": true,
+    "InterruptTPOnHurt": true,
+    "InterruptTPOnCold": false,
+    "InterruptTPOnHot": false,
+    "InterruptTPOnSafe": false,
+    "InterruptTPOnBalloon": true,
+    "InterruptTPOnCargo": true,
+    "InterruptTPOnLift": true,
+    "InterruptTPOnMonument": false,
+    "DefaultMonumentSize": 25.0,
+    "MinimumTemp": -10.0,
+    "MaximumTemp": 40.0,
+    "BlockedItems": {},
+    "BypassCMD": "pay",
+    "UseEconomics": false,
+    "UseServerRewards": false
+  },
+  "Admin": {
+    "AnnounceTeleportToTarget": false,
+    "UseableByAdmins": true,
+    "UseableByModerators": true,
+    "LocationRadius": 25,
+    "TeleportNearDefaultDistance": 30
+  },
+  "Home": {
+    "HomesLimit": 4,
+    "VIPHomesLimits": {
+      "nteleportation.vip": 10
+    },
+    "Cooldown": 60,
+    "Countdown": 20,
+    "DailyLimit": 75,
+    "VIPDailyLimits": {
+      "nteleportation.vip": 160
+    },
+    "VIPCooldowns": {
+      "nteleportation.vip": 6
+    },
+    "VIPCountdowns": {
+      "nteleportation.vip": 5
+    },
+    "LocationRadius": 25,
+    "ForceOnTopOfFoundation": false,
+    "CheckFoundationForOwner": false,
+    "UseFriends": true,
+    "UsableOutOfBuildingBlocked": false,
+    "UsableIntoBuildingBlocked": true,
+    "CupOwnerAllowOnBuildingBlocked": true,
+    "AllowIceberg": true,
+    "AllowCave": true,
+    "AllowCraft": true,
+    "AllowAboveFoundation": true,
+    "CheckValidOnList": false,
+    "Pay": 0,
+    "Bypass": 0
+  },
+  "TPR": {
+    "Cooldown": 60,
+    "Countdown": 20,
+    "DailyLimit": 30,
+    "VIPDailyLimits": {
+      "nteleportation.vip": 90
+    },
+    "VIPCooldowns": {
+      "nteleportation.vip": 10
+    },
+    "VIPCountdowns": {
+      "nteleportation.vip": 5
+    },
+    "RequestDuration": 60,
+    "BlockTPAOnCeiling": true,
+    "UsableOutOfBuildingBlocked": false,
+    "UsableIntoBuildingBlocked": false,
+    "CupOwnerAllowOnBuildingBlocked": true,
+    "AllowCraft": true,
+    "Pay": 0,
+    "Bypass": 0
+  },
+  "Town": {
+    "Cooldown": 60,
+    "Countdown": 20,
+    "DailyLimit": 10,
+    "VIPDailyLimits": {
+      "nteleportation.vip": 20
+    },
+    "VIPCooldowns": {
+      "nteleportation.vip": 60
+    },
+    "VIPCountdowns": {
+      "nteleportation.vip": 5
+    },
+    "Location": "-180.0685 29.63284 -134.381",
+    "UsableOutOfBuildingBlocked": true,
+    "AllowCraft": true,
+    "Pay": 0,
+    "Bypass": 0
+  },
+  "Version": {
+    "Major": 1,
+    "Minor": 0,
+    "Patch": 50
+  }
+}

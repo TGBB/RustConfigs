@@ -1,0 +1,111 @@
+{
+  "BetterChat": {
+    "clanChatDenyOnMuted": false,
+    "clanTagClosing": "|",
+    "clanTagColorBetterChat": "#000000",
+    "clanTagOpening": "|",
+    "clanTagSizeBetterChat": 14
+  },
+  "Commands": {
+    "chatCommandAllyChat": "a",
+    "chatCommandClan": "clan",
+    "chatCommandClanChat": "c",
+    "chatCommandClanInfo": "cinfo",
+    "chatCommandFF": "cff",
+    "subCommandClanAlly": "ally",
+    "subCommandClanHelp": "help"
+  },
+  "Formatting": {
+    "broadcastMessageColor": "#e0e0e0",
+    "broadcastPrefix": "(CLAN)",
+    "broadcastPrefixAlly": "(ALLY)",
+    "broadcastPrefixColor": "#a1ff46",
+    "broadcastPrefixFormat": "<color={0}>{1}</color> ",
+    "clanCouncilColor": "#b573ff",
+    "clanMemberColor": "#fcf5cb",
+    "clanModeratorColor": "#74c6ff",
+    "clanOwnerColor": "#a1ff46",
+    "clanServerColor": "#ff3333",
+    "colorClanFFOff": "lime",
+    "colorClanFFOn": "red",
+    "colorClanNamesOverview": "#b2eece",
+    "colorCmdUsage": "#ffd479",
+    "colorTextMsg": "#e0e0e0",
+    "consoleName": "ServerOwner",
+    "pluginPrefix": "CLANS",
+    "pluginPrefixColor": "orange",
+    "pluginPrefixFormat": "<color={0}>{1}</color>: ",
+    "pluginPrefixREBORNColor": "#ce422b",
+    "pluginPrefixREBORNShow": true
+  },
+  "Limits": {
+    "allowedSpecialChars": "!²³",
+    "friendlyFireNotifyTimeout": 5,
+    "inviteValidDays": 1,
+    "limitAlliances": 3,
+    "limitMembers": 12,
+    "limitModerators": 4,
+    "tagLengthMax": 4,
+    "tagLengthMin": 1
+  },
+  "NTeleportation": {
+    "setHomeMember": true,
+    "setHomeModerator": true,
+    "setHomeOwner": true
+  },
+  "Permission": {
+    "authLevelClanInfo": 0,
+    "authLevelCreate": 2,
+    "authLevelDisband": 2,
+    "authLevelInvite": 1,
+    "authLevelKick": 2,
+    "authLevelPromoteDemote": 1,
+    "authLevelRename": 1,
+    "permGroupPrefix": "clan_",
+    "permissionToCreateClan": "clans.cancreate",
+    "permissionToJoinClan": "clans.canjoin",
+    "usePermGroups": false,
+    "usePermToCreateClan": false,
+    "usePermToJoinClan": false
+  },
+  "Purge": {
+    "listPurgedClans": false,
+    "notUpdatedSinceDays": 6,
+    "purgeOldClans": true,
+    "wipeClansOnNewSave": true
+  },
+  "Settings": {
+    "enableAllyFFOPtion": true,
+    "enableClanAllies": true,
+    "enableClanTagging": true,
+    "enableComesOnlineMsg": true,
+    "enableFFOPtion": true,
+    "enableWhoIsOnlineMsg": true,
+    "enableWordFilter": true,
+    "forceAllyFFNoDeactivate": true,
+    "forceClanFFNoDeactivate": false,
+    "forceNametagsOnTagging": false,
+    "logClanChanges": true
+  },
+  "Storage": {
+    "useProtostorageClandata": false
+  },
+  "Teaming": {
+    "allowButtonKick": true,
+    "allowButtonLeave": true,
+    "allowDirectInvite": true,
+    "allowPromoteLeader": true,
+    "clientRefreshInterval": 5.0,
+    "disableManageFunctions": false,
+    "listDeadOfflineMembers": true,
+    "useRankColorsPanel": true,
+    "useRelationshipManager": true
+  },
+  "WordFilter": {
+    "Words": [
+      "admin",
+      "mod",
+      "owner"
+    ]
+  }
+}

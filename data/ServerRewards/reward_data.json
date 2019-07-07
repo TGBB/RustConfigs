@@ -1,0 +1,501 @@
+{
+  "items": {
+    "rifle.l96_0": {
+      "shortname": "rifle.l96",
+      "customIcon": null,
+      "amount": 1,
+      "skinId": 0,
+      "isBp": false,
+      "category": 1,
+      "displayName": "L96 Rifle",
+      "cost": 420,
+      "cooldown": 0
+    },
+    "rifle.ak_0": {
+      "shortname": "rifle.ak",
+      "customIcon": null,
+      "amount": 1,
+      "skinId": 0,
+      "isBp": false,
+      "category": 1,
+      "displayName": "Assault Rifle",
+      "cost": 250,
+      "cooldown": 0
+    },
+    "rifle.lr300_0": {
+      "shortname": "rifle.lr300",
+      "customIcon": null,
+      "amount": 1,
+      "skinId": 0,
+      "isBp": false,
+      "category": 1,
+      "displayName": "LR-300 Assault Rifle",
+      "cost": 350,
+      "cooldown": 0
+    },
+    "icepick.salvaged_0": {
+      "shortname": "icepick.salvaged",
+      "customIcon": null,
+      "amount": 1,
+      "skinId": 0,
+      "isBp": false,
+      "category": 6,
+      "displayName": "Salvaged Icepick",
+      "cost": 20,
+      "cooldown": 0
+    },
+    "axe.salvaged_0": {
+      "shortname": "axe.salvaged",
+      "customIcon": null,
+      "amount": 1,
+      "skinId": 0,
+      "isBp": false,
+      "category": 6,
+      "displayName": "Salvaged Axe",
+      "cost": 20,
+      "cooldown": 0
+    },
+    "explosive.timed_0": {
+      "shortname": "explosive.timed",
+      "customIcon": null,
+      "amount": 15,
+      "skinId": 0,
+      "isBp": false,
+      "category": 6,
+      "displayName": "Timed Explosive Charge",
+      "cost": 300,
+      "cooldown": 0
+    },
+    "supply.signal_0": {
+      "shortname": "supply.signal",
+      "customIcon": null,
+      "amount": 1,
+      "skinId": 0,
+      "isBp": false,
+      "category": 6,
+      "displayName": "Supply Signal",
+      "cost": 277,
+      "cooldown": 0
+    },
+    "lowgradefuel_0": {
+      "shortname": "lowgradefuel",
+      "customIcon": null,
+      "amount": 1000,
+      "skinId": 0,
+      "isBp": false,
+      "category": 4,
+      "displayName": "Low Grade Fuel",
+      "cost": 75,
+      "cooldown": 0
+    },
+    "wall.external.high.stone_0": {
+      "shortname": "wall.external.high.stone",
+      "customIcon": null,
+      "amount": 10,
+      "skinId": 0,
+      "isBp": false,
+      "category": 2,
+      "displayName": "High External Stone Wall",
+      "cost": 10,
+      "cooldown": 0
+    },
+    "gears_0": {
+      "shortname": "gears",
+      "customIcon": null,
+      "amount": 5,
+      "skinId": 0,
+      "isBp": false,
+      "category": 12,
+      "displayName": "Gears",
+      "cost": 10,
+      "cooldown": 0
+    },
+    "ladder.wooden.wall_0": {
+      "shortname": "ladder.wooden.wall",
+      "customIcon": null,
+      "amount": 5,
+      "skinId": 0,
+      "isBp": false,
+      "category": 2,
+      "displayName": "Wooden Ladder",
+      "cost": 55,
+      "cooldown": 0
+    },
+    "techparts_0": {
+      "shortname": "techparts",
+      "customIcon": null,
+      "amount": 15,
+      "skinId": 0,
+      "isBp": false,
+      "category": 12,
+      "displayName": "Tech Trash",
+      "cost": 40,
+      "cooldown": 0
+    },
+    "pumpkin_0": {
+      "shortname": "pumpkin",
+      "customIcon": null,
+      "amount": 1093,
+      "skinId": 0,
+      "isBp": false,
+      "category": 8,
+      "displayName": "Pumpkin",
+      "cost": 64,
+      "cooldown": 0
+    },
+    "cloth_0": {
+      "shortname": "cloth",
+      "customIcon": null,
+      "amount": 1000,
+      "skinId": 0,
+      "isBp": false,
+      "category": 4,
+      "displayName": "Cloth",
+      "cost": 100,
+      "cooldown": 0
+    },
+    "furnace_0": {
+      "shortname": "furnace",
+      "customIcon": null,
+      "amount": 1,
+      "skinId": 0,
+      "isBp": false,
+      "category": 3,
+      "displayName": "Furnace",
+      "cost": 58,
+      "cooldown": 0
+    },
+    "fridge_0": {
+      "shortname": "fridge",
+      "customIcon": null,
+      "amount": 1,
+      "skinId": 0,
+      "isBp": false,
+      "category": 3,
+      "displayName": "Fridge",
+      "cost": 103,
+      "cooldown": 0
+    },
+    "sleepingbag_0": {
+      "shortname": "sleepingbag",
+      "customIcon": null,
+      "amount": 1,
+      "skinId": 0,
+      "isBp": false,
+      "category": 3,
+      "displayName": "Sleeping Bag",
+      "cost": 45,
+      "cooldown": 0
+    },
+    "snowmachine_0": {
+      "shortname": "snowmachine",
+      "customIcon": null,
+      "amount": 1,
+      "skinId": 0,
+      "isBp": false,
+      "category": 11,
+      "displayName": "Snow Machine",
+      "cost": 412,
+      "cooldown": 0
+    },
+    "grenade.smoke_0": {
+      "shortname": "grenade.smoke",
+      "customIcon": null,
+      "amount": 15,
+      "skinId": 0,
+      "isBp": false,
+      "category": 6,
+      "displayName": "Smoke Grenade",
+      "cost": 85,
+      "cooldown": 0
+    },
+    "cakefiveyear_0": {
+      "shortname": "cakefiveyear",
+      "customIcon": null,
+      "amount": 1,
+      "skinId": 0,
+      "isBp": false,
+      "category": 6,
+      "displayName": "Birthday Cake",
+      "cost": 35,
+      "cooldown": 0
+    },
+    "flare_0": {
+      "shortname": "flare",
+      "customIcon": null,
+      "amount": 100,
+      "skinId": 0,
+      "isBp": false,
+      "category": 6,
+      "displayName": "Flare",
+      "cost": 88,
+      "cooldown": 0
+    },
+    "autoturret_0": {
+      "shortname": "autoturret",
+      "customIcon": null,
+      "amount": 1,
+      "skinId": 0,
+      "isBp": false,
+      "category": 10,
+      "displayName": "Auto Turret",
+      "cost": 184,
+      "cooldown": 0
+    },
+    "guntrap_0": {
+      "shortname": "guntrap",
+      "customIcon": null,
+      "amount": 1,
+      "skinId": 0,
+      "isBp": false,
+      "category": 10,
+      "displayName": "Shotgun Trap",
+      "cost": 69,
+      "cooldown": 0
+    },
+    "flameturret_0": {
+      "shortname": "flameturret",
+      "customIcon": null,
+      "amount": 1,
+      "skinId": 0,
+      "isBp": false,
+      "category": 10,
+      "displayName": "Flame Turret",
+      "cost": 84,
+      "cooldown": 0
+    },
+    "diving.wetsuit_0": {
+      "shortname": "diving.wetsuit",
+      "customIcon": null,
+      "amount": 1,
+      "skinId": 0,
+      "isBp": false,
+      "category": 5,
+      "displayName": "Wetsuit",
+      "cost": 80,
+      "cooldown": 0
+    },
+    "diving.tank_0": {
+      "shortname": "diving.tank",
+      "customIcon": null,
+      "amount": 1,
+      "skinId": 0,
+      "isBp": false,
+      "category": 5,
+      "displayName": "Diving Tank",
+      "cost": 336,
+      "cooldown": 0
+    },
+    "diving.fins_0": {
+      "shortname": "diving.fins",
+      "customIcon": null,
+      "amount": 1,
+      "skinId": 0,
+      "isBp": false,
+      "category": 5,
+      "displayName": "Diving Fins",
+      "cost": 30,
+      "cooldown": 0
+    },
+    "diving.mask_0": {
+      "shortname": "diving.mask",
+      "customIcon": null,
+      "amount": 1,
+      "skinId": 0,
+      "isBp": false,
+      "category": 5,
+      "displayName": "Diving Mask",
+      "cost": 63,
+      "cooldown": 0
+    },
+    "rocket.launcher_853494512": {
+      "shortname": "rocket.launcher",
+      "customIcon": null,
+      "amount": 1,
+      "skinId": 853494512,
+      "isBp": false,
+      "category": 1,
+      "displayName": "Rocket Launcher",
+      "cost": 489,
+      "cooldown": 0
+    },
+    "ammo.rocket.basic_0": {
+      "shortname": "ammo.rocket.basic",
+      "customIcon": null,
+      "amount": 30,
+      "skinId": 0,
+      "isBp": false,
+      "category": 9,
+      "displayName": "Rocket",
+      "cost": 300,
+      "cooldown": 0
+    },
+    "multiplegrenadelauncher_0": {
+      "shortname": "multiplegrenadelauncher",
+      "customIcon": null,
+      "amount": 1,
+      "skinId": 0,
+      "isBp": false,
+      "category": 1,
+      "displayName": "Multiple Grenade Launcher",
+      "cost": 450,
+      "cooldown": 0
+    },
+    "ammo.grenadelauncher.he_0": {
+      "shortname": "ammo.grenadelauncher.he",
+      "customIcon": null,
+      "amount": 50,
+      "skinId": 0,
+      "isBp": false,
+      "category": 9,
+      "displayName": "40mm HE Grenade",
+      "cost": 200,
+      "cooldown": 0
+    },
+    "ammo.grenadelauncher.buckshot_0": {
+      "shortname": "ammo.grenadelauncher.buckshot",
+      "customIcon": null,
+      "amount": 50,
+      "skinId": 0,
+      "isBp": false,
+      "category": 9,
+      "displayName": "40mm Shotgun Round",
+      "cost": 150,
+      "cooldown": 0
+    },
+    "ammo.grenadelauncher.smoke_0": {
+      "shortname": "ammo.grenadelauncher.smoke",
+      "customIcon": null,
+      "amount": 100,
+      "skinId": 0,
+      "isBp": false,
+      "category": 9,
+      "displayName": "40mm Smoke Grenade",
+      "cost": 69,
+      "cooldown": 0
+    },
+    "ammo.rifle.explosive_0": {
+      "shortname": "ammo.rifle.explosive",
+      "customIcon": null,
+      "amount": 1000,
+      "skinId": 0,
+      "isBp": false,
+      "category": 9,
+      "displayName": "Explosive 5.56 Rifle Ammo",
+      "cost": 96,
+      "cooldown": 0
+    },
+    "ammo.rifle_0": {
+      "shortname": "ammo.rifle",
+      "customIcon": null,
+      "amount": 1000,
+      "skinId": 0,
+      "isBp": false,
+      "category": 9,
+      "displayName": "5.56 Rifle Ammo",
+      "cost": 69,
+      "cooldown": 0
+    },
+    "corn_0": {
+      "shortname": "corn",
+      "customIcon": null,
+      "amount": 1102,
+      "skinId": 0,
+      "isBp": false,
+      "category": 8,
+      "displayName": "Corn",
+      "cost": 66,
+      "cooldown": 0
+    },
+    "chicken.cooked_0": {
+      "shortname": "chicken.cooked",
+      "customIcon": null,
+      "amount": 400,
+      "skinId": 0,
+      "isBp": false,
+      "category": 8,
+      "displayName": "Cooked Chicken",
+      "cost": 53,
+      "cooldown": 0
+    },
+    "easter.goldegg_0": {
+      "shortname": "easter.goldegg",
+      "customIcon": null,
+      "amount": 1,
+      "skinId": 0,
+      "isBp": false,
+      "category": 11,
+      "displayName": "Gold Egg",
+      "cost": 300,
+      "cooldown": 0
+    },
+    "keycard_blue_0": {
+      "shortname": "keycard_blue",
+      "customIcon": null,
+      "amount": 1,
+      "skinId": 0,
+      "isBp": false,
+      "category": 11,
+      "displayName": "Blue Keycard",
+      "cost": 50,
+      "cooldown": 0
+    },
+    "keycard_red_0": {
+      "shortname": "keycard_red",
+      "customIcon": null,
+      "amount": 1,
+      "skinId": 0,
+      "isBp": false,
+      "category": 11,
+      "displayName": "Red Keycard",
+      "cost": 95,
+      "cooldown": 0
+    },
+    "rustige_egg_a_0": {
+      "shortname": "rustige_egg_a",
+      "customIcon": null,
+      "amount": 1,
+      "skinId": 0,
+      "isBp": false,
+      "category": 11,
+      "displayName": "Rustigé Egg - Red",
+      "cost": 50,
+      "cooldown": 0
+    },
+    "xmas.lightstring_0": {
+      "shortname": "xmas.lightstring",
+      "customIcon": null,
+      "amount": 10,
+      "skinId": 0,
+      "isBp": false,
+      "category": 3,
+      "displayName": "Christmas Lights",
+      "cost": 65,
+      "cooldown": 0
+    },
+    "syringe.medical_0": {
+      "shortname": "syringe.medical",
+      "customIcon": null,
+      "amount": 250,
+      "skinId": 0,
+      "isBp": false,
+      "category": 7,
+      "displayName": "Medical Syringe",
+      "cost": 250,
+      "cooldown": 0
+    }
+  },
+  "kits": {},
+  "commands": {
+    "Make It Day": {
+      "description": "This command makes it day!",
+      "iconName": null,
+      "commands": [
+        "env.time 12"
+      ],
+      "displayName": null,
+      "cost": 100,
+      "cooldown": 0
+    }
+  }
+}

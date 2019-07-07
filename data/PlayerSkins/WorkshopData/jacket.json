@@ -1,0 +1,582 @@
+{
+  "10008": {
+    "title": "Snowcamo Jacket",
+    "description": "A jacket with a snow camouflage pattern\n\n[color=#FF9800]This is a skin for the [color=#ffdba5]Jacket[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/10008_small.png?1030645339"
+  },
+  "10009": {
+    "title": "Green Jacket",
+    "description": "A green jacket\n\n[color=#FF9800]This is a skin for the [color=#ffdba5]Jacket[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/10009_small.png?349267271"
+  },
+  "10010": {
+    "title": "Red Jacket",
+    "description": "A jacket with red fabric.\n\n[color=#FF9800]This is a skin for the [color=#ffdba5]Jacket[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/10010_small.png?4127207034"
+  },
+  "10011": {
+    "title": "Blue Jacket",
+    "description": "A jacket featuring blue fabric\n\n[color=#FF9800]This is a skin for the [color=#ffdba5]Jacket[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/10011_small.png?2656716538"
+  },
+  "10012": {
+    "title": "Desert Jacket",
+    "description": "A jacket with a desert camo pattern\n\n[color=#FF9800]This is a skin for the [color=#ffdba5]Jacket[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/10012_small.png?847602394"
+  },
+  "10013": {
+    "title": "Multicam Jacket",
+    "description": "A jacket with a multicam pattern\n\n[color=#FF9800]This is a skin for the [color=#ffdba5]Jacket[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/10013_small.png?4120331567"
+  },
+  "10014": {
+    "title": "Urban Camo Jacket",
+    "description": "A jacket with an urban camoflague pattern\n\n[color=#FF9800]This is a skin for the [color=#ffdba5]Jacket[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/10014_small.png?2653278021"
+  },
+  "10015": {
+    "title": "Hunting Jacket",
+    "description": "A jacket with a forest camo pattern\n\n[color=#FF9800]This is a skin for the [color=#ffdba5]Jacket[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/10015_small.png?429445312"
+  },
+  "10072": {
+    "title": "Provocateur Jacket",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Jacket[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/10072_small.png?2058803494"
+  },
+  "834233801": {
+    "title": "Fire jacket",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Jacket[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/20701_small.png?161508059"
+  },
+  "1317555901": {
+    "title": "Urban Ice Jacket",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Jacket[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Cloth[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/26708_small.png?220849765"
+  },
+  "705597250": {
+    "title": "Im Rust (Jacket)",
+    "description": "My first skin for Rust, i hope you like it. \r\n\r\nIm Rust, and you??\r\n\r\n[URL=http://steamcommunity.com/groups/WorkGO/][IMG]http://images.akamai.steamusercontent.com/ugc/441732902023486675/CE4EFBA963E3211BDBE275F34A391B11AABB2831/[/IMG][/URL]\r\n\r\n[URL=http://s",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/441731799625893587/869B9FD5C8C470683F518EF9996ABF97B98B5370/"
+  },
+  "589790582": {
+    "title": "Bandito Jacket",
+    "description": "Show who is the real desert bandit.\r\nThe second item of the \"DESERTO BANDITO\" collection! Hope you like it!\r\n[url=http://steamcommunity.com/sharedfiles/filedetails/?id=589202849][img]http://i.imgur.com/3PXoaO9.png[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/352770370131500302/193E7A31DC627E123DF5BC5786AD8649BBE46ABC/"
+  },
+  "566890499": {
+    "title": "Lawman's Jacket and Badge",
+    "description": "A silver badge you found in a burned out tourist shop combined with a tough old dumpster jacket makes you look...authoritative.  RESPECTABLE, even!\r\n\r\nPart of the Lawman set.\r\n\r\nSee more at [url=http://www.xtab.me]xtab.me![/url]\r\n[url=http://xtab.me/rust-s",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/388796648237894711/E020BF06840A528A47A9C15578B8E3D0677D7770/"
+  },
+  "1602734567": {
+    "title": "Leather army jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/950722034604258297/20E63FE62A8A66568564F0A92779F094EB1634C1/"
+  },
+  "1424689151": {
+    "title": "JACKET",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/954083319070628896/8F350FCCB66923EDA4EDA06B89D53F8A300F0ADA/"
+  },
+  "886629163": {
+    "title": "AquaFPS Retro Jacket",
+    "description": "Yo what's poppin it's Aqua's Retro Jacket here and in today's rust fashion, you can wear this sweet blast from the past made using the signature art of the one and only AquaFPS. This was designed for the vagabond jacket so you can wear it over other clothe",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/875249337833421282/6A96F6B94B8B0593C2A94950DBC4EBEFACD1E6BA/"
+  },
+  "1417185486": {
+    "title": "blood camo",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/938320142835392219/A401DC9C6D5D2D95992A475060A0C65A6BD0503A/"
+  },
+  "961830217": {
+    "title": "FBI Windbreaker",
+    "description": "Complete with a big yellow FBI logo on the back!",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/847090244827969806/1A93E317CF3F69F46CA3F84C70D2481761CFDEA4/"
+  },
+  "811242599": {
+    "title": "Burning Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/108480551717795316/F1600FDCE38D1F334753C8726D635F985FA4A588/"
+  },
+  "812292082": {
+    "title": "Rust punisher",
+    "description": "Time to bring justice for those who kill innocents",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/199678444176219573/8707244ABEEF86E8C65720DFD2ED70280CF2D6ED/"
+  },
+  "1600130767": {
+    "title": "Green Digital Camo Vagabond Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/956351359774436937/159D21DDA3B54434CC91713A40F7E8AFEB5047B4/"
+  },
+  "811017802": {
+    "title": "Winter Camo Slicker",
+    "description": "I know there's a winter camo coat already, but I wanted to make something both more vivid and shiny like Gortex. This thing shimmers in the light, baby, and it'll keep you warm and dry. If it's good enough for George Costanza, it's good enough for a Newman",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/99476231549271610/60BFC81B4356164E525A6B2437CEC99E8BB740C8/"
+  },
+  "810959359": {
+    "title": "OPER8 Jacket Multicam",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/98347452553119790/FEF42A8911DAA0920E58069D26F3AA65C8F305B1/"
+  },
+  "811664098": {
+    "title": "High Visibility Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/197426912818925115/2C6D38DF8D3310CC3B00C87815DD0CC867B16294/"
+  },
+  "818973017": {
+    "title": "Jacket - GSU (black)",
+    "description": "A black jacket made for GSU - GreenSun UnLtd. With green buttons and zipper.\r\n\r\nI tried to make the screens as sexy as possible without showing anything. I hope \"sex sells\" works here as well.\r\n\r\nGodspeed!\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/97222901287083791/7655CDAC1F58D3DF7EA32D340D2B14CA87610764/"
+  },
+  "952754474": {
+    "title": "AecVJt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/862851876073559638/5AAC707B34AE0EE19FD9C10872E3E0EE51103365/"
+  },
+  "834294260": {
+    "title": "Fire department chief",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/90469323225564733/E5BCC45BFF071FB6E786C32B8F15430643212698/"
+  },
+  "1554058370": {
+    "title": "Rad Camo",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/951843163528093639/20B27DF3AF6B4BA6A1CCFCA64D03A9FB9B97FC7F/"
+  },
+  "1612116374": {
+    "title": "Apex Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/952974387695816151/B4EB0A1D1177CE4377DAB6B1C39379BF6AFB5A7B/"
+  },
+  "873634839": {
+    "title": "iRust Jacket",
+    "description": "[URL=http://steamcommunity.com/id/WorkGO/myworkshopfiles/?appid=252490][IMG]http://cloud-3.steamusercontent.com/ugc/163654420671061802/F7E88395369197811C1A84013107A30DE10798B3/[/IMG][/URL]\r\n[IMG]http://images.akamai.steamusercontent.com/ugc/163654420671141",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/155776388732411240/0823E436555A2ED85F3D07D3325EFAFAF0725B0B/"
+  },
+  "1644828778": {
+    "title": "Police Jacket",
+    "description": "Jacket of the former Policeman.\r\nDo not judge strictly, did from desire, rivet everything I want to see.\r\nPLEASE COMMENT!",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/940592594231924755/258A24017A566D14FCBECBC4E70066BA9E88DA44/"
+  },
+  "827584108": {
+    "title": "CHETKAYA KURTEICHKA",
+    "description": "Vashe chetkaya, dlya realnih pocanov v temnote svetitsya!\r\n*\r\n*\r\n*\r\n*\r\nLike it! If you like it!))",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/109608859950609169/FE411D72FA61A4CE54D4D05ED33057A889DCA188/"
+  },
+  "1262280240": {
+    "title": "Sleeveless Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/918039110661996531/9F3C214B24EF4E558E039388DD24C1BC11D2967B/"
+  },
+  "825851146": {
+    "title": "Orange camo  Assi",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/102853135255134426/81AC8E20196837D8A9D4134EB0B330C91C3E489E/"
+  },
+  "912303944": {
+    "title": "Bodyguard",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/823440156168059731/25E0D1A783C084C11880D1FE34126BF5A75A5450/"
+  },
+  "855167481": {
+    "title": "Camo-Jacket (open)",
+    "description": "This is a camo version of the vagabund jacket and an optional part of the outfit I created (Military Outfit by P4R4S)\r\n\r\nUnfortunately Im not able to controll if the camo of the outfit is matching to 100% but if I watch the parts in the workshop it seems t",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/172662564405841618/408CAC9C6A048F638510D21F583B7DE663C12FDF/"
+  },
+  "828318030": {
+    "title": "Forrest Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/109609019299643718/C3669E29D397E4D825893356492FF679FDD9E564/"
+  },
+  "850384558": {
+    "title": "Canada Cadpat Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/91596933613988446/EB312E22B74D167C9563C5E044701669DC9CAEFB/"
+  },
+  "899217210": {
+    "title": "Woodland Camo",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/85973750940468889/5D999E8069121CC052FBE8468D146C6205E13EAF/"
+  },
+  "821326540": {
+    "title": "Polite people",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/106230098544956751/1C9C43BF4255476D808E2A05914764E1406EDE1A/"
+  },
+  "824149053": {
+    "title": "Radiation Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/98349535603025263/DA82A63241906F651C50C10FE1A12CCAFD7AD48A/"
+  },
+  "1645411341": {
+    "title": "Digital",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/954103393117485215/611345F256DEE501E36F0DD4E5D932290F964168/"
+  },
+  "842011041": {
+    "title": "Winter Jacket",
+    "description": "[url=http://steamcommunity.com/id/badtripbg/myworkshopfiles/][img]http://i.imgur.com/u3a3NhQ.png[/img][/url]\r\n[url=http://steamcommunity.com/groups/wintrip][img]http://i.imgur.com/iEgnCSQ.png[/img][/url]\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/100603056101514328/C6FB73EF92E1475648E1C78F98B375357D2F97CD/"
+  },
+  "848203833": {
+    "title": "U.S. Navy Type III Parka",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/89344691210976628/7D5D3DA933DF2C5DC5166883F27B03928B9A8774/"
+  },
+  "1148230546": {
+    "title": "Black Vagabond",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/868490234773906698/27DE9D62FB59E311E5A7BE32C4F2D1777FB2B0A9/"
+  },
+  "1418822880": {
+    "title": "Green Checkers Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/940571942657883296/E21DC229A42B67C732C4EC26D2788E2CFADD797F/"
+  },
+  "832757559": {
+    "title": "Nomad Raider (Alternative Version)",
+    "description": "Nomad Raider  (alternative Version).Worn out painted camo.\r\nI hope you like it!\r\n[URL=http://steamcommunity.com/profiles/76561198091887503/myworkshopfiles/][IMG]http://i60.tinypic.com/2znwxo0.gif[/IMG][/URL]\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/112987056948111926/FE5B18F1D27F8E936FF3C24914FDC94A49705E30/"
+  },
+  "853953885": {
+    "title": "Vagabond Jacket 55",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/82590450151005355/7E71CCE2C0BF1CDFB81FAC4260595E01D8598F19/"
+  },
+  "859785644": {
+    "title": "Camo Vagabond Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/159152387682845051/DC66D84A5E9A9AE658FE70B0996E7137652489BD/"
+  },
+  "813754004": {
+    "title": "OPER8 Arid Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/98348089932803833/083A00B412856CD54A9120EAC71DF296782FD519/"
+  },
+  "931991751": {
+    "title": "Anarchist jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/779532750881660861/DBB73EFE048F95D2351810D83EEC11DA747E437E/"
+  },
+  "1110395475": {
+    "title": "Umbrella Jacket",
+    "description": "an umbrella jacket like resident evil",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/853849476179476247/A7C05CF94EA27EB301A3985D816369013BCACE5D/"
+  },
+  "847979482": {
+    "title": "U.S. Navy Parka",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/89344691210082509/DD1E6F73200ED3983AD8A03838B51C7E1631B275/"
+  },
+  "1412330839": {
+    "title": "SnowSleek_Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/923682899087318099/0706D53A6DCEADC73E62A5FBDA4CBE4C5690FA7B/"
+  },
+  "903044971": {
+    "title": "Hoste the Moste",
+    "description": "Hoste Immmmortalised\r\n\r\nhttp://steamcommunity.com/profiles/76561198011649529/",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/81470688490665278/C635437C0258EB9C9C77F000552E5CEBCCDE551B/"
+  },
+  "819134439": {
+    "title": "Jacket forest",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/106230098532155496/504E8B40315C3267DCA9FF9481AB69E4B54FD6C7/"
+  },
+  "860067745": {
+    "title": "Firefighter Jacket",
+    "description": "A jacket worn by our everyday heros.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/92724293175586942/586FFDF9936CF73A6991992C9642E3D05A7E3697/"
+  },
+  "821896874": {
+    "title": "MultiCam Vegabond Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/199679790012441820/AC742706BB8D91D6DEABA21DBAFF6EC1C260ED18/"
+  },
+  "1512072711": {
+    "title": "Louis Vuitton Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/972104754093955936/779EE4F8268FA53DC8B42ADC371DB14CFCCBDBE8/"
+  },
+  "811415042": {
+    "title": "Dye washed Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/197426912817911186/6A62DDE880F8B40B2689417416D5001A308AAE2A/"
+  },
+  "900665955": {
+    "title": "Navy Jacket",
+    "description": "A splash of Navy\r\n\r\n\r\n[url=http://steamcommunity.com/id/MiniDove/myworkshopfiles/?appid=252490][img]http://images.akamai.steamusercontent.com/ugc/89345132738305459/283C5380EDF311768C260CB199D3F3AB1BFF4A71/[/img]\r\n[img]http://images.akamai.steamusercontent.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/81470188891157894/7CC696530DCA2FB40866C5FFEF6ED5AE8CE44604/"
+  },
+  "1469348319": {
+    "title": "Titan Uniform Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/960843785611797999/607A22AA47AC8E9DA570321477638FFDFEE34F03/"
+  },
+  "890946851": {
+    "title": "Military Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/80343369081620747/69C10D3AD4737257360223C09F1519994CD93590/"
+  },
+  "903605101": {
+    "title": "Khaki",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/81470688494115175/1B61F4FF9E5C309D07E8C2FD20375976B60CD35A/"
+  },
+  "1166187400": {
+    "title": "O X P A H A",
+    "description": "Employees of OXPAHA are the most powerful people in modern Russia, second only to UBORSH!TSY. OXPAHA will prevent you from living, even after a nuclear war!\r\n\r\nNOTE: The Russian gaming community is one of the largest communities in Rust and we deserve the ",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/877498811158889267/B9ED9DA287D33CAFDB1F318E9447216C408B3AD1/"
+  },
+  "813565407": {
+    "title": "Green/Black Rustabond Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/112984755852099788/E59A0D9395886FEAA915F5D5B3233898F33A0ADA/"
+  },
+  "1349521714": {
+    "title": "Homeless Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/930431644829162227/3B871B62986A8299F7C7D58FB8C1C196AB0E6D8D/"
+  },
+  "900668371": {
+    "title": "Purple Jacket",
+    "description": "A splash of purple\r\n\r\n[url=http://steamcommunity.com/id/MiniDove/myworkshopfiles/?appid=252490][img]http://images.akamai.steamusercontent.com/ugc/89345132738305459/283C5380EDF311768C260CB199D3F3AB1BFF4A71/[/img]\r\n[img]http://images.akamai.steamusercontent.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/81470188891173283/443BDEDDD21A30358542F2F91427C1983A6348C2/"
+  },
+  "1148912393": {
+    "title": "Forest Ranger",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/892134149664165918/36915792806FC4B7A40DD45D3D845CBD1BE33956/"
+  },
+  "814797695": {
+    "title": "Digital Woodland Camo Vagabond Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/177161245863069201/1A88AC8D9D71E8DD8A2FC10D83ED9A480828F27C/"
+  },
+  "832576895": {
+    "title": "Prisoner Vegabond Jacket",
+    "description": "[img] http://i.imgur.com/XEydXu5.png[/img]\r\n\r\nI would really appreciate if you rate \"Yes\" and \"Favorite\". Thanks in advance. Enjoy :)",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/200807291043250667/4DB9FC07A2F34813E74E3ADDFA5BE5F3586F4707/"
+  },
+  "844359668": {
+    "title": "Digital Camo Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/91596291482322172/3DA34366FA930B0647D50B9011A065CAE2E185B5/"
+  },
+  "1088318052": {
+    "title": "Spring Sky Hobo Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/842588658441708977/205BA583E4B9257588ACEF52A3B9B71539E77448/"
+  },
+  "825847344": {
+    "title": "Orange Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/102853135255118378/4DA682289F81D3E2BB1748303309C7810E0F41E9/"
+  },
+  "1489357469": {
+    "title": "NMY Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/961969524138070087/2616E417DB6A1B50BE6EFDAEAE8A20177473A617/"
+  },
+  "835737024": {
+    "title": "Cerulean Hobo Warmer",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/92721123046498445/B9D2D39BCABCC7625F815829E134DDF76995B9DF/"
+  },
+  "1308254669": {
+    "title": "Military Vagabond Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/919168958255114144/143A2775F2A339EE928D8138C22FD03ED320AAF7/"
+  },
+  "890813428": {
+    "title": "FOREST JACKET",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/91602195875999067/46391DB871EAB1F6E7A7CED7114B61DF5FC531AF/"
+  },
+  "816349720": {
+    "title": "Swuave Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/177161398448369650/02E3D7DB505B8956C22D4880CBF552248145C95F/"
+  },
+  "844366983": {
+    "title": "Fall Vagabond Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/91596491006217342/8FD7B08D87065CABF0DDC175621A9F9E19730FB9/"
+  },
+  "1329025957": {
+    "title": "Russian Emercom Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/921422463948365463/692EB4820D5DF8E4118EC9C5F05608972B02FDB2/"
+  },
+  "815322817": {
+    "title": "Snow Vagabond Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/106229389290105743/ED15AB3397784C0F2841BA67F3919D93A9F0405A/"
+  },
+  "1676686519": {
+    "title": "Vagabond Jacket Camo",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/999142207295365867/7C9AA2A3CAA83BA4D8BA7B46B1EF5D1630D84BF3/"
+  },
+  "1147445742": {
+    "title": "Multicam Vagabond Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/872993571524480928/4C29FA72ECE1A2878A7046599B88534FA3902EB8/"
+  },
+  "1372666209": {
+    "title": "Ghost Vagabond Jasket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/912419715092544449/8FC95858ABC9B15F950FE097381444E94930AEEA/"
+  },
+  "1676689917": {
+    "title": "Vagabond Jacket Camo2",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/999142207295370957/51026B79EE16D30985C8CA9AACA68B730FC24949/"
+  },
+  "1264056106": {
+    "title": "UCP Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/916913387219445170/0DC3CFAD185A5DBBD8D79E295035515EE641C0AC/"
+  },
+  "1381493130": {
+    "title": "Military Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/930435039801904107/6E08E28BB7C3CADA56A2B867083E7300F18DABEB/"
+  },
+  "1505010331": {
+    "title": "You've Got Red On You",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/948460320895272429/96DAAC40DA1E458EC42AC036F16F92AB4FB107C9/"
+  },
+  "1206596999": {
+    "title": "Set Sand - Jacket V",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/876376433730658559/95CC71897AC9B10DEAE6F5FEF35290D49F4C5EA5/"
+  },
+  "824143668": {
+    "title": "Yellow Bar",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/98349535603012419/215BA1C58B49B7DDEDA63D60277A9F0C77A1AEB9/"
+  },
+  "873603824": {
+    "title": "Stone island Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/90474193442304951/26E49F116D3BC9BD93E9CD9292C43388C43B28FE/"
+  },
+  "900670174": {
+    "title": "Pink Jacket",
+    "description": "A splash of pink\r\n\r\n[url=http://steamcommunity.com/id/MiniDove/myworkshopfiles/?appid=252490][img]http://images.akamai.steamusercontent.com/ugc/89345132738305459/283C5380EDF311768C260CB199D3F3AB1BFF4A71/[/img]\r\n[img]http://images.akamai.steamusercontent.co",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/81470188891185629/4232244AB845EB8821B9C62F52477A59E3B8F1F1/"
+  },
+  "1239066824": {
+    "title": "veste2 f1 camo F.O.N.B.E.C",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/910156163264500599/3485F513BD745358E77F6489E8C6D92B71376269/"
+  },
+  "1349122762": {
+    "title": "Jacke Bundeswehr Flecktarn",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/923676156098638011/31FF68E4B8E3869940E1120575243206B3052E49/"
+  },
+  "1092133722": {
+    "title": "Merican Grit Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/863980945179849759/9D07AAF41F6CB1F7D20826FA138B8B8A667DB281/"
+  },
+  "1583132761": {
+    "title": "Army set - Winter Edition v.2",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/947342564743524356/44AB424D203B88C013CDB88B525B531BF1A42FDA/"
+  },
+  "1644800057": {
+    "title": "Devil wings",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/943970293956467655/956BAFE49540918582818E1C950C39D5C9EDBDBF/"
+  },
+  "832704043": {
+    "title": "Nomad Raider | Vagabond Jacket",
+    "description": "Nomad Raider.Worn out painted camo.\r\nI hope you like it!\r\n[URL=http://steamcommunity.com/profiles/76561198091887503/myworkshopfiles/][IMG]http://i60.tinypic.com/2znwxo0.gif[/IMG][/URL]\r\n\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/112987056947883521/F75110385EBAB8B5847D8F6102F07D18EFE5617F/"
+  },
+  "815320821": {
+    "title": "Snow Vagabond Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/106229389290093242/74DB865ABCA91C3602165FD0CC8A231017D1382A/"
+  },
+  "820397017": {
+    "title": "Skulljacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/103978299289811428/55879AC947A814FCEF76E6B0C23C7D79C8014600/"
+  },
+  "1376361749": {
+    "title": "Abstract Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/928182606403146309/953E24ED1D5EC943B1A12C9B96789B668A9E3497/"
+  },
+  "815318023": {
+    "title": "Black Vagabond Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/106229389290074735/1B71B9812343E63CF21B21935ADBCF557E98D759/"
+  },
+  "1703274995": {
+    "title": "I don't know anything",
+    "description": "#RustySpring2019\r\n\r\nThey were not Magi from the East (",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/963115943536019381/E730507628E1E1B520E1A98BBC88A858F7D4A488/"
+  },
+  "1219001455": {
+    "title": "Red Vagabond Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/867370346058484940/AC07D8C1BE94560B5D44E4F5C257F8D6F0AF6E66/"
+  },
+  "1197013504": {
+    "title": "Meeting collection - Jacked 20!8",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/863990463444118580/185C22FA11E219261922DDDABBC83A0FA092DEA4/"
+  },
+  "1441796173": {
+    "title": "CloakOfTheSamurai",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/960850363687660357/B3AA4AD54FC13ED6CF6057BEA5ABA21FF4610A52/"
+  },
+  "894529247": {
+    "title": "Hacki Vagabond Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/88225128355258649/BE1AA0BFC667EBCCC8F97310B0CD39BEF73510BD/"
+  },
+  "843467941": {
+    "title": "red & white camo jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/170409303830831690/7483BCEB7AD717770D1AD60542E82FDEE581109B/"
+  },
+  "911369390": {
+    "title": "Bearskin Superhero Cape",
+    "description": "A bearskin superhero cape.\r\n\r\nIt's made using the Vegabond Jacket skin, so you can wear things underneath it.\r\n\r\nPotentially part of a costume with these other pieces:\r\n\r\nPants\r\nhttp://steamcommunity.com/sharedfiles/filedetails/?id=913564379\r\n\r\nShirt\r\nhttp",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/823441571254429351/75EC1E7D6190D9A16FFFBB2788FEAF873E03F13A/"
+  },
+  "1644758865": {
+    "title": "Wing",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/943970293956196065/C61967463BBC4A32AC5DE80FCCCEF0C8FC130DEF/"
+  },
+  "1381591765": {
+    "title": "Abstraction Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/930435039802799945/E243C2DE63BA68451AD3003850B847F2BACC5145/"
+  },
+  "1108693550": {
+    "title": "Investigator Jacket",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/857226971850561033/AC71BF941FEDF5D8A235377658A6899081C1F136/"
+  },
+  "1185597614": {
+    "title": "vfvag",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/859486012913309330/E540851724E479EA7C25F66D7D8C5EA1145FD45D/"
+  },
+  "961331128": {
+    "title": "Vagabond Jacket-Kali Ma",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/852719688562610817/2A17B34C2EAE37BEFE784C210A606C844BE78586/"
+  }
+}

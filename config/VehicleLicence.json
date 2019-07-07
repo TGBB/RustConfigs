@@ -1,0 +1,83 @@
+{
+  "Define your licence settings": {
+    "Interval in minutes to check vehicle for wipe": 5,
+    "Time before vehicle wipe in minutes": 15,
+    "Use Economics to buy vehicles": false,
+    "Use ServerRewards to buy vehicles": true,
+    "Shortname of item needed to buy vehicles": "RP",
+    "Use permissions for chat commands": false
+  },
+  "Define your vehicles options": {
+    "RowBoat": {
+      "name": "Row Boat",
+      "prefab": "assets/content/vehicles/boats/rowboat/rowboat.prefab",
+      "purchasable": true,
+      "price": 150,
+      "cooldownToSpawn": 420,
+      "distanceToSpawn": 3,
+      "commands": [
+        "row",
+        "rowboat"
+      ]
+    },
+    "RHIB": {
+      "name": "RHIB",
+      "prefab": "assets/content/vehicles/boats/rhib/rhib.prefab",
+      "purchasable": true,
+      "price": 300,
+      "cooldownToSpawn": 300,
+      "distanceToSpawn": 10,
+      "commands": [
+        "rhib"
+      ]
+    },
+    "Sedan": {
+      "name": "Sedan",
+      "prefab": "assets/content/vehicles/sedan_a/sedantest.entity.prefab",
+      "purchasable": true,
+      "price": 5,
+      "cooldownToSpawn": 180,
+      "distanceToSpawn": 5,
+      "commands": [
+        "sedan",
+        "car"
+      ]
+    },
+    "HotAirBalloon": {
+      "name": "Hot Air Balloon",
+      "prefab": "assets/prefabs/deployable/hot air balloon/hotairballoon.prefab",
+      "purchasable": true,
+      "price": 125,
+      "cooldownToSpawn": 300,
+      "distanceToSpawn": 20,
+      "commands": [
+        "hotairballoon",
+        "hab"
+      ]
+    },
+    "MiniCopter": {
+      "name": "MiniCopter",
+      "prefab": "assets/content/vehicles/minicopter/minicopter.entity.prefab",
+      "purchasable": true,
+      "price": 1000,
+      "cooldownToSpawn": 255,
+      "distanceToSpawn": 8,
+      "commands": [
+        "minicopter",
+        "copter"
+      ]
+    },
+    "Chinook": {
+      "name": "Chinook",
+      "prefab": "assets/prefabs/npc/ch47/ch47.entity.prefab",
+      "purchasable": true,
+      "price": 3000,
+      "cooldownToSpawn": 1200,
+      "distanceToSpawn": 45,
+      "commands": [
+        "chinook",
+        "ch47"
+      ]
+    }
+  }
+}

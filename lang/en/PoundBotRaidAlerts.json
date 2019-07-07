@@ -1,0 +1,4 @@
+{
+  "error.permitted_group_missing": "Group {0} does not exist. Check permitted_only.group in config/PoundBotRaidAlerts.json or set permitted_only.enabled to false",
+  "config.upgrading": "Upgrading config to v{0}"
+}

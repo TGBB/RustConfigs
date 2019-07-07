@@ -1,0 +1,8 @@
+{
+  "CooldownTime": 6,
+  "EnableHistory": true,
+  "EnableLogging": true,
+  "UseCooldown": false,
+  "UseIgnore": false,
+  "UseUFilter": false
+}

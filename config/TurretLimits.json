@@ -1,0 +1,30 @@
+{
+  "Config": {
+    "Admin Can Bypass Build Restrictions": false,
+    "Disable All Turrets": false,
+    "Use Individual Control": false
+  },
+  "Limits": {
+    "Combined Control": {
+      "Do Not Count AutoTurrets": false,
+      "Do Not Count Flame Turrets": false,
+      "Do Not Count Shotgun Traps": true,
+      "Max Total Turrets Per Cupboard": 12,
+      "Turrets Require Power": false
+    },
+    "Individual Control": {
+      "AutoTurret": {
+        "Maximum": 8,
+        "Needs Power": false
+      },
+      "Flame Turret": {
+        "Maximum": 6,
+        "Needs Power": false
+      },
+      "Shotgun Trap": {
+        "Maximum": 25,
+        "Needs Power": false
+      }
+    }
+  }
+}

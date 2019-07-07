@@ -1,0 +1,14 @@
+{
+  "chat.channel": "2way-chat-between-discord-and-rust",
+  "chat.server_channel": "568342988556861440",
+  "chat.server_styled": true,
+  "chat.server_styled_color": "darkred",
+  "chat.styled": true,
+  "chat.styled_color": "darkorange",
+  "config.version": 3,
+  "relay.betterchat": true,
+  "relay.chat": true,
+  "relay.discordchat": true,
+  "relay.givenotices": true,
+  "relay.serverchat": false
+}

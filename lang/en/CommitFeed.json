@@ -1,0 +1,4 @@
+{
+  "CommitAnnouncement": "<size=16><color=#CD412B>Commit Feed</color></size>\n<size=13>{0}</size>",
+  "Error": "Error fetching commits from \"https://rust.facepunch.com/rss/commits.\""
+}

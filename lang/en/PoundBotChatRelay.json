@@ -1,0 +1,9 @@
+{
+  "chat.ClanTag": "[{0}] ",
+  "chat.Msg": "{{DSCD}} {0}: {1}",
+  "chat.Prefix": ":radioactive:",
+  "chat.DateFormat": "[HH:mm]",
+  "console.ClanTag": "[{0}] ",
+  "console.Msg": "{{DSCD}} {0}: {1}",
+  "config.upgrading": "Upgrading config to v{0}"
+}

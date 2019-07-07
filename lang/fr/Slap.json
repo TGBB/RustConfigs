@@ -1,0 +1,9 @@
+{
+  "CommandUsage": "Utilisation : {0} <nom ou id> <amount> (montant est facultatif)",
+  "Cooldown": "Attendre un peu avant de tenter de frapper à nouveau",
+  "NotAllowed": "Vous n’êtes pas autorisé à utiliser la commande « {0} »",
+  "PlayerNotFound": "Lecteur « {0} » n’a pas été trouvée",
+  "PlayerSlapped": "{0} a giflé !",
+  "YouGotSlapped": "Vous l’a giflé !",
+  "YouGotSlappedBy": "Vous a giflé par {0} !"
+}

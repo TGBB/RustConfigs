@@ -1,0 +1,12 @@
+{
+  "config.upgrading": "Upgrading config to v{0}",
+  "command.poundbot_register": "pbreg",
+  "connector.reconnected": "Reconnected with PoundBot",
+  "connector.time_in_error": "Total time in error: {0}",
+  "connector.error": "Error communicating with PoundBot: {0}:{1}",
+  "connector.error_with_rid": "Error communicating with PoundBot: [{0}] {1}:{2}",
+  "connector.user_error": "Cannot connect to PoundBot right now. Please alert the admins.",
+  "discord.pin": "Enter the following PIN to the bot in discord: {0}.",
+  "discord.connected": "You are connected to discord.",
+  "usage": "Usage: /pbreg \"<discord name>\"\n Example: /discord \"Fancy Guy#8080\""
+}

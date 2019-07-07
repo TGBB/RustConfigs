@@ -1,0 +1,10 @@
+{
+  "Image URL": "https://www.dropbox.com/s/0zbyws9itg41mlv/SORRY%20PROPER.png?dl=1",
+  "Fade-in duration": 4.0,
+  "Fade-out duration": 4.0,
+  "Delay after joining to create image": 18.0,
+  "Delay after creating image to start fade out": 18.0,
+  "Anchor min (left bottom coordinate)": "0 0",
+  "Anchor min (right top coordinate)": "1 1",
+  "Image transparency": 1.0
+}

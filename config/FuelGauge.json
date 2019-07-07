@@ -1,0 +1,11 @@
+{
+  "Display:": {
+    "Background Color:": "#9b9696",
+    "Background Transparency:": 0.3,
+    "ImageURL:": "https://i.imgur.com/n9Vp4yz.png"
+  },
+  "Settings:": {
+    "Dock:": "Left",
+    "Only Display to Driver:": true
+  }
+}

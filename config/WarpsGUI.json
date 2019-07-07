@@ -1,0 +1,42 @@
+{
+  "PrefixEnabled": true,
+  "PrefixText": "<color=orange>Warps: </color>",
+  "DefaultTimeUntilTeleport": 30.0,
+  "TimeUntilTeleports": {
+    "warpsgui.vip": 15.0,
+    "warpsgui.elite": 10.0,
+    "warpsgui.god": 5.0,
+    "warpsgui.none": 0.0
+  },
+  "DefaultCooldown": 180.0,
+  "Cooldowns": {
+    "warpsgui.vip": 60.0,
+    "warpsgui.elite": 30.0,
+    "warpsgui.god": 15.0,
+    "warpsgui.none": 0.0
+  },
+  "AllowTeleportWhilstBleeding": false,
+  "AllowTeleportFromBuildBlock": false,
+  "AllowTeleportOnCargoShip": false,
+  "AllowTeleportOnHotAirBalloon": false,
+  "AdminInstaTP": true,
+  "DamageInterruptsWarp": true,
+  "Economics": {
+    "Enabled": false,
+    "Cost Per Warp": 100.0
+  },
+  "ServerRewards": {
+    "Enabled": false,
+    "Cost Per Warp": 100
+  },
+  "Daily Uses": {
+    "Default Daily Limit": 25,
+    "Daily Limit": {
+      "warpsgui.vip": 5,
+      "warpsgui.elite": 8,
+      "warpsgui.god": 15,
+      "warpsgui.unlimited": 0
+    },
+    "Pay After Using Daily Limits": false
+  }
+}

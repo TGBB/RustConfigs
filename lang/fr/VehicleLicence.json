@@ -1,0 +1,22 @@
+{
+  "announcement": "Tapez <color='green'>/licence</color> pour obtenir de l'aide.",
+  "helpLicence": "Voici les commandes disponibles : \n<color='green'>/buy</color> -- Pour acheter un véhicule \n<color='green'>/spawn</color> -- Pour faire apparaître un véhicule \n<color='green'>/recall</color> -- Pour ranger un véhicule",
+  "helpBuy": "Voici les commandes disponibles : \nArgent : <color='red'>{0}</color> \n<color='green'>/buy row</color> -- <color='red'>{1}</color> pour acheter un bateau à rames \n<color='green'>/buy rhib</color> -- <color='red'>{2}</color> pour acheter un RHIB \n<color='green'>/buy sedan</color> -- <color='red'>{3}</color> pour acheter une voiture \n<color='green'>/buy hab</color> -- <color='red'>{4}</color> pour acheter une montgolfière \n<color='green'>/buy copter</color> -- <color='red'>{5}</color> pour acheter un mini hélicoptère \n<color='green'>/buy ch47</color> -- <color='red'>{6}</color> pour acheter un Chinook \n",
+  "helpSpawn": "Voici les commandes disponibles : \n<color='green'>/spawn row</color> -- Pour faire apparaître un bateau à rames \n<color='green'>/spawn rhib</color> -- Pour faire apparaître un RHIB \n<color='green'>/spawn sedan</color> -- Pour faire apparaître une voiture \n<color='green'>/spawn hab</color> -- Pour faire apparaître une montgolfière \n<color='green'>/spawn copter</color> -- Pour faire apparaître un mini hélicoptère \n<color='green'>/spawn ch47</color> -- Pour faire apparaître un Chinook \n",
+  "helpRecall": "Voici les commandes disponibles : \n<color='green'>/recall row</color> -- Pour ranger un bateau à rames \n<color='green'>/recall rhib</color> -- Pour ranger un RHIB \n<color='green'>/recall sedan</color> -- Pour ranger une voiture \n<color='green'>/recall hab</color> -- Pour ranger une montgolfière \n<color='green'>/recall copter</color> -- Pour ranger un mini hélicoptère \n<color='green'>/recall ch47</color> -- Pour ranger un Chinook \n",
+  "helpOptionNotFound": "Cette option n'existe pas.",
+  "vehiclePurchased": "Vous avez acheté un {0}, tapez <color='green'>/spawn</color> pour plus d'informations.",
+  "vehicleAlreadyPurchased": "Vous avez déjà acheté ce {0}.",
+  "vehicleCannotBeBuyed": "Vous ne pouvez pas acheter un {0}.",
+  "vehicleNotOut": "{0} n'est pas dehors.",
+  "noMoney": "Vous n'avez pas assez d'argent.",
+  "didntBuyVehicle": "Vous n'avez pas acheté de {0}.",
+  "alreadyVehicleOut": "Vous avez déjà un {0} à l'extérieur, tapez <color='green'>/recall</color> pour plus d'informations.",
+  "vehicleNotYetPurchased": "Vous n'avez pas encore acheté de {0}.",
+  "vehicleSpawned": "Vous avez fait apparaître votre {0}.",
+  "vehicleRecalled": "Vous avez rangé votre {0}.",
+  "vehicleOnCooldown": "Vous devez attendre {0} secondes avant de pouvoir faire apparaître votre {1}.",
+  "notInWater": "Vous devez être dans l'eau pour utiliser cette commande.",
+  "buildindBlocked": "Vous ne pouvez pas faire apparaître un {0} si vous n'avez pas les privilèges de construction.",
+  "noPermission": "Vous n'avez pas la permission de faire ceci."
+}

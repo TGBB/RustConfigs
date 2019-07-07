@@ -1,0 +1,3552 @@
+{
+  "10115": {
+    "title": "Ghost Bolt Rifle",
+    "description": "Hand painted bolt rifle with sunbleached (driftwood) furniture. Perfect for the desert or the tundra.\n\n[color=#FF9800]This is a skin for the [color=#ffdba5]Bolt Action Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/10115_small.png?2583238950"
+  },
+  "10116": {
+    "title": "Tundra Bolt Rifle",
+    "description": "A bolt action rifle skin, made for the snow.\n\n[color=#FF9800]This is a skin for the [color=#ffdba5]Bolt Action Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/10116_small.png?4022226082"
+  },
+  "10117": {
+    "title": "Dreamcatcher",
+    "description": "A tribal inspired skin for the Bolt Action Rifle\n\n[color=#FF9800]This is a skin for the [color=#ffdba5]Bolt Action Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/10117_small.png?616333159"
+  },
+  "819149392": {
+    "title": "Rustpunk Rifle",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Bolt Action Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/20408_small.png?4054184615"
+  },
+  "818403150": {
+    "title": "Army Bolt Rifle",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Bolt Action Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/20409_small.png?749433683"
+  },
+  "840105253": {
+    "title": "Polymer BAR",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Bolt Action Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/20711_small.png?1420126413"
+  },
+  "875259050": {
+    "title": "Great War Service Rifle",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Bolt Action Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/21507_small.png?2855626631"
+  },
+  "897023403": {
+    "title": "Deadly Rose BAR",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Bolt Action Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/21904_small.png?3473037134"
+  },
+  "943036098": {
+    "title": "Hunter's Bolt",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Bolt Action Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/22800_small.png?4152199635"
+  },
+  "947954942": {
+    "title": "Smuggler's BAR",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Bolt Action Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/23007_small.png?665764784"
+  },
+  "933509449": {
+    "title": "Glory BAR",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Bolt Action Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/23110_small.png?3542512644"
+  },
+  "972020573": {
+    "title": "Sandwar BAR",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Bolt Action Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/23302_small.png?763819290"
+  },
+  "1119629516": {
+    "title": "Steel and Brass BAR",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Bolt Action Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/24307_small.png?1705573458"
+  },
+  "1161165984": {
+    "title": "Survivor BAR",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Bolt Action Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/24502_small.png?2131399836"
+  },
+  "1517933342": {
+    "title": "Bolt From Hell",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Bolt Action Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/29302_small.png?1408938591"
+  },
+  "1535660827": {
+    "title": "Beauty Kills",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Bolt Action Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/29707_small.png?2519105888"
+  },
+  "1587273896": {
+    "title": "Granny's Bolt",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Bolt Action Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/30301_small.png?3255951769"
+  },
+  "1592946955": {
+    "title": "Shark Rifle",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Bolt Action Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/31503_small.png?3219761830"
+  },
+  "1687042408": {
+    "title": "Glory Rifle",
+    "description": "[color=#FF9800]This is a skin for the [color=#ffdba5]Bolt Action Rifle[/color] item. You will be able to apply this skin when you craft the item in game.[/color]\n\n[color=#5098ce]Breaks down into [color=#ffffff]1 x Metal[/color][/color]",
+    "imageUrl": "http://s3.amazonaws.com/s3.playrust.com/icons/inventory/rust/31801_small.png?1448898938"
+  },
+  "1740672258": {
+    "title": "Antique Bolt Rifle",
+    "description": "[quote=Lisa] [h1] Other works:\t[url=https://steamcommunity.com/profiles/76561198194207850/myworkshopfiles/?appid=252490&sort=score&browsefilter=myfiles&view=imagewall&p=1&numperpage=30] Click here!\t[/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/797612222070990827/4042F671BE715CCCB12E0EC2947A1CC1911AA09D/"
+  },
+  "793380019": {
+    "title": "Nighmare",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/366309245423141759/0B13B1837FD2F9F290EC753D69C5F5F9EFADA106/"
+  },
+  "1258112120": {
+    "title": "Widowmaker Bolt",
+    "description": "Black iron, golden lace and cold, cold cold, the Widowmaker shoots straight and true and does not care who it kills. A weapon for assassins.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/913535336050060112/46498FB45897BF527603C59448BADA0373B3C9D8/"
+  },
+  "1438121007": {
+    "title": "Wings of Death",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/952958746594857484/D69AF75D06E24080CE17EE79DEAFA88B680E1D3A/"
+  },
+  "891745509": {
+    "title": "Shadow BAR",
+    "description": "[url=http://steamcommunity.com/id/kekegod1/myworkshopfiles/][img]http://s020.radikal.ru/i700/1703/1c/9c33292af672.png[/img][/url]\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/94979895602290710/C03E294B4D77B0F7D7F91937F9C514C86692DF4E/"
+  },
+  "1396856015": {
+    "title": "Bone King | BAR",
+    "description": "[url=http://steamcommunity.com/id/madroce/myworkshopfiles] [img]https://i.imgur.com/pU1ApIZ.jpg[/img] [/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/931562390055832268/FDCB6338498EA26742D9191978F0F21CA9892307/"
+  },
+  "1725423755": {
+    "title": "Royal Hunt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/823506544573672214/889C4FA672DE65F87C9B5E6F8DE043974BD80C4D/"
+  },
+  "810148884": {
+    "title": "Red Dragon",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/103976952084232758/AE25BAC9390198406E8D30951D592A21689C61F5/"
+  },
+  "810657847": {
+    "title": "Rusty Bolt",
+    "description": "\r\nRifle bolt, very patched, the years have taken away its original color, but it is still a good rifle\r\ngood hunting\r\n\r\n\r\n\r\n\r\n[url=http://steamcommunity.com/profiles/76561198042749143/myworkshopfiles/?appid=252490&p=1&numperpage=30] \r\n ▬ ▬ ▬ ▬►look over he",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/200804344075406955/66B8BC7978C4D14E60B62E3FD733CACA69DEDA5C/"
+  },
+  "810667378": {
+    "title": "Dangerous weapon Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/177160601660590645/D97412CEC16A4B9D97792B59E69B3D92E4AB0E59/"
+  },
+  "810204582": {
+    "title": "Phantom",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/103976952084540789/11F4D79DFC633483A448A05B6C2B5625A97D6DC5/"
+  },
+  "810054258": {
+    "title": "Soleil Levant",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/103976952083746208/35B58C3B2C14076BA8562E23EAFDB9F78238BA07/"
+  },
+  "1275880366": {
+    "title": "Engraved Bolt Rifle",
+    "description": "Old engraved rifle was a base for this deadly machine.\r\n\r\n[i]Thorn in your head.[/i]\r\n\r\n[url=http://steamcommunity.com/id/estavos/myworkshopfiles/][img]http://i.imgur.com/TFgeyea.png[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/919166109641189121/87C1F3B1B569B3D0BD0B2BEAED83CD628B564C5F/"
+  },
+  "951574044": {
+    "title": "Precision BAR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/854970576714293008/4CB63E21496F601462088B4059147FD649043D11/"
+  },
+  "1206083127": {
+    "title": "Roof Camper's Pride | Bolt",
+    "description": "Are you pride to be a Roof Camper? Well, looks like this one is right for you.\r\n[url=http://steamcommunity.com/sharedfiles/filedetails/?id=1206079616][img]https://i.imgur.com/AN7kGyZ.jpg[/img][/url]\r\n[url=http://steamcommunity.com/sharedfiles/filedetails/?",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/868495049284664576/2C14255449196A6ABB71583DCBB2604C9024F557/"
+  },
+  "1581803833": {
+    "title": "Tactical Bolt Rifle",
+    "description": "Inspired by the classic AWP :D\r\n\r\n[url=http://steamcommunity.com/id/phase96/myworkshopfiles/][img]https://i.imgur.com/rT11LnN.gif[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/965356740269730216/8E27EC7FC8FC3105A82864F6BC7EF86D51A59C9A/"
+  },
+  "1189681081": {
+    "title": "Sure Shot BAR",
+    "description": "A modern bolt action rifle, carefully assembled with mostly modern parts and materials.  Surprisingly high accuracy for a post-apocalyptic weapon.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/851604923252343649/DC548A8B9B36B3BD6032EF84A2E3DD35F018F718/"
+  },
+  "924478752": {
+    "title": "Musket Rifle v2",
+    "description": "[url=http://steamcommunity.com/id/veyskara/myworkshopfiles/][img]https://image.ibb.co/j3wiBQ/followme.png[/img][/url]\r\n[url=http://steamcommunity.com/groups/VeysArt/][img]https://i.hizliresim.com/6900l3.jpg[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/820064128026301078/D2E81DF21270B95056D85F36B078526F858D0198/"
+  },
+  "1582197543": {
+    "title": "Tactical Bolt Rifle v2",
+    "description": "Inspired by the classic AWP\r\nMade some minor changes to some parts of the rifle.\r\n\r\n[url=http://steamcommunity.com/id/phase96/myworkshopfiles/][img]https://i.imgur.com/rT11LnN.gif[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/965356740272531643/8E27EC7FC8FC3105A82864F6BC7EF86D51A59C9A/"
+  },
+  "820975592": {
+    "title": "Madman's Bolt Rifle",
+    "description": "The mad hunter.... his gun stained with the blood of his victims, a deep red color indicates they must have been many, a true marksman, but not a sane one...",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/106230098542677699/7180D1FD09CAD53594006F3F3C6323B31CFFEA50/"
+  },
+  "705194459": {
+    "title": "Rebel Grunge Bolt Rifle",
+    "description": "With this skin you will be the real rebel and your enemies will like you.\r\n\r\n[url=http://steamcommunity.com/id/zufick/myworkshopfiles/][img]http://i.imgur.com/KJJ1IKJ.png[/img][/url]\r\n[img]http://i.imgur.com/uQmqHzD.png[/img]\r\n[url=http://steamcommunity.co",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/490145495155238806/1EA490BDDCC4DB6DF33821DCFBED32B717A49F76/"
+  },
+  "1284418935": {
+    "title": "Death Adder",
+    "description": "[url=http://steamcommunity.com/id/badtripbg/myworkshopfiles/][img]http://i.imgur.com/u3a3NhQ.png[/img][/url]\r\n[url=http://steamcommunity.com/groups/wintrip][img]http://i.imgur.com/iEgnCSQ.png[/img][/url]\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/929299903478908329/C176306569D11B981936A812BC12A9E6B777FCE3/"
+  },
+  "972014855": {
+    "title": "Contract | Bolt",
+    "description": "[url=http://steamcommunity.com/sharedfiles/filedetails/?id=972016769][img]http://i.imgur.com/0NoGNWF.jpg[/img][/url]\r\n[url=http://steamcommunity.com/sharedfiles/filedetails/?id=972019221][img]http://i.imgur.com/M7fTMco.jpg[/img][/url]\r\n[url=http://steamcom",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/850468678096940004/A59CA6336B813DF368FD8F35F4E0122054F1F7A5/"
+  },
+  "919353437": {
+    "title": "Heart of Darkness",
+    "description": "A bolt action rifle, designed and camouflaged for big game hunters in a high plains or desert environment. This one survived the trip down through the years remarkably well, needing only minor repairs to bring it into serviceable condition.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/811056205063764796/E8F850C619AAF924CF7554E9D99D1C6BCB8FC8E7/"
+  },
+  "1696594290": {
+    "title": "Imperial Bolt",
+    "description": "No glowing parts in anyway\r\n\r\nRoman themed bolt",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/928212412443878223/9AF511D12D2ABEE883830C80401090F83C5F56CF/"
+  },
+  "954607698": {
+    "title": "Deathwatch BAR",
+    "description": "[URL=http://steamcommunity.com/id/Deltap42/myworkshopfiles/][IMG]http://i.imgur.com/hBkHsbv.png[/IMG][/URL]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/866229932588547754/39E0141F817459E775EA115E69A6DCC2817736CB/"
+  },
+  "1581664321": {
+    "title": "Caution Bolt Rifle",
+    "description": " ",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/950719981314908130/1DD338F6CBCAD01DE75E3BAB37FE846B334D8227/"
+  },
+  "1628213151": {
+    "title": "Cold Hunter BAR",
+    "description": "it does not glow in any way\r\n[url=http://steamcommunity.com/id/madroce/myworkshopfiles] [img]https://i.imgur.com/pU1ApIZ.jpg[/img] [/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/959731270405968675/6D82EB6CDF824DFF0F6E7C9C2EFBF216523AF5DC/"
+  },
+  "1377367489": {
+    "title": "Treasure Hunt Bolt",
+    "description": "Sometimes when the treasure is just too precious to go head first you gotta get rid of the threat before the looting starts.\r\nSnipe like a pirate, loot like a pirate!\r\n\r\n\r\n[url=http://steamcommunity.com/profiles/76561198211444311/myworkshopfiles/][img]http",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/918049507264396431/DFC7B33D8A94378E4E4B52CCB7103F998DAEFE25/"
+  },
+  "1608460551": {
+    "title": "RF BOLT MK",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/951848487715034408/5411625A14CCA91D8E7746C47804F31265778289/"
+  },
+  "973869967": {
+    "title": "Precision BAR - Rusty Version",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/841461678793265112/FDA4E3E9292AEF9889EFE30C5177A67334432E5C/"
+  },
+  "917530777": {
+    "title": "Black Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/823440737873993848/DCA2E039136B1F87EECBA9D4B35D3CBA88AF78ED/"
+  },
+  "1651821867": {
+    "title": "Valentine BAR",
+    "description": "A BAR skin for the valentines day \r\nThe Gun and Sight do not glow in any way\r\n[url=http://steamcommunity.com/id/madroce/myworkshopfiles] [img]https://i.imgur.com/pU1ApIZ.jpg[/img] [/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/956355879794124633/95DDC4A2DC1F20066F9E2B413406F1AE160A4435/"
+  },
+  "1188087430": {
+    "title": "Recon Bolt",
+    "description": "[img]https://i.imgur.com/0JZVNeG.png[/img]\r\n\r\n_\r\n[url=http://steamcommunity.com/id/Krovv/myworkshopfiles/?appid=252490&p=1&numperpage=30][IMG]http://i.imgur.com/4CVSNoJ.png[/IMG][/url]\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/859486295908432028/AFA4D2DA4765CCE9A9B878562A9A3859E26518DC/"
+  },
+  "1636876625": {
+    "title": "Gold Nugget BAR v2",
+    "description": "[url=https://steamcommunity.com/id/anubisdark/myworkshopfiles/?appid=252490][img]https://i.imgur.com/E3L3oED.gif[/img][/url]\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/945095565208871853/7CC4243822ED68C60DCE502B50E25756F3EBEABC/"
+  },
+  "1425726423": {
+    "title": "snake",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/954083319075594359/1D7A6081C02BA0468408D797B8CE312B3F8EAAEF/"
+  },
+  "1220844002": {
+    "title": "Croco Bolt Rifle",
+    "description": "[url=http://steamcommunity.com/id/badtripbg/myworkshopfiles/][img]http://i.imgur.com/u3a3NhQ.png[/img][/url]\r\n[url=http://steamcommunity.com/groups/wintrip][img]http://i.imgur.com/iEgnCSQ.png[/img][/url]\r\n\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/870748015994150907/4C6F5C6E2B60DDE5891BE2C16DF817E4252145BF/"
+  },
+  "835467269": {
+    "title": "1 Shot 1 Kill",
+    "description": "For the tried and tested marksmen, a true 1 shot 1 kill rifle for your enjoyment.\r\n\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/93847163966285498/536A917CA89AF7BC4806DA5C8BEE743C5F6585B2/"
+  },
+  "1354629965": {
+    "title": "Seafarer",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/929306232365845820/E43E74063D83F185BC246393CCE3BFCDDB2BC8B8/"
+  },
+  "1600129944": {
+    "title": "Neon BAR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/943966491256485678/0139288533DBEDD2F0A9B4D4E1BB9ED6358BE04D/"
+  },
+  "658334294": {
+    "title": "Rustpunk Bolt",
+    "description": "A muddle of old world precision clockwork parts and scrap salvage, this Rusty bolt-action fires straight and true out to three hundred yards.\r\n[url=http://steamcommunity.com/sharedfiles/filedetails/?id=669849981][img]http://i.imgur.com/WgObJDG.png[/img][/u",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/271713845559061766/DFEA9835326CB33AA36FA2736F242963D51C34C5/"
+  },
+  "1625043915": {
+    "title": "Gold Nugget BAR",
+    "description": "[url=https://steamcommunity.com/id/anubisdark/myworkshopfiles/?appid=252490][img]https://i.imgur.com/E3L3oED.gif[/img][/url]\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/946220291596058573/AE61CDF9123391EE3D9BB2D70B6307044BE7EFF2/"
+  },
+  "971971249": {
+    "title": "Birch Arabesque Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/835831966954050843/8D7748188F97A8C4074330510DD1120DBAEC71ED/"
+  },
+  "924833995": {
+    "title": "Musket Rifle v3",
+    "description": "[url=http://steamcommunity.com/id/veyskara/myworkshopfiles/][img]https://image.ibb.co/j3wiBQ/followme.png[/img][/url]\r\n[url=http://steamcommunity.com/groups/VeysArt/][img]https://i.hizliresim.com/6900l3.jpg[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/820064128028603581/11BAEA726F8D2D0774014CC6AED994A69F4E9DEB/"
+  },
+  "1236462705": {
+    "title": "Red Diamond",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/914659492489675126/E4EE5CF6D51379E30B63014629814448A312D05D/"
+  },
+  "969203971": {
+    "title": "Fatal arm",
+    "description": "[url=http://store.steampowered.com/itemstore/252490/detail/23117/][img]http://i.imgur.com/C2TWozw.png[/img]\r\n[/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/833579934782918801/4A05DE378EB5BCAC28D04ABEDE8171BD1AE2AE18/"
+  },
+  "1277134936": {
+    "title": "Spider",
+    "description": "[url=http://steamcommunity.com/groups/freddy_designs][img]https://i.imgur.com/wXH8Brw.png[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/922543929859270680/EC85F0CF8B8C69D3B701DAEA07245920A3EE6E06/"
+  },
+  "1570388611": {
+    "title": "circle bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/956348494887271356/371BBA3CFCEBD220F1FC1F72E78907DD7212FF7D/"
+  },
+  "1137364092": {
+    "title": "Wild Adventure",
+    "description": " [url=http://steamcommunity.com/id/badtripbg/myworkshopfiles/][img]http://i.imgur.com/u3a3NhQ.png[/img][/url]\r\n[url=http://steamcommunity.com/groups/wintrip][img]http://i.imgur.com/iEgnCSQ.png[/img][/url]\r\n\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/870741122729098864/43BBEE75D7E81F9A7609B723EED78D9D910D31E6/"
+  },
+  "1168755971": {
+    "title": "Dark Knight BAR",
+    "description": "[url=http://steamcommunity.com/id/zufick/myworkshopfiles/?appid=252490][img]http://i.imgur.com/KJJ1IKJ.png[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/879750610977976810/053DA34A501AE7E84A33385E455E18A5F018F436/"
+  },
+  "817986192": {
+    "title": "Hunter Rune",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/107355924082422335/2FB55CD3B3BB2F1DC1D7C9E9ECCBFC0F1C97DDF6/"
+  },
+  "823483719": {
+    "title": "Red Line Bolt - Version 2",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/110734252813706267/DBE7061EDD5A69C5B6367376F6C43EA30072BD0F/"
+  },
+  "903922917": {
+    "title": "Destroyer BAR V3",
+    "description": "[url=http://steamcommunity.com/id/kekegod1/myworkshopfiles/][img]http://s020.radikal.ru/i700/1703/1c/9c33292af672.png[/img][/url]\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/94981434122288122/45FA604EB3FF15B8447385AB84D6A88223A35E79/"
+  },
+  "1441240451": {
+    "title": "Scrap Guard Bolt",
+    "description": "_\r\n[url=http://steamcommunity.com/id/Krovv/myworkshopfiles/?appid=252490&p=1&numperpage=30][IMG]http://i.imgur.com/4CVSNoJ.png[/IMG][/url]\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/950707201107820931/DBB135BC6211ACD8524F47FDBCCD4F6B4C921F34/"
+  },
+  "842163601": {
+    "title": "DL-Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/183919959765723594/014EBEA99FB9F00D2C0CB9B760118393AB077EA9/"
+  },
+  "818684900": {
+    "title": "awesomebolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/179413592561036753/CAF70EEC95B36BA3B0ADCBF101AD3DEE8EA8EFF4/"
+  },
+  "1572219451": {
+    "title": "Red Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/958600294708605677/DC4C6F73943E30AB827E0653B856F5BEA28C3553/"
+  },
+  "810975451": {
+    "title": "Head Breaker",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/99473352461193748/DCE3F8F2EE87E0BAA22F03CB54C6FF4798D62A63/"
+  },
+  "902076555": {
+    "title": "Destroyer BAR V2",
+    "description": "[url=http://steamcommunity.com/id/kekegod1/myworkshopfiles/][img]http://s020.radikal.ru/i700/1703/1c/9c33292af672.png[/img][/url]\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/94981434113549107/6E2E5549D77B56F4AC140FC78D1101FDE04CE2A4/"
+  },
+  "818684897": {
+    "title": "awesomebolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/179413592561036297/9FA430357ACFE0DFBD483154FDEB82C0D0EA9F70/"
+  },
+  "873903228": {
+    "title": "Standard Issue Bolt Action Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/91599992753908932/4AE055FE9A8C049690E0371B5CD60B2964BD1A31/"
+  },
+  "842045872": {
+    "title": "Eternal Explosion",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/183919959765219384/B5BEDF759EA315B0F254388822274AE102E4AF6F/"
+  },
+  "843495926": {
+    "title": "Luxury bolt rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/90470407136040408/E66670B51CE13B705C4854CCD5FFFC0C7498E47C/"
+  },
+  "1578597320": {
+    "title": "Hot Metal Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/950719629676338662/B001613E4E56984304D22B7A1CCCF4B8F6C7AA1F/"
+  },
+  "972016769": {
+    "title": "Icebreaker | Bolt",
+    "description": "[url=http://steamcommunity.com/sharedfiles/filedetails/?id=972014855][img]http://i.imgur.com/Avf8Lea.jpg[/img][/url]\r\n[url=http://steamcommunity.com/sharedfiles/filedetails/?id=972019221][img]http://i.imgur.com/M7fTMco.jpg[/img][/url]\r\n[url=http://steamcom",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/850468678096949338/C3CC48D2B7859776174B02D63B3B3D5137CE4950/"
+  },
+  "855152631": {
+    "title": "Black Bolt Rifle",
+    "description": "Because black and grey weapons allways look better!\r\n\r\nIf you need a colorfull weapon play with nerf-guns",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/172662564405605893/DCD4A766BAACF1FD82001A3D8A7179412DF3ED7B/"
+  },
+  "811539481": {
+    "title": "Veteran Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/101725152278042278/B59EA8A6C22DD9E741E69C97E5E8515D6137797C/"
+  },
+  "812317051": {
+    "title": "Patterned Bolt Action",
+    "description": "Thanks for viewing my content! If you like what you see then be sure to upvote and favourite this item. For more of my content be sure to follow me and dont hesitate in checking out my other workshop items [url=http://steamcommunity.com/id/-SOLLY-/myworksh",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/200804344084212572/E90B74778B897EE3174F18021C9FA43BEE300E59/"
+  },
+  "895901286": {
+    "title": "My Red Angel",
+    "description": "[url=http://steamcommunity.com/id/badtripbg/myworkshopfiles/][img]http://i.imgur.com/u3a3NhQ.png[/img][/url]\r\n[url=http://steamcommunity.com/groups/wintrip][img]http://i.imgur.com/iEgnCSQ.png[/img][/url]\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/91602828082553960/F437F8823BAB2D99A1F95999F546A8CF10FB60B2/"
+  },
+  "1078019586": {
+    "title": "Bolt Rifle - Electric",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/854972893774007419/A78857EB29C4962934E3433EB58E20F5494A36DF/"
+  },
+  "1162263866": {
+    "title": "Vintage BAR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/869617133503181224/6AC9FF94EB957D6F1A70C4E3EC48003F3CADF1FD/"
+  },
+  "1480303129": {
+    "title": "Blood night BAR",
+    "description": "[url=http://steamcommunity.com/id/anubisdark/myworkshopfiles][img]http://i.imgur.com/eGZISdO.png[/img][/url]\r\n\r\nSorry for potato graphic ¯\\_(ツ)_/¯",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/950710117381934314/BF86F8AD88661258660B7DC9ADC29A7A378CB57E/"
+  },
+  "1461234899": {
+    "title": "Curiosity",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/956338348340400684/1397CB01F86B6CEAF2D176DA07442B546D06DCE4/"
+  },
+  "911918382": {
+    "title": "Thunder BAR",
+    "description": "[url=http://steamcommunity.com/id/kekegod1/myworkshopfiles/][img]http://s020.radikal.ru/i700/1703/1c/9c33292af672.png[/img][/url]\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/813306660768287647/1CA75D56F0B955CDA2BDCC00F9A163C633B78202/"
+  },
+  "1260959034": {
+    "title": "Flames Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/904528168696082738/1F44D21EA0AD165216409E5D705E1059C736CF2E/"
+  },
+  "846513994": {
+    "title": "Black Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/180542744134154397/616488B0470B1958B1433882BAE13BF62A350C32/"
+  },
+  "828742565": {
+    "title": "Blue Beauty (Bolty Skin)",
+    "description": "I wanted a sexy bolty skin that represents skill and color. I made it and here it is. It took me a total of 5-6 hours customizing it to the sexiness that it is right now. Any comments or concerns please post them below.\r\n\r\nOther Works Below:\r\n\r\nHatchet: ht",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/102853654343395495/CC902DA858020E74FA7F9C1347619237FDA3E8AD/"
+  },
+  "823124580": {
+    "title": "Warning Shot",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/197428545635000704/66D434815558B2032E697BA54DC59BBFAA46F5AD/"
+  },
+  "954510551": {
+    "title": "rustybolty",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/883127278033779527/DB57E564F1D7A6C3210668B7BADE9D12D323FB31/"
+  },
+  "1571106662": {
+    "title": "BEACHES BOLT RİFLE",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/961977994424693387/20C9996A9D60998F31E7E1AEF97B9ECE25E9A195/"
+  },
+  "939447579": {
+    "title": "Patriot Bolt Rifle",
+    "description": "[url=http://steamcommunity.com/id/badtripbg/myworkshopfiles/][img]http://i.imgur.com/u3a3NhQ.png[/img][/url]\r\n[url=http://steamcommunity.com/groups/wintrip][img]http://i.imgur.com/iEgnCSQ.png[/img][/url]\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/780659514674711414/6337C788D3A165D72131A006AE6A201FD22D052A/"
+  },
+  "1574908935": {
+    "title": "Salamander Bolt",
+    "description": "Toxic gun!\r\n\r\n[url=https://steamcommunity.com/id/anubisdark/myworkshopfiles/?appid=252490][img]https://i.imgur.com/E3L3oED.gif[/img][/url]\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/947341732751844335/DDB0E0F3984A6B727A32331579FA01549A90E9BC/"
+  },
+  "1131894296": {
+    "title": "Judgement Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/868488696177515829/F230F406F7DCA6F39739EABCA3A708FDB5395E49/"
+  },
+  "1113521941": {
+    "title": "Last Eclipse (BR)",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/848220336393892800/7877C304493B0FA57CFFCF9B7A29908A1B5E3719/"
+  },
+  "949948202": {
+    "title": "Mercenary BAR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/856096260988160435/C31899EF692DB0450B9AA61B2CE0A8DF1FBE47A2/"
+  },
+  "837794649": {
+    "title": "BlackBoltRifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/94973258564347881/69F6257A613E61B5B2DD3E9AF9669512A7DF7AEC/"
+  },
+  "826718456": {
+    "title": "Coal",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/107356734880911937/6E997CEC132883AB8D2F4540AB9AD3524B583A6C/"
+  },
+  "844137122": {
+    "title": "Green Lightning",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/92722164046977888/FE38081746CBDDEBCD1FB37389D4FE9005BBEBF0/"
+  },
+  "897867582": {
+    "title": "Destroyer BAR",
+    "description": "*upd new steel\r\n[url=http://steamcommunity.com/id/kekegod1/myworkshopfiles/][img]http://s020.radikal.ru/i700/1703/1c/9c33292af672.png[/img][/url]\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/94980958195356391/5B7166AA48EE7FDD99E46415277394A9BBE2CC26/"
+  },
+  "865292013": {
+    "title": "StarBurst",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/80340029170027804/379A4747FB1E8FBEAAAEAB99F58D6965A34677FF/"
+  },
+  "1648465550": {
+    "title": "hyper beast BR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/943970729010467094/A643110380660ACEECC3326EB80F6832536969AF/"
+  },
+  "1129842975": {
+    "title": "Bolt SHD",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/862858943314568848/D98DD5DC1F9AA2D2864FB4AC63756F0E5F3A71FA/"
+  },
+  "814540814": {
+    "title": "Redline",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/97222190036390450/4809CD041D1679093F2E58F5D87C7746DB265134/"
+  },
+  "822740826": {
+    "title": "Witchfinder (Glow)",
+    "description": "If they float they're witches!! Or is it if they sink? Either way, shoot them with the Witchfinder just to be sure!\r\n\r\nI had to delete the old one because the changes wouldn't show up in the workshop! Anyhoo, I added some occult symbols as well as a dull r",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/99475253737541842/1828D82820AAD75027DEE718ABF99526EBC5F716/"
+  },
+  "1178822720": {
+    "title": "Harvested \"Bolt\"",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/868492508837531905/7E2FCC1DECDCE8462ADE0CBA1E7B0515209AC42A/"
+  },
+  "958486539": {
+    "title": "Nightingale Bolt Action Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/845964103322160841/6AC700916C4D11B8D928EAB48C0AFC59291AE1CE/"
+  },
+  "811419586": {
+    "title": "Tick Tock Bolt Action",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/197426912817929320/B868466F8DF0737D47A1A3DC68F6D596151324D6/"
+  },
+  "821339734": {
+    "title": "Blood Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/103978299295520668/FB5ADF63C0BA2B422550178342762C3A2DA9D471/"
+  },
+  "1288470338": {
+    "title": "Spider V.2 (Glowing)",
+    "description": "[url=http://steamcommunity.com/groups/freddy_designs][img]https://i.imgur.com/wXH8Brw.png[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/922544977936317386/94EDC961AE68048D8DFE78F92676E69224631456/"
+  },
+  "816567360": {
+    "title": "Red Line Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/110732988923709653/165A2288A2C1D8F60665105BF5BECC1AF03EE252/"
+  },
+  "1700844054": {
+    "title": "X-RAY",
+    "description": "[url=https://steamcommunity.com/groups/freddy_designs][img]https://i.imgur.com/fl5RsGe.png[/img][/url]\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1703047212][img]https://i.imgur.com/4fZ1wst.jpg[/img][/url]\r\n[url=https://steamcommunity.com",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/911324212983757332/1B5F1CB0159A4F1EF82C3AE2C431FC0C733A53CD/"
+  },
+  "953967313": {
+    "title": "Snake Hunt",
+    "description": "It´s not he final version, update coming soon...",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/849341267535224478/7FB61B7180C5359B73788DCCF082A779D0A06845/"
+  },
+  "1121905533": {
+    "title": "GOT Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/868488696174439956/7FD5E07BD5481BFE65F06DA5BD26AAC6D2A47F3F/"
+  },
+  "938515083": {
+    "title": "Modern Bolty",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/784036979649374825/7A13E03A7D4E4554DAA7F9584846D1200E8A1057/"
+  },
+  "845704294": {
+    "title": "Black Bolt Rifle v2",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/93848290826099645/82AA3D4252561F355F2B2AA7F364EFE45EC03CDB/"
+  },
+  "1469090913": {
+    "title": "Bolt Lucifer",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/959716467397345687/0DC822E6502433329CC18E5BE32DD05E9F4346C0/"
+  },
+  "1089857660": {
+    "title": "Black Wrap Stained Bolty",
+    "description": "This is my first skin. \r\n\r\nA classic bolty, with a touch of effort to make it look a little more serious, and less taped together. The wood has been dark stained and instead of white insulation tape, a dark cloth wrap tape for better grip and comfort.\r\n\r\nI",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/842588658447489753/D4218E49F3CB7F784EC0118935101CA8679F80B8/"
+  },
+  "824621590": {
+    "title": "Orange Fury (clean)",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/109608534691953816/03CA0F33132042326B10D61EAC4C67BBD5078DD7/"
+  },
+  "1306234077": {
+    "title": "Bolt Mk1",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/928176053585182631/C29AAE6A568BB2BE4CF61242FC5536EBC8F8E925/"
+  },
+  "913906478": {
+    "title": "Greater God BAR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/820062603928041005/61C8C74DB141024F587A35A257C96FB50A2A0FB1/"
+  },
+  "820499977": {
+    "title": "Bolty with Wooden finish",
+    "description": "Inspired by the Kar98k",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/109607797357339809/7AB04A563D63221BF76764E8431AC13613EBC22C/"
+  },
+  "855353210": {
+    "title": "Posh Action Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/84842552019515778/F370D1FC2C85BF45BE30B0604DD857FEDF4719F7/"
+  },
+  "845565395": {
+    "title": "Razer Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/167031784772184940/27747C849239AF5DEE5AC6E3B59ECF85EF18DCEE/"
+  },
+  "882803135": {
+    "title": "Bioshock Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/91600930970519045/D478F0189FC637844E0982C0524F83EE89664A45/"
+  },
+  "818772982": {
+    "title": "Ember Bolt",
+    "description": "[url=http://steamcommunity.com/profiles/76561198021218145/myworkshopfiles/]< Workshop > [/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/97222901286082175/F141F9D6D10A5773F55EFDCF587FCF31AE2CCC79/"
+  },
+  "1219946158": {
+    "title": "Refurbished Antique",
+    "description": "Not every naked has brazen disrespect for his equipment. That semi-auto body had a history, a past life, hundreds of loving tune-ups before the war. With a little love and elbow grease, it can live again.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/860614950108110399/BD6A0371601F48742519444BB5FA45C1B4EBABF6/"
+  },
+  "813138749": {
+    "title": "Ender",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/200804344089505075/3A917B5A545EB0D227965996D30FCB35D34A5D10/"
+  },
+  "844951366": {
+    "title": "Black Jack Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/93848290821104506/FCC99D00B4BC271F06AA669EC126696BA601D4E1/"
+  },
+  "1671415025": {
+    "title": "Timeless Huntress Bolt Rifle",
+    "description": "Why change what is ancient, when we can build upon it.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/1000267470293120485/B09F132C5BCE3DAFB7031C00B6F876E5D693E164/"
+  },
+  "824219418": {
+    "title": "\"Carbon Copy\" Bolty",
+    "description": "A bolt action rifle sporting carbon fiber furniture and internal parts all wrapped around hand forged heat treated steel.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/177162529099078286/2D9DBDDE75A24777D72A1D88E194D0905F9B012D/"
+  },
+  "841653440": {
+    "title": "Black Widow | Bolt",
+    "description": "[url=https://steamcommunity.com/id/TheMarex86/myworkshopfiles/][img]http://i.imgur.com/hrpwdtO.png[/img][/url][url=https://steamcommunity.com/id/TheMarex86/myworkshopfiles/][img]http://i.imgur.com/kE6a82V.png[/img][/url][url=https://steamcommunity.com/shar",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/185045549112447529/45E18E4E3636233C2A339466DBBCB5A098DCA0FA/"
+  },
+  "850446069": {
+    "title": "Hot-tempered Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/100604131788374431/D8BD23E44A8DE13DE4514D9D69912D6B1076F5FA/"
+  },
+  "1096429613": {
+    "title": "Da Beast",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/863981360764476212/D38906B41EA9A6755ADCB55F20C74228CD56BACD/"
+  },
+  "812227961": {
+    "title": "Bolt Rifle Fire and Ice",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/179412245853873370/5035E5295ED8A72904426B2E4D854F9A95B61378/"
+  },
+  "1240212757": {
+    "title": "Rising Sun",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/919163362516671506/65EF6D55C447CFB864869AB40310A85548C7A94F/"
+  },
+  "957707553": {
+    "title": "galaxy rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/845963944241699786/C153B7625FC73EDFA2A3AA3F9DB6213909C18766/"
+  },
+  "821878881": {
+    "title": "Carbon Fiber Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/199679790012284150/ADBA588AFEB1C67F9F8F3F9D24505F6DCF455C2F/"
+  },
+  "834441767": {
+    "title": "Nuclear Rifle",
+    "description": "Would you like to see in the game?--->Like+favorite! \r\nPlease comment! \r\nFollow me if for more! \r\nThank you for all! \r\n\r\n[URL=http://steamcommunity.com/id/ProSniper0236ket/myworkshopfiles/?appid=252490]Follow me![/URL]\r\n\r\n[URL=http://steamcommunity.com/sha",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/105106022015259296/40CD150956B4BD9FF2E0D02F5873D4C513DE6B01/"
+  },
+  "829687956": {
+    "title": "Zeus Bolt",
+    "description": "Make it rain lighting with this bolt",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/183919165736368469/0FF66BCDF28D1B4ED598456AF54BD76F1CB5B1BD/"
+  },
+  "827584287": {
+    "title": "Huntin Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/106230834972377381/4B8D45EBA0BA86514339872C479DED605CE416B1/"
+  },
+  "942745025": {
+    "title": "Blood Bolt",
+    "description": "The last one I made wouldn't work because of texture issues. I resolved it with this updated blood rifle. I hope you like this, and if you do, please upvote!",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/847088009731774057/807AB6272C4BF21FDA074899B58A576CB9DDC1F0/"
+  },
+  "812168616": {
+    "title": "Military Camo Bolt Action Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/180538145759394286/4CC80AFF6E8CDF95F0557943D84791145148F7AA/"
+  },
+  "812245944": {
+    "title": "Dark Galaxy Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/101725152281775482/94DD455AB4251157360219A3F7D81ABCE62E1D91/"
+  },
+  "960176537": {
+    "title": "RED BOLT",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/851593718906071719/1148FB1058B8854A4A2559236D9330D6F7999D6F/"
+  },
+  "854640467": {
+    "title": "Special Made Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/97227270607334754/1A73770E2294B0B44A405B620651FF530C56D571/"
+  },
+  "939269980": {
+    "title": "Red Strapped Bolt",
+    "description": "Bolt wrapped with red cloth. And a stained black.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/766022928256130969/B39A7A7E1C68E0BE8016B2780127684CD7B720E9/"
+  },
+  "1096087995": {
+    "title": "GrayBurn BoltAction",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/862855406952702857/37C9AF98C8226B923359F5858E44DC5FAE68B6BA/"
+  },
+  "875221536": {
+    "title": "Poseidon BAR",
+    "description": "Special thanks to the viewers who watched my Poseidon Bolt tutorial, a guide to making basic skins.\r\n\r\nFollow my twitch and add me on steam to request specific texturing tutorials.\r\n\r\nhttps://www.twitch.tv/gootahba\r\n\r\n[url=http://steamcommunity.com/id/spar",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/91600296833211998/7186B1709698CF7D112349345378B972D2FAEED9/"
+  },
+  "1643047159": {
+    "title": "Experimental Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/952977212328305434/DC9E986C3FF7DD3A08FCF46DCDFB1D09C54F9CEC/"
+  },
+  "822173289": {
+    "title": "Hunting Season",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/199679790014465988/2C5EE1C3A39177F7DD60FCB13949E8C0502FDF04/"
+  },
+  "1354460476": {
+    "title": "Isotope BAR",
+    "description": "Bolt-Action Rifle painted with radioactive isotopes. Weird science project.\r\n\r\nI'm having issues uploading more images to the workshop item so here's a link to more screenshots below.\r\n\r\nhttps://imgur.com/a/LmgLQ\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/918046970946295893/B0F08D2F38EF0E02D0153F9C1CD99BD6FE37D45A/"
+  },
+  "882284371": {
+    "title": "Dark Assassin",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/85971431435550043/F8CA5C2B8A5DE24DDE5D03C93E801A95F0DC25DB/"
+  },
+  "874673290": {
+    "title": "Bolt Rifle Winter Vikings",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/96103896456890976/65A637604B5431DDD6EA52C108F3A66B4CE2539B/"
+  },
+  "841655830": {
+    "title": "Black Widow | Bolt W",
+    "description": "[url=https://steamcommunity.com/id/TheMarex86/myworkshopfiles/][img]http://i.imgur.com/hrpwdtO.png[/img][/url][url=https://steamcommunity.com/id/TheMarex86/myworkshopfiles/][img]http://i.imgur.com/kE6a82V.png[/img][/url][url=https://steamcommunity.com/shar",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/185045549112459254/52A74F52F2C2896EF363C087044C1263735B0D4C/"
+  },
+  "972019221": {
+    "title": "Interrogator | Bolt",
+    "description": "[url=http://steamcommunity.com/sharedfiles/filedetails/?id=972016769][img]http://i.imgur.com/0NoGNWF.jpg[/img][/url]\r\n[url=http://steamcommunity.com/sharedfiles/filedetails/?id=972020573][img]http://i.imgur.com/fkTnz4I.jpg[/img][/url]\r\n[url=http://steamcom",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/850468678096962012/A4ADEC60007F366F30BBCD88AAEDDF740C414F12/"
+  },
+  "1309234890": {
+    "title": "Jolly Reacher Bolt Rifle",
+    "description": "The Jolly Reacher bolt rifle. My personal take on a pirate theme inspired by the flags of Blackbeard and Topknot.\r\n\r\nThe skeleton hand reaches out anointing death upon those foolish enough to land in its sights.\r\nThe rifle stock is hewn out of dark driftwo",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/911287766753773655/DF11384CDD0E231270F273028622E61AEC9F96E0/"
+  },
+  "819197820": {
+    "title": "Bolt Declassified",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/103978299283231796/3D9CD69F693CA9EC54EDB2634F2FBA374AFBFCFD/"
+  },
+  "916301613": {
+    "title": "RED&BLACK",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/820062603941065248/BA5A64AD0BFE991FDDEE0FE9D4C0668FEE17F7A3/"
+  },
+  "1300654763": {
+    "title": "Brick Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/940560504264812825/22D3BFFD3EF6D26393F2F39627FB41B2A9C5AF1F/"
+  },
+  "794922892": {
+    "title": "Black Bolt Rifle",
+    "description": "Just a black painted bolt\r\nIf you want this in the game, rate it and add to favorites. :)",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/398960342835899222/0BEE57C0922A3F269A56D6668FB95DB93167D67A/"
+  },
+  "1292120206": {
+    "title": "Rifleman's Bolt Action",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/928174682689799221/F81F88CCCEC3663DFBAC89C864463F7DFA938D0F/"
+  },
+  "975501648": {
+    "title": "Hillman's Bolt",
+    "description": "An ancient bolt action rifle from the guerrilla wars of central Asia, salvaged and repaired to the best of the owner's ability. The repairs are crude but effective--the gun still fires straight and true.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/835832255996862100/3F666EBCECDBF4F2839B8BEFE664AAD72E9DBA4B/"
+  },
+  "887608236": {
+    "title": "Carbon Bolt Action",
+    "description": "1st edition Carbon Bolt Action Version 1.0\r\n\r\nBy Das Jager\r\n\r\nAll Proceeds go to supporting Voxide Rust Server.\r\n\r\n\r\nShow your support \r\nhttp://steamcommunity.com/groups/VoxideRust\r\n\r\nRegards Voxide Rust",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/83720365548533693/EEA834CBEDEAE98C232359A0DAC76CE3DEBF750D/"
+  },
+  "814741338": {
+    "title": "The rune of war bolt action rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/101725789657638685/E48BA42D99C9B5B4C56E20648A8105BFCC76B56C/"
+  },
+  "811804572": {
+    "title": "lines-bolt rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/101725152279215639/3CFB1DF89BC78DDCDC2929029203DEEE054ED655/"
+  },
+  "1121632673": {
+    "title": "Blossoming Rose",
+    "description": "[url=http://steamcommunity.com/groups/freddy_designs][img]https://i.imgur.com/wXH8Brw.png[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/843717655734729925/47723F0E8763E47A038257A1BE09766674B50E29/"
+  },
+  "1186005041": {
+    "title": "Incidous BAR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/871870835767470924/230890A93507EB63630C3672C2BD9CED8F69783B/"
+  },
+  "1429319011": {
+    "title": "Sniper Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/951831809501017874/4DC02A4EDA63FDAF9B4F057390B633BEC04B1DB7/"
+  },
+  "864248459": {
+    "title": "Agony Yellow | Bolt Riffle",
+    "description": "Agony Yellow | Bolt Riffle\r\nNow with 2048x1024 Textures\r\n\r\n[url=http://steamcommunity.com/sharedfiles/filedetails/?id=859713272][img]http://i.imgur.com/8JsoFMf.jpg[/img][/url]\r\n[url=http://steamcommunity.com/sharedfiles/filedetails/?id=859719233][img]http:",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/92725318257504656/CABEBC9872831E7BC91B5C7892B6E442E4143174/"
+  },
+  "1431929487": {
+    "title": "Ice Striker",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/958587610239444322/D4CBFF73F27386020F45BF6CBDB79281E03B7ADE/"
+  },
+  "865292705": {
+    "title": "Gloss Moss",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/80340029170031101/83BD7F8B4C8E8BC32409C2B081EA8C407029C7BF/"
+  },
+  "1509989343": {
+    "title": "Snow lightning",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/958593955199900229/56B458647D1BF775CC3F251FC2DCE354BA8334AE/"
+  },
+  "831823813": {
+    "title": "Volcanic Bolt (Night Glow)",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/96098571526098553/83D3DE8CB4CF49520555E5F139173F7135CAC3BC/"
+  },
+  "1556130397": {
+    "title": "Red Camo Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/957472663584470911/50D1AEB3ABC306813DD3971CD590E4970119C310/"
+  },
+  "875795425": {
+    "title": "Amun-Ra BAR",
+    "description": "Special thanks to the viewers who watched my Amun-Ra Bolt tutorial, a guide to making basic skins.\r\n\r\nFollow my twitch and add me on steam to request specific texturing tutorials.\r\n\r\nhttps://www.twitch.tv/gootahba\r\n\r\n[url=http://steamcommunity.com/id/spark",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/91600296837125258/9DCA60E78F9D9C8281FD2EE60CD123D0159E8C3E/"
+  },
+  "1117347779": {
+    "title": "Fire Hardened Bolt Rifle",
+    "description": "Thrust into the Hearth, this Bolt Rifle has been processed by an expert survivalist who knows how to both prelong the lifespan of his trusty DIY rifle AND make it look epic through a single process.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/862857463691321985/341307618B343B127FD301C3B262B481297092CA/"
+  },
+  "1282648537": {
+    "title": "Royal BAR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/921418404946783138/8FA1503FDF90BBD80E067E9283F231E6071033F4/"
+  },
+  "958339873": {
+    "title": "Black Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/851593544321702824/79EB17C51151A5E33CD948035312E99B5F21792E/"
+  },
+  "973707852": {
+    "title": "Devil's Boom-Stick",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/840335778887434158/8766C1D7047446E51D64204565517C657A582DC1/"
+  },
+  "960182677": {
+    "title": "BLUE Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/851593718906092838/252E80A8E56D5C86B576A1029718E0499A68DA87/"
+  },
+  "826380093": {
+    "title": "Summer Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/111860334503660110/5AC4914FAC3D8396DF04B7DDA03B422C7825F1C0/"
+  },
+  "848079504": {
+    "title": "Mizahtar",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/165906247204024518/5537397C284BFD62C17498DE5860C953605173AC/"
+  },
+  "863994072": {
+    "title": "Alien Bolt",
+    "description": "Now supports the new 2k resulotion model of the Boltrifle",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/159153489487408315/B65CE46AA61EE915758CD8309517CF82220D6F18/"
+  },
+  "1259775998": {
+    "title": "EDIT BOLT",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/904528168692614564/A2EC049CC4D79BD9ADC0341C6E43C144F39BE503/"
+  },
+  "823133133": {
+    "title": "Winter Bolt Damascus Steel V2",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/197428545635114083/3B1453D56B84DD4B20AB9CB24C9923B1948FFB90/"
+  },
+  "863335442": {
+    "title": "Hexcamo Bolt-action Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/90472828875024446/18CB3A1634EFB74CF9DB8D023C8CD4061C202392/"
+  },
+  "1282647975": {
+    "title": "Magma Bolt Action",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/921418404946780477/6032148FD6580469B8B346D99BD3B90DFFCB3FFA/"
+  },
+  "815567802": {
+    "title": "Bolt Rifle Blue Tiger Cammo",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/96096586622861447/AD47C35E481FF3C8BD6A76683CD25A5D7C6F03FD/"
+  },
+  "859190242": {
+    "title": "Red Wave Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/169285418186980592/E4FE8D27FC0CF5767ECC65E5D46436E736564E2D/"
+  },
+  "845446679": {
+    "title": "Night Camo Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/182794383467783657/C627FE0FAF174081D0B67D3D3BFDB6B7E7FD020B/"
+  },
+  "885092639": {
+    "title": "Yin-Yang Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/83720365538133213/C745D7107EDBF61FFE464C4FC8698483193170FE/"
+  },
+  "1374846244": {
+    "title": "Caution Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/931560017593056644/7FBA9B4756C686C6929A32338B04383E89A2486E/"
+  },
+  "842667126": {
+    "title": "Stealthy Rifle",
+    "description": "Good for when the people shooting you have a whole lot more armour than you do.\r\n[url=http://steamcommunity.com/id/MiniDove/myworkshopfiles/?appid=252490][img]http://images.akamai.steamusercontent.com/ugc/89345132738305459/283C5380EDF311768C260CB199D3F3AB1",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/90469956953207191/8007C14BD5B26A452AF7D3F015CF360E4FAF4A48/"
+  },
+  "1225714537": {
+    "title": "Warlord's BAR",
+    "description": "It has been wielded by multiple warlords in its brief but eventful lifetime, now it exists to serve in your' s.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/886511262922476444/0A29251B01CE28D43F8431091CD8C89896804B05/"
+  },
+  "852022921": {
+    "title": "Bolt Rife - Tactical",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/81464207527213891/F4640E3FB0C77AABF46161395616A36B3A63933A/"
+  },
+  "843069755": {
+    "title": "Mad sniper bolt rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/90469956955359497/2BB1E2F5635E7CC1A46847BF8A7614B86624B08E/"
+  },
+  "889174986": {
+    "title": "Hell Blast",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/156904390471068405/CE4FA956DA2F195C2C1ED559804B54825FB2DC31/"
+  },
+  "885509623": {
+    "title": "Firegod BAR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/159155650900968114/F15CD1127281A5C65E8C07E17929D8CD2154C610/"
+  },
+  "1753390405": {
+    "title": "gxbolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/799864968407217961/519633C6E2247A4A7305AF9CACDE69EA63A86CDF/"
+  },
+  "868553949": {
+    "title": "Cold Hunter",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/159153489487228713/B3766435E91ABF7999E129C33B2D1A3E1FD8D2C6/"
+  },
+  "1245882171": {
+    "title": "Medieval Bolty",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/921415784076076255/354852F93F602FEF90BDBF0837D34137DF5DDD61/"
+  },
+  "1127812366": {
+    "title": "Radioactive Rifle",
+    "description": "[url=http://steamcommunity.com/id/TheRunya/myworkshopfiles/]\r\n[img]http://i.imgur.com/J9NG0tP.gif[/img]\r\n[/url]\r\n\r\n[url=http://steamcommunity.com/id/TheRunya/myworkshopfiles/]\r\n[img]http://i.imgur.com/Nio4IEK.gif[/img]\r\n[/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/868487995668008397/790CBC3F70F9EC02BFE1A24054EA894A88A2D0B4/"
+  },
+  "844045647": {
+    "title": "Bolt Camo LB",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/186171913180096264/51FBB0BD76605D6CE4F25CE2628BC5D95C9D127A/"
+  },
+  "1645031009": {
+    "title": "Goldish",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/940592594232817144/264DF4450FE8E79C009B2F62620D7FAF2E0EB3B3/"
+  },
+  "855570203": {
+    "title": "Dirty Painters Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/172662564408160693/6CB2C7FF48A369B368F308DAD5E44C9B3812DD0D/"
+  },
+  "1571972452": {
+    "title": "Battle-Scared Bolt",
+    "description": "Please right down your suggestions!\r\n[url=https://steamcommunity.com/id/anubisdark/myworkshopfiles/?appid=252490][img]https://i.imgur.com/E3L3oED.gif[/img][/url]\r\n\r\n\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/947341295641402405/47841A74310E6897D38593DC0AE08C9739D571C9/"
+  },
+  "1551816079": {
+    "title": "BOLT RİFLE",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/959724176571854249/C0B1F404D0645C1BE8D7C69F4191A64C529C5603/"
+  },
+  "841991526": {
+    "title": "Rebel Bolter",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/97225356380914092/D3091313ADBED44D1009C5223D424AFAFB449749/"
+  },
+  "1621404287": {
+    "title": "Blue Skull Wrap Bolty",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/957479022037103221/3AAB45F6852F68E81B988243A807F0D829D9CD4F/"
+  },
+  "824992579": {
+    "title": "Spirit Bear",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/98349535607398890/BB1A7B55A3321D036315A55E0541C624F154306F/"
+  },
+  "1171516873": {
+    "title": "Bolty | Barbed",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/867366137336765241/67D47C6569732553543B229DBCCFFE0EA31D9EC4/"
+  },
+  "826716455": {
+    "title": "Snow Bars",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/107356734880903981/830BABF22CDC8ACCBAF9ECE9EA4878AE18F70AE9/"
+  },
+  "844398194": {
+    "title": "bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/167031739929298431/46A049C08D206F466146337B5974A0FBBCA3E4BF/"
+  },
+  "869189726": {
+    "title": "Black bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/159153489491205296/BFC06729B1BD4A07A767797AA6982BE9E636FA96/"
+  },
+  "1121373896": {
+    "title": "Handmade rifle",
+    "description": "UPDATE",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/862858011062154667/9E73879DAF219839BC9C48CA1BAEA870C28F21FB/"
+  },
+  "902559857": {
+    "title": "Tribal Adventures",
+    "description": "Also my Red Angel\r\n\r\n[url=https://steamcommunity.com/sharedfiles/filedetails/?id=895901286][img]https://steamuserimages-a.akamaihd.net/ugc/91602828082563894/55C13BAACF10283A417D232B36E329E497AA05DF/?interpolation=lanczos-none&output-format=jpeg&output-qual",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/91603931555188587/5EF7C5594C6DA084765E2DBC64C8F2A7931C4F9E/"
+  },
+  "833731431": {
+    "title": "Bolt Rifle 47.Color",
+    "description": "https://www.twitch.tv/dwrocktv        - STAY IN FOLLOWING .:)",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/97224434395841414/0D2297798983CC17E7B50B5245C441163BCCCABE/"
+  },
+  "866749462": {
+    "title": "Iced Sniper",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/85969528713603543/5A0AB9876101FEBFFB65709EB129940333601BF7/"
+  },
+  "837176462": {
+    "title": "Bolt Rifle MeduSkull",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/98350901280894378/33A9504DF792A3914A04EDEC240FB2B7D1D376CB/"
+  },
+  "868751844": {
+    "title": "RUSTRALASIA | Bolty",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/170412487732441198/DECA1CCBF82B01DA1D5DB284962AFDB00602BD60/"
+  },
+  "1259765724": {
+    "title": "EDİT BOLT",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/904528168692588004/9BDFBB5388A5C173EFF235D900F6D718C39658AA/"
+  },
+  "935335293": {
+    "title": "Shiny Prince",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/790792149680420916/A29C5E947E1D2B1ABAE3265BBEA26802456C9150/"
+  },
+  "958338710": {
+    "title": "BLUE BOLT",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/851593544321251035/80C2FA4F808DE5CF8323A881AFAB0F555E5E1B83/"
+  },
+  "836037735": {
+    "title": "Bolt Rifle RUC",
+    "description": "Bolt Rifle painted with Red Urban Camo\r\nColor wood: black\r\nColor cloth: red\r\nColor Peephole: red\r\nLike for watch in game :D",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/170408216621566493/DF58ECDE312C3A622F540C390CF67178B2FE6ED8/"
+  },
+  "844148619": {
+    "title": "Dead Vein",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/92722164047047375/D204EF6248FB5D25E2FF5A32F3B657C247051563/"
+  },
+  "874422222": {
+    "title": "Bloody Mary BAR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/172664880144900941/9938F9C9E8330BDB742F804760F4A7CC223CFDB4/"
+  },
+  "1651564449": {
+    "title": "Shark tooth",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/952978139636582109/CDAEDA7FCD71D448F3885B01C6B4522964E61532/"
+  },
+  "910378134": {
+    "title": "Widow Maker",
+    "description": "Hey! love Roof Camping??? You probably do so why don't you do it with style with this sleek Bolt Action Rifle. This BAR comes with a Black Cherry wood stock, Black Matt finish body and a sleek metallic copper barrel.\r\n\r\n\r\n\r\n\r\n\r\n\r\n------Thanks for the suppo",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/816684360481250032/C2C527AB3B49FFE219633056B6F60770D6A8529F/"
+  },
+  "885462589": {
+    "title": "Cosmos - Bolt Action Skin",
+    "description": "The bolt youve all been waiting for! Pop your enemies head to another dimension with this COSMOS Bolt Skin. Its not just another regular skin. Its a way of expressing who you really are. And that is, AN EXPLORER! Venture out into the cosmos but dont get to",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/97231164870875280/469D377661AF45512982EDED77CF3F9B87E84F1E/"
+  },
+  "913607763": {
+    "title": "The Dreaded",
+    "description": "[URL=http://steamcommunity.com/id/WorkGO/myworkshopfiles/?appid=252490][IMG]http://cloud-3.steamusercontent.com/ugc/163654420671061802/F7E88395369197811C1A84013107A30DE10798B3/[/IMG][/URL]\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/816684904198215594/17AEBCBCD5180FEA20098F8BA0454E02C94A8E45/"
+  },
+  "793140986": {
+    "title": "Bolt Action | Panther",
+    "description": "Just a black Bolty. Looks pretty damn nice.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/396708663053639189/452C40D84E2F9DDAAB376A44242C6D1D796067C0/"
+  },
+  "1135441558": {
+    "title": "bolt rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/859481871489759709/32B334EC23D68EB05959270FBE8A8166D954EE8A/"
+  },
+  "864880466": {
+    "title": "Agony Red | Bolt Rifle",
+    "description": "Agony Red | Bolt Rifle\r\nNow with 2048x1024 Textures\r\n\r\n[url=http://steamcommunity.com/sharedfiles/filedetails/?id=859713272][img]http://i.imgur.com/8JsoFMf.jpg[/img][/url]\r\n[url=http://steamcommunity.com/sharedfiles/filedetails/?id=859719233][img]http://i.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/92725318257528154/08E9EA8CC2A7FB9CA5BDCEC023DBB16FC27B48CD/"
+  },
+  "1315542622": {
+    "title": "gold rush",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/936058139771674629/F2A1BDCEECFC2A5E0BBEED3AAFB4567E8194A96F/"
+  },
+  "890401380": {
+    "title": "Bolt Rifle ^^",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/84846967805335088/4AC1812A288FE00BFFCA1BFEEE5D1E47591E3C29/"
+  },
+  "825310585": {
+    "title": "Bolty Asiimov",
+    "description": "Based off of the Counter-Strike:Global Offensive AWP Asiimov skin, bring some sci-fi imagery into your Rust experience.\r\n\r\nPlease like and share! Thank you!",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/179414328898546860/5D8B29E3F859801C8D0D6F450D3CD4B4CC5EC0DE/"
+  },
+  "875261911": {
+    "title": "Bolt Rifle V13",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/84844897395644583/CC5F2C7E904CEA4C1609502791BA8366B3E367F6/"
+  },
+  "926715687": {
+    "title": "YUMYUM",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/840330487438939980/A92F960F4FF9D5FE5734C8B31DF507C2ABBE247D/"
+  },
+  "1099169124": {
+    "title": "Bolty Blue Black",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/849344881096906773/9151263DB23DBD97B3761A04AD82BA4214D4A662/"
+  },
+  "869245288": {
+    "title": "Dark Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/158027577470956972/1780749FE269141A84838B2583E263B2620E9F50/"
+  },
+  "1107577655": {
+    "title": "Azimov AWP DIY",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/847093963445365537/C5781143CE9223A7460C77D1E89C1189D4C884C6/"
+  },
+  "826378153": {
+    "title": "Winter Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/111860334503656749/A951814A47F34499A93EA5A760BFA1E9789E0DE3/"
+  },
+  "1581565840": {
+    "title": "Salamander Bolt v2",
+    "description": "Toxic gun!\r\nv2:\r\n-Biohazard sign on both sides\r\n-Cloth texture has been changed\r\n\r\n[url=https://steamcommunity.com/id/anubisdark/myworkshopfiles/?appid=252490][img]https://i.imgur.com/E3L3oED.gif[/img][/url]\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/947342328223862942/605CCD8AC1A2DBD806CE985D2A6B65767534CAF0/"
+  },
+  "813827490": {
+    "title": "Bolt Rifle | Red Chrome",
+    "description": "\r\nTweaked and updated to the new workshop\r\n\r\n\r\n[img]http://i.imgur.com/wiENHBo.png[/img][url=http://steamcommunity.com/groups/Rustworkshopcommunity][img]http://i.imgur.com/dOezsHq.png[/img][/url][url=http://steamcommunity.com/profiles/76561197961155896/myw",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/105103489370533983/A99CDB00AA129193E20227D636E4680EB32223A1/"
+  },
+  "1248367786": {
+    "title": "Azimov",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/903401556514531048/52070F4764C34984FCC992ABC00678D6CD834608/"
+  },
+  "964083044": {
+    "title": "Bolt Rifle ECLIPSE",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/857223523253899264/7F96DFB1E7998E5311111DE0BC0555B164B73FBC/"
+  },
+  "844556681": {
+    "title": "Lumbricus terrestris",
+    "description": "Bolt action rifle with the earthworm goodness. Who wouldn't like to shoot with a worm?\r\nCredits for the idea goes to MaggeX",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/186171913183675117/3F5B9D3897627F86EA9B320619179BD374467B32/"
+  },
+  "869836526": {
+    "title": "red vector",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/82592462914042156/E1A3113787E697F961FE123CDECAD2E74E43C5C6/"
+  },
+  "873515827": {
+    "title": "Hunters Bone Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/159154018272279478/03A4D5807B0CC558723CECEFAC8B95BDEBA40AD8/"
+  },
+  "1061236139": {
+    "title": "Pink Grunge Bolt Rifle",
+    "description": "[url=http://steamcommunity.com/id/zufick/myworkshopfiles/?appid=252490][img]http://i.imgur.com/KJJ1IKJ.png[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/854972794055162625/C61B18524EA4430CDC006631E3D4D2FF3C55C095/"
+  },
+  "1098770831": {
+    "title": "Red Camo Bolty",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/843715475924090943/A0B216461A16B310E5C75A912C1EED322DFF56C9/"
+  },
+  "818785939": {
+    "title": "Lightning bolt",
+    "description": "New bolt, which will help you to aim in the dark.\r\n(Sorry for bad screenshots)",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/178287692695666689/C233DF8A9F25C44B61D85A69FC76C8434B30C4A1/"
+  },
+  "842474980": {
+    "title": "Camo Flora",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/183919959766880777/4350FDDD385A9822EBB9F7AD219400EA4CB6F52D/"
+  },
+  "841452013": {
+    "title": "Bolt Snow Ghosts",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/169282950415774270/548E61E0BFE0E2687368A8A8C3048F669BFB39C4/"
+  },
+  "872855043": {
+    "title": "Heaven's Spear",
+    "description": "Please vote and look at my WorkShop if you have time.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/85970162650631010/A565577E9601F08B816707259CFB50A347B2024E/"
+  },
+  "813621300": {
+    "title": "Burnout Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/106229321025588034/C55B534A0345BD33316D4397D93985C74C1CB7EE/"
+  },
+  "860863837": {
+    "title": "Dirty Painters Bolt v2",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/172663186570202878/D60130ADE5C4B380019146F7DE62B9AA788C0757/"
+  },
+  "813826383": {
+    "title": "Bolt rifle | Red Shine",
+    "description": "\r\nTweaked and updated to the new workshop\r\n\r\n\r\n[img]http://i.imgur.com/wiENHBo.png[/img][url=http://steamcommunity.com/groups/Rustworkshopcommunity][img]http://i.imgur.com/dOezsHq.png[/img][/url][url=http://steamcommunity.com/profiles/76561197961155896/myw",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/105103489370518949/0C6240B8B914DE98E746A8CFE0B39A6B97632234/"
+  },
+  "1131059119": {
+    "title": "Pilgrim Asylum",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/847096466143325730/A0A64A048ED054D4444067165892987B497D87EA/"
+  },
+  "844010071": {
+    "title": "Bolt Rifle | Pain Killer",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/168157445640778099/806178F7C95F8A70E3C2BE00867829BAE52917BB/"
+  },
+  "843761197": {
+    "title": "Galactic Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/94974011260490139/27A9C75F6AB0C13E44DDE93426923EC90E04548A/"
+  },
+  "847750151": {
+    "title": "\"Green Bolt\"",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/163654420669239548/D0A2B37A921C4A7BFF70BA04C205BF9EABB7AD98/"
+  },
+  "1428452821": {
+    "title": "Ice",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/951831809496906079/F07BBC58303A6F730F9AED3D81E6EE4E988F1AD0/"
+  },
+  "822638639": {
+    "title": "Carved",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/107356553085026914/2D028AA3E59CCB01D4686E766F74A8543CF2BD7A/"
+  },
+  "843047290": {
+    "title": "Greedy sniper bolt rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/90469956955274581/FEE278267AF48BF4B80A4AE1089990EBC3232FA5/"
+  },
+  "1078307711": {
+    "title": "Skull Splitter",
+    "description": "Collect skulls using this \"skull splitter\" bolty in rust, pvp or pve in style. Vote to make this avalible in Rust!",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/841462202999315565/3947E10FB15708CE7137B07E153A5D3C5331F19B/"
+  },
+  "922633240": {
+    "title": "Fire Brand Bolt Rifle",
+    "description": "This battle weary Bolt Rifle glows red hot from a long night of constant fighting. The high powered cartidges used have heated the barrel and bolt, slightly tempering the rest of the metal on the rifle. It continues to function, spewing sparks with each sh",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/823441300637873382/0D16CFD075FD68DE4CA5AD5C96D3E90CEE0D0BBE/"
+  },
+  "839433931": {
+    "title": "Patrizan Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/185045332683702447/981D733DE86AB33F49BD8E520CD87F7CC6BB751E/"
+  },
+  "891575344": {
+    "title": "forest sniper",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/159156190298204086/7069B164074EEF75241423080317F0BEAFD13CE7/"
+  },
+  "963649406": {
+    "title": "red tip",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/843712705862028073/1A3FB0EC286765A3E6896C885E269399DF6807D9/"
+  },
+  "1087060949": {
+    "title": "Custom Rifle (camo)",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/854973288918795086/A43349C33E71BBDE090B7C942922FAB871714870/"
+  },
+  "1612661293": {
+    "title": "Flaming Smile Bolty",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/960855957566208787/2EF81EB7E049B12436C2C85717E84D4E7C392DDC/"
+  },
+  "1557690836": {
+    "title": "Rusty Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/961976603559657770/AC1E52EF74B47E5FCC89727F7A98E21F4B19E20C/"
+  },
+  "1624036413": {
+    "title": "Southern Gentleman Bolt Action Rifle",
+    "description": "Pour yourself a glass of whiskey, light up a cigar, and sit back in your chair with this southern comfort Bolt Action Rifle by your side.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/942842322409790468/0EAFB736FDC75AA52B746983D65BE9A967DC55A1/"
+  },
+  "1112898586": {
+    "title": "BlueStar Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/859479336533171455/94AE05110BE4DE8AE505B05799767D13D24F5298/"
+  },
+  "839904753": {
+    "title": "Golden Guild Bolt rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/89344057033832606/138476FC1C0075A054A26D956ABA0AC4DCB92DC3/"
+  },
+  "1491016412": {
+    "title": "Cool Shoter",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/2483060607400715645/CA035EC1558EBF7C038CE38E91D7C888FF39800C/"
+  },
+  "812968167": {
+    "title": "Iced Bolt",
+    "description": "[h1]★ Thanks all for votes!\r\n\r\n★ Check my other skins!",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/110732351541159462/902618BA29E65498AB9A341AD0D7C95B6ADA7CCE/"
+  },
+  "867273088": {
+    "title": "Lady Grey",
+    "description": "Beautiful! Just Beautiful!\r\n\r\nThanks for viewing my content! If you like what you see then be sure to upvote and favourite this item. For more of my content be sure to follow me and dont hesitate in checking out my other workshop items [url=http://steamcom",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/172663821551133087/B1646072E698A93D1B9DAF7644BAD727A092924F/"
+  },
+  "1338923656": {
+    "title": "Carbon Bat Bolr Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/929304701415745039/A62163F5B04B73AA0617B3B9E8474EDC45590C59/"
+  },
+  "881431955": {
+    "title": "Kiwi Bolty",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/87097331335539401/9CB978D64CB3D0D28EEB81026B82AF959D2FD406/"
+  },
+  "816295626": {
+    "title": "Lava Coated Blue Bolt Action",
+    "description": "Lava Coated Blue Bolt Action",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/101725789667524501/1FAECFDA9296C9535BB3BDF7DCEBD3559405D0F4/"
+  },
+  "846359476": {
+    "title": "[FORT] Cavalry Standard Issue",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/97226156311718126/CED705CD8E508B758AC896D2CA3A43CCE12DC9F3/"
+  },
+  "1076513793": {
+    "title": "Nightmare Dome-Popper",
+    "description": "Wether your popping domes, or squashing pumpkins, this skin is sure to bring the fun. Halloween is coming.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/848217372548653899/34623FAAFEA03B7317E2A2AFB4C8AC1AC4C3BCEA/"
+  },
+  "1628011278": {
+    "title": "Red Bolt",
+    "description": "Red Bolt",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/950724071159694362/C4F64E11C3EB1F3462AFBB9759B617A1FC0228B2/"
+  },
+  "858423666": {
+    "title": "Fishbone Bolt",
+    "description": "Black bolt rifle with wood elements and ghost camo.\r\n[i]It is look like fishing...[/i]\r\n\r\n[url=http://steamcommunity.com/id/estavos/myworkshopfiles/][img]http://i.imgur.com/TFgeyea.png[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/81465074624026778/189FD1E3ACE43E2D2EE684DFB82CE0CA92BC09B8/"
+  },
+  "849776679": {
+    "title": "Brass Blast",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/99478222109784075/F4DF82B85BD3F9861275C75C05E52D2D4E9B77D4/"
+  },
+  "814790626": {
+    "title": "Mega Bolt Silver Gold",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/197427429792552083/EAC946F2AECFA04EB8D0306E6B48A21593756600/"
+  },
+  "812150348": {
+    "title": "Bolt Rifle Desert Tan",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/179412245853544228/6796F80E01235A9490B7A2A454E23A125265D7F5/"
+  },
+  "845942672": {
+    "title": "MikeTheVike's Cobalt Huntsman",
+    "description": "MikeTheVike's Bolt Action Rifle!\r\n\r\nWeapon finish done by Ethurs",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/103981389987861596/95A87C82B0C33729CF2F152731A827CF64BF18B5/"
+  },
+  "1649105056": {
+    "title": "Camo Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/938341111797602022/1432154CC076F330BD4FA06EB4CE784926D053F6/"
+  },
+  "928027439": {
+    "title": "Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/789665210673698463/9F3D73C62BCE93121FD51899A399D4C61FE4F6BA/"
+  },
+  "885776069": {
+    "title": "Veteran rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/155778120680950297/79315E7B4B9F6B1234E4806B3416D8950DA3D002/"
+  },
+  "956799470": {
+    "title": "skull fever",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/845963870798037969/80A5E934FDD0017DBA2FC529941409634DBABA8C/"
+  },
+  "1260125555": {
+    "title": "Galactic Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/921416769419176455/8AF9FEEC4AE10D802FD0E2EBBDC2061DA021954D/"
+  },
+  "816509828": {
+    "title": "Etok Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/97222190048636653/B4D76429453797B1D5B0FA764D40CD5C78908209/"
+  },
+  "1620563731": {
+    "title": "BloodSkin Bolty",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/963108334414853133/AA101323275F19D01A79BE6AB2FCEFDF4E76D924/"
+  },
+  "961499458": {
+    "title": "NightGlow Bolt Action",
+    "description": "If you want me to make any more NightGlow Items Let me know and i will Love to :)\r\n\r\nSupport my youtube\r\nhttps://www.youtube.com/user/stoneystone662\r\n\r\nSend me Donations Here Bitcoin only :P or just buying the armor/Voting for it helps :D NOTE you do NOT n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/859475009948578263/91188C733ADB05EA4F24FCD159E6BD25592B098A/"
+  },
+  "829785164": {
+    "title": "Asiimov Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/101727694605715593/3F65D092FEE0DA89D64A62F9A5377FE6D6860C22/"
+  },
+  "849798950": {
+    "title": "Western Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/181668961500274542/C0349D180CA25C5D7AD0C54006171E36D32ECF67/"
+  },
+  "926448913": {
+    "title": "Neon",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/816686544241057724/76596EA7CB89126066ED18B2C3CA88AB1AB85099/"
+  },
+  "812492579": {
+    "title": "Grave Digger",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/100599672386579183/A0B3C8ECF6BF0ED7498F09C3F61D3C39D2733735/"
+  },
+  "1669975234": {
+    "title": "Neure Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/993512070846725204/83978F75839C3EB27FA2E704C89F5126D98D6379/"
+  },
+  "1247331408": {
+    "title": "True Gamer Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/951842992783020162/09C7780B719C779F28D23944CBD485A74FCB53CF/"
+  },
+  "851242388": {
+    "title": "camo bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/155773601377248511/B09B7F09EAF77F4724A322E2783C774CA4F3BE6F/"
+  },
+  "962531213": {
+    "title": "Black rod",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/850468045084617815/773191C05BED27CFA8AA56B9D75E21634A002701/"
+  },
+  "1340796735": {
+    "title": "Red Killer",
+    "description": "That weapon glows in the dark",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/938312121398676222/2E44077C30D80980822B5783F67624662B032481/"
+  },
+  "885772899": {
+    "title": "Veteran rifle Ver. 2",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/155778120680957460/D24C7F49A91200A4D95A8EEFFF5FA3E20612E62F/"
+  },
+  "793177550": {
+    "title": "BloodRifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/396708542390934898/3D199A38E44C7D10BAFF37ED4DB7C7A2565FE95F/"
+  },
+  "1110861053": {
+    "title": "Smilin Joe Rust",
+    "description": "The only one left smiling in the end is Smilin Joe.  This is an army issue bolt action rifle and as seen it has seen its fair share of action.  It has a forest camo with dull army green paint and the Smilin Joe customization.  It also has special lighting ",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/863982936802827206/18A424AF0E9C10266A5C5712193838B2531931D5/"
+  },
+  "1643755977": {
+    "title": "Old Souls Server Bolty",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/937214894511150943/A46B417B7F19BCDF8218FFB42CE366FF542692F6/"
+  },
+  "1594066506": {
+    "title": "Woodland Foilage",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/945091928692925944/AAAFCFC130BDE602F65895F53C6C8742E257A31E/"
+  },
+  "1098463157": {
+    "title": "Bolt Action Special",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/863981579885819589/AA4486D0778153051EC0EE58DF6C7B830EF7AFB8/"
+  },
+  "1252705563": {
+    "title": "Dark Ages",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/921416245068284099/B8E4B71E915EE42CD8322F9DDBFF12D5BF5EABA7/"
+  },
+  "1731691100": {
+    "title": "Killer Frost Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/789729891923419006/BA6573785CB1F7A6872ECF8318F4BBA403989A17/"
+  },
+  "833372417": {
+    "title": "Gold Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/106231611061404389/A205A608307E602F9525509271E3010B25CAAD67/"
+  },
+  "876632562": {
+    "title": "Finnish beauty",
+    "description": "Such a pretty huting rifle from Finland :')\r\nPerfect for having fun in cold winters like in the good old days.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/88222597124804478/86105D229BBCC938DC0FA42BD0C916FFEB762EB8/"
+  },
+  "863789747": {
+    "title": "The Wasteland Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/172663625294188940/A4EC972F7FC5CADFD618F01707EA2A13E5373816/"
+  },
+  "848588913": {
+    "title": "Bolt Nebulosa",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/98352339360267535/68D02A732729E72EA6B6AAA707FE7C0CC4E9EF1D/"
+  },
+  "813596611": {
+    "title": "Gold Bolt",
+    "description": "[url=http://steamcommunity.com/id/jack8/myworkshopfiles/][img]http://i.imgur.com/gOglz8j.png[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/99473875555054659/A0651C8AA14D701784FE9016FEEA646A09112446/"
+  },
+  "1251260017": {
+    "title": "Neon Demon",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/924793784741805054/821C03E84626E956857FA7E88FEA02E8E3AA0572/"
+  },
+  "1134879432": {
+    "title": "Bear in mind",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/865111370507742852/C5F7ABD9FAD52315508A8D1C4791D091234FFEBC/"
+  },
+  "841115867": {
+    "title": "Nebula V2",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/93847818661176698/4BCBB2B8AF53B50BE4A416D036D66252D6647FFA/"
+  },
+  "1080234134": {
+    "title": "Dark Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/839210317343383621/DC3DA0F8B5CB321D02D7DB1CC7C8A1FEEACE1CEF/"
+  },
+  "1140548947": {
+    "title": "Bolt Rifle Volcano",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/885378115703039785/CEA975E214724FE239F6B76EC60428E7F0F2D180/"
+  },
+  "814776801": {
+    "title": "Hot Blue Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/103977589471604214/1EB855656DED46F05A7D097AA60F91D3BC6121ED/"
+  },
+  "820432640": {
+    "title": "Rusted Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/200805689910198186/9FBBA94A9E9B1CBC35871F8C97C40D23C79EA7A7/"
+  },
+  "1660698497": {
+    "title": "alligator bolt rifle",
+    "description": "This is a skin of bolt action. Use crocodile skin for tape. Fore end and stock used African tree motif. The trigger represents the crocodile's tail. The front site can be accurately aimed even at night. The stock crocodile picture and the bolt handle croco",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/950727188463755454/D04890CD681EA7AA67DD6CD640061E84066437FF/"
+  },
+  "910794644": {
+    "title": "The Warning (V2)",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/815558460575876718/271C38233299BC5F2B90961CA6657B4102810F23/"
+  },
+  "1106762539": {
+    "title": "Red SkullZ Bolt",
+    "description": "Red Skullz .... Mostly know as a roaming raiding band of misfits. They brand their armor and clothing as a sign of unity for the band and also.. to strike fear into those who are not.... Red Skullz... This is a Bolt Action Rifle that  ,as seen has been lon",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/863982847778886131/2FFC0451788FFE1F61840FDBE44EFE832AB946EE/"
+  },
+  "853365544": {
+    "title": "Shattered Ice",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/156899501296127971/13AD672FC7F2D38B98B97764E58CFCE91284EABD/"
+  },
+  "873566808": {
+    "title": "Midnight",
+    "description": "The solitary hunter who moves by night. Whether it be bear, wolf, or Newman, whatever wanders into his sites beneath the glow of the moonlight is sure to meet a deadly fate. Crafted of polymer and steel, this meticulously cared for weapon is the work of a ",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/83718777979560849/86A55F157E1565594C584C1EE62C777A79D836BE/"
+  },
+  "1117303335": {
+    "title": "Ripple of Flames",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/866235164176894681/4536292DE397FE45B82E06CA19EFE4A8D56E87BD/"
+  },
+  "822923186": {
+    "title": "Rekt Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/103978853365758404/A00E11F2EE1B759F5818A8D548DBEEEFEC074FA3/"
+  },
+  "915919246": {
+    "title": "Spirals",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/803174441406567130/A558850D325BADA6CBE275FA705D0C306A2C3F80/"
+  },
+  "973794490": {
+    "title": "BZ- SentrY",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/840335778887994424/59E4DFDCA1CA6536431D51E7F63FF89039120700/"
+  },
+  "1384853316": {
+    "title": "The Beast",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/930435128475067857/ED82016F946B1813586D0E3A2B97D3B087582C89/"
+  },
+  "930584463": {
+    "title": "The long rifle",
+    "description": "Also known as the “Kentucky Long Rifle,” American-made long rifles had much longer barrels than their European counterparts. In addition to their length the barrels used were also rifled, and the accuracy that resulted enabled marksmen to hit a man-sized t",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/786287768613390073/3D147D85A581473CC9E86A5E74BFE6BB6C26FCA4/"
+  },
+  "843746900": {
+    "title": "Military Camouflage Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/101729391653957078/D491E621D1145AC09064A912D91BA4DB1E9E07B3/"
+  },
+  "829638213": {
+    "title": "Thunder Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/101727694604805333/4C0A6EBEDC0C509BF03454EF65CD09DA2AFE9F53/"
+  },
+  "958337071": {
+    "title": "Red Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/851593544321244724/AB65672FCE8B60BD60432C662900279AB796C73B/"
+  },
+  "942543728": {
+    "title": "Blood Spattered Bolty",
+    "description": "If you look at this in game Workshop, at has some weird glare for some reason and doesn't look like right. This is what it looks like and what it will look like. FYI",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/847088009731658697/07FCBFF11337AA0022C91ED59B9461C664CE0845/"
+  },
+  "835869196": {
+    "title": "Bolt-Azimov",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/186170815316480442/39116299BFA688D8658E3F0E36650296E88A6881/"
+  },
+  "865379086": {
+    "title": "Rusty Dirty Painters Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/172663821538863111/11BC4C12653BC753B42A4FA1D373BAD4D0FE5A70/"
+  },
+  "1578434919": {
+    "title": "Farrier Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/955223229303069921/FB239FEB47C7700A8A8C26DF37AF090170EBEA65/"
+  },
+  "822562183": {
+    "title": "Night Sky Bolty",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/109608352901038149/69FEAF75FDCB60E253B72DCB19409DE85C513854/"
+  },
+  "890140525": {
+    "title": "Apocalyptic Bolt Rifle",
+    "description": "[img]http://i.imgur.com/JcUv6Y3.png[/img]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/155778663023023177/99CD33E2EEAEC6B2F8C4A8B525347B1B88DDE266/"
+  },
+  "935299418": {
+    "title": "Black Widow",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/777281349283949890/BA5DE5F7672186902CF458CCE82AE94E24DE4364/"
+  },
+  "841961081": {
+    "title": "Flowerz Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/97225356380750306/B19BDB5A87B72DA9FBB1A6BF8CE6799B353A158B/"
+  },
+  "851692437": {
+    "title": "Blue Lighting",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/156899501287413764/D534B913E4245F136CE570DF3B47A0130126B6B3/"
+  },
+  "1673569650": {
+    "title": "Galaxy Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/998016068150662173/1F6DD12C5CF189D0BBC149EF01A97B39ABC587EA/"
+  },
+  "1195227797": {
+    "title": "Red bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/870745862877540833/BF0CF6A38DE9E4597288BA198E1F2E83FA7463B1/"
+  },
+  "1228483888": {
+    "title": "Neon Death",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/875252309640563482/1F2B4F407EAADB66596D0E6E6138199CD7E7C61C/"
+  },
+  "821959851": {
+    "title": "Emerald Bolt Of Victory",
+    "description": "COPPER VERSION: http://steamcommunity.com/sharedfiles/filedetails/?id=821953719\r\n[url=http://steamcommunity.com/id/zufick/myworkshopfiles/?appid=252490][img]http://i.imgur.com/KJJ1IKJ.png[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/200805689919944026/73F3BE9CD2C9F7A92FAD8DA3D741911A86950D95/"
+  },
+  "827656721": {
+    "title": "Spectral Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/199680527251962670/4F2219B6E960767686D48515FCA5233DDEBE7600/"
+  },
+  "918800361": {
+    "title": "Tiger BAR v2",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/835825837827133771/BAD549ABA3540C2B61B5AA363C271958AC8804C0/"
+  },
+  "1116940640": {
+    "title": "Glorious Bolt Rifle [Glowing back/front sight)",
+    "description": "Has a glowing back- and front-sight for better aiming when you don't have an extra sight.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/862857463688839148/1591031824C23C3302DED5BE2CC6E9F0CAB0BCD8/"
+  },
+  "829862499": {
+    "title": "Old Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/111860808953505832/E42E90DEC3F14AC2EF6EF71754201F69A390FBEB/"
+  },
+  "841804932": {
+    "title": "Golden Piece Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/103980755820737608/13DF614B018B49DACC7FF47F11AAFDCE4E809202/"
+  },
+  "899662105": {
+    "title": "Ye Old Reliable",
+    "description": "[h1]Ye Old Reliable[/h1]\r\n[i]\"Ye Old Reliable's been in our familys for generations, ya papa used it to send them demons back to purgatory!\"[/i]\r\n\r\n[b]Features:[/b]\r\nThis gun features a very rusty exterior with old, white ashwood for its comfortable stock.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/159157279560915480/25579AD0487F7DA2C4698F526BD9B74E0A634BB1/"
+  },
+  "831835305": {
+    "title": "Bolt Rifle | WhiteRimmed",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/112987056943563668/DFAD2A736DD172539264C0B1075DB04A344D2EFB/"
+  },
+  "816296076": {
+    "title": "Lava Coated Purple Bolt Action",
+    "description": "Lava Coated Purple Bolt Action",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/101725789667527917/7683E568F47FE3530D7732842437BACF47BF6EC5/"
+  },
+  "880730074": {
+    "title": "огненный скин на болт",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/155777414517770081/0A0E8C044659131E7793899123F2D4A3D90C3AFC/"
+  },
+  "973706780": {
+    "title": "Spray Paint Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/840335778887427671/4DDF947513CCDE0A0B865F21EE7EF10561FF7993/"
+  },
+  "864253042": {
+    "title": "Agony Spacial Trash | Bolt Rifle",
+    "description": "Agony Spacial Trash | Bolt Rifle\r\nNow with 2048x1024 Textures\r\n\r\n[url=http://steamcommunity.com/sharedfiles/filedetails/?id=859713272][img]http://i.imgur.com/8JsoFMf.jpg[/img][/url]\r\n[url=http://steamcommunity.com/sharedfiles/filedetails/?id=859719233][img",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/92725318257535926/8BA4E595C4EF37B882F3104BABF24B283368F708/"
+  },
+  "859640510": {
+    "title": "Dark Camo Rusty",
+    "description": "Darker wood, black clothes, camo body and a dirty and rusty look. Perfect for Rust!",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/82591194011547874/CDA66E68477D1EAB50B7CDDAD222F1800CB6C852/"
+  },
+  "914302127": {
+    "title": "Tiger BAR",
+    "description": "Everyone likes animals, who doesn't? If you are familiar with tigers or lions  then you should know how a scratch looks like. I've made a bolt action rifle with some of them engraved into the bolt.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/824566203554921581/070EA9763EF317F8733DE29B66AB446562136AFF/"
+  },
+  "918370574": {
+    "title": "Rad Rifle",
+    "description": "Follow please - http://steamcommunity.com/id/TheRunya/myworkshopfiles/\r\n3D Model - https://sketchfab.com/models/c372fc2de01a48679ee8ebc1058c8c17",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/831322238201902328/0321AE8DC63165B7A3010F5714FF133446A91F28/"
+  },
+  "1204743438": {
+    "title": "Hot Iron",
+    "description": "Scorch finished to a hot piece of metal.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/879753787857119444/69C5E0A87C65C7481433E6669BD0252C5AB04E13/"
+  },
+  "1225045365": {
+    "title": "Vibe vibe",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/875251999088111158/37B7612065DD64A77FD449F02B90F41A676A2F49/"
+  },
+  "1084100574": {
+    "title": "Punkbunny Bolt Rifle",
+    "description": "Another piece of the Punkbunny set! Trying to make a complete set of these let me know what you think!",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/832455290851831739/E31E4503B3FE269BF2B2A8977722B5DD7328B19A/"
+  },
+  "950788435": {
+    "title": "Birdy",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/858348104636936377/D0487DB127622CE6CFE41938C67479F5A9F1166D/"
+  },
+  "852384324": {
+    "title": "All American Savage Sniper!",
+    "description": "1st edition All American Savage Sniper! Version 1.0\r\n\r\nBy Das Jager\r\n\r\nAll Proceeds go to supporting Voxide Rust Server.\r\n\r\n\r\nShow your support \r\nhttp://steamcommunity.com/groups/VoxideRust\r\n\r\nRegards Voxide Rust",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/83716007342649935/62E1B9CFC803FBDE0500C43637271987E1A33E15/"
+  },
+  "1669969266": {
+    "title": "Black Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/993512070846709644/E4378AB41FCE6C2F3FCE752DF3A6D6AC3BBBA475/"
+  },
+  "791832545": {
+    "title": "Golden Bandit Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/367434986770143531/37357618211C5AC27E892E6D2E0518FB9B0C137D/"
+  },
+  "1565904419": {
+    "title": "Tuna sandwich",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/955222055297851228/CB68A434CA45563323EF371AA45B40468BE576B1/"
+  },
+  "943504738": {
+    "title": "Rustrixs",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/853843656168943185/87096CD647F437A0D35EB7DB4440C4D172C5326B/"
+  },
+  "856934650": {
+    "title": "sunsistem",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/92723671018638988/F971D8DB1D913F6DD965B7D62E791C42415F00D9/"
+  },
+  "924526454": {
+    "title": "The Galaxy Rifle",
+    "description": "Hello there!  This is a special piece that is related to my galaxy series for skins on Rust!  I will be placing most items in my galaxy skin and leaving everyone here to vote and bid on them for fun and hopefully the developers will see how much people wan",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/836952465880276869/AE2F89FB2368A409FEFBD06DD8BF9040F5C42089/"
+  },
+  "1092111238": {
+    "title": "Merican Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/863980945179779003/931B2B31C9EC4C2C4D076A060A59BC53EFBA2144/"
+  },
+  "1102460292": {
+    "title": "Rainbolt",
+    "description": "[URL=http://steamcommunity.com/id/Deltap42/myworkshopfiles/][IMG]http://i.imgur.com/hBkHsbv.png[/IMG][/URL]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/866233720800726806/1E6FA071539A5D355DE463C7D8C4A31229B9EA85/"
+  },
+  "915834963": {
+    "title": "Problem Solved.",
+    "description": "[img=https://i.gyazo.com/9befaa2282c6a57c860d6600c184c79e.png] [/img]\r\n[url=http://steamcommunity.com/groups/TheRustCommunityWorkshop] [img=https://i.gyazo.com/34e7aec7e14f964d76767b5da172224c.png] [/img] [/url]\r\n[url=http://steamcommunity.com/id/-SOLLY-/m",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/824566203567155536/EACB87A80FDA1A264D725F8D9030F60D718CDC83/"
+  },
+  "1118859824": {
+    "title": "Bolt Military Camo",
+    "description": "Bolt Military camo.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/852724482834772935/EC07D2941277F2058880DFE8AE323C3C2716E13A/"
+  },
+  "1125816952": {
+    "title": "Green Web Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/869613615230124080/71D19A51FFC4EE0AB56DAA9B10BA4CC9A37B5DEA/"
+  },
+  "858175558": {
+    "title": "Bushmaster",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/80339162113908108/A701659C83328EACB0851D629E9B32C3C3FB1594/"
+  },
+  "865193942": {
+    "title": "Collection Hunter",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/91599028248469315/F66594D34C9FF808A876C9B53D0AADC55DC61C70/"
+  },
+  "821953719": {
+    "title": "Copper Bolt Of Victory",
+    "description": "EMERALD VERSION: http://steamcommunity.com/sharedfiles/filedetails/?id=821959851\r\n[url=http://steamcommunity.com/id/zufick/myworkshopfiles/?appid=252490][img]http://i.imgur.com/KJJ1IKJ.png[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/200805689919883362/E35974511D59A43884B0A39F4627025582D6A85B/"
+  },
+  "958338009": {
+    "title": "Blue Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/851593544321248345/2EED1C3BD335E6B50C74D964AC91AFA7B61EE034/"
+  },
+  "849261474": {
+    "title": "Reaper Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/165906247211542911/095BCF7DC7D6D4BD20AD793E1DAABAAEFD5F6615/"
+  },
+  "1155490786": {
+    "title": "Black Mamba Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/868490251639015118/B84BC9DB809F7C55222921A371FEE6BDF85B2F3C/"
+  },
+  "812286737": {
+    "title": "Natures rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/177160745561845091/08C8ED87B98E8915859AADF4C1FDA941BE6AE9DC/"
+  },
+  "856553571": {
+    "title": "Once Posh Boltie",
+    "description": "There must have been a time when this bolt-action rifle was a status symbol, but now it looks like it's spent some time lying in a swamp. You can still see traces of its former glory, and the thing still works, so in the life of a denizen of Rust island, i",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/84842615008242072/40AEA7C2943B14F7FA389AFBB42A6C80FD653987/"
+  },
+  "928947734": {
+    "title": "Humman Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/776154669449326919/4D2646B1E53F0BE6E88ED13EA1F123ED1123695C/"
+  },
+  "879414561": {
+    "title": "GOLDEN HUNTER",
+    "description": "GOLDSMITH AND MASTER-IN-ARMS MADE THIS BOLT RIFLE\r\n\r\n\r\n[img]http://s017.radikal.ru/i443/1612/12/f3302cf23ef1.png[/img]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/159154925363017837/FC692D1BAA5835BA006A7D228CC9CD4C9EB6C388/"
+  },
+  "872435371": {
+    "title": "Frostbitten BAR",
+    "description": "[URL=http://steamcommunity.com/id/Deltap42/myworkshopfiles/][IMG]http://i.imgur.com/s1ug55A.png[/IMG][/URL]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/97230430486651476/B13D48C3C77BEC935CD772A4FA31C8618EEFD64F/"
+  },
+  "813677526": {
+    "title": "Patriot Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/100599804017000694/5F5FE0F3A135531A0653746C3146B48E157F8DF6/"
+  },
+  "842668717": {
+    "title": "Blue Fire Bolty",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/96099456475893859/5B5E48AA99C0F8123DF0B958B9A8CC7D237E9B73/"
+  },
+  "1315786752": {
+    "title": "Snow Cybernetic Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/912414300731992084/DB7B25632E0D7F8383C958B8DC89A09F65BD6074/"
+  },
+  "933576817": {
+    "title": "Premium Bolt Rifle",
+    "description": "Excellent rifle to find heads\r\n\r\n[url=http://steamcommunity.com/profiles/76561198042749143/myworkshopfiles/?appid=252490&p=1&numperpage=30] \r\n ▬ ▬ ▬ ▬►look over here◄ ▬ ▬ ▬ ▬ [/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/790791749960868262/1DFF4FAD6E5BE12B79ABAE60C513095EA793E178/"
+  },
+  "1234712313": {
+    "title": "old bolty",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/902274593532515621/9B23487772AE4507C7F884DAACA3717EFCBCD9E2/"
+  },
+  "881455893": {
+    "title": "MAGMA BOLT RIFLE",
+    "description": "http://steamcommunity.com/id/Vinas334/myworkshopfiles/?appid=252490&p=1",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/84845859805951411/CADB2761FA65D336FA839A057CA9E512CF48FA56/"
+  },
+  "1250714524": {
+    "title": "Blood War",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/924793784740174520/F0A6DD6BAA6B582C66939D339E1EF6EEEF69A411/"
+  },
+  "943039540": {
+    "title": "Boned",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/836955143267175597/D74D4859C2C267F245286C2E64A1C6FDBBB738DE/"
+  },
+  "875654284": {
+    "title": "jjerico",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/85970797303746769/91F74A157A4B669B04294E408AA7C120A924CBCD/"
+  },
+  "848902954": {
+    "title": "Lightning Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/99478222103976421/EFA80A6B86BF13C936D36434283F289453801C59/"
+  },
+  "1083398127": {
+    "title": "Speckled blue",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/840336412637009256/F49BE3E2A133A709F7348BA9C77D8EA379157F10/"
+  },
+  "826949218": {
+    "title": "red rose",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/98349963199390592/8FAE327D63368D712CADAF1B62FF10595D6F6E7A/"
+  },
+  "882688054": {
+    "title": "Fancy Bolty",
+    "description": "Beautiful black and gold bolt, with a fancy wood texture and a glossy gold finish. The sight glows in the dark, but you must be up close to see it, giving you an advantage at night.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/156903125568957683/A007C3420D99B6A115652AB043EABECC0A1DD2C4/"
+  },
+  "1701844186": {
+    "title": "Anonymous Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/952982844366934055/6C1806C080A3BAF61FD2354FD2B15B17F4FE7CC0/"
+  },
+  "935226336": {
+    "title": "Sneak Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/785162641075554371/879858CCC154F11B52164AB24236DDC59C5C6318/"
+  },
+  "911613156": {
+    "title": "Gold Prince",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/824565659835486103/D17B1FE5C49FE7E47234268FFCD14E3736DA8A9A/"
+  },
+  "1634128277": {
+    "title": "viblue bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/952976505234536839/7E080FEB237F648E848FF614C9744637A85FC23D/"
+  },
+  "974512210": {
+    "title": "Dipped N' Gold Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/840335852878979691/52C1CCACFD8970615DAA85AF5767DB664E24E610/"
+  },
+  "1279290350": {
+    "title": "Xcentric BAR",
+    "description": "Rotting wood and a rusted rifle body. The pink camo wraps make for an eccentric look. Added some pink accents.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/918040525572981167/E4C82829E98C5E1AD9B0010B1E344E37EB23DDEC/"
+  },
+  "1560364805": {
+    "title": "Santa and Polar Bears Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/978865225530283012/5D8A278E02D15F861517A742305BBCA4A34E63C5/"
+  },
+  "861832316": {
+    "title": "Spec ops bolty",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/87094793652059475/A364975C678D3C25FE241FA83280257BEC75FE4F/"
+  },
+  "857528045": {
+    "title": "Bolt Fire And Ice",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/80339015630904429/C5A4AC36F731EF4F12E7D2982B064A0A749C1308/"
+  },
+  "927374067": {
+    "title": "Salvaged Bolt Rifle",
+    "description": "Scratched to hell bolt receiver with a day\\night front sight post.\r\n\r\nNice gray stained wood butt stock and fore grip  furniture and it looks like someone took a handsaw to the looped bar in the front, maybe that's for a little weight reduction.\r\n\r\nGreat f",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/766021312628792582/E36B3078FBF3F15F7DA6D3039C7D1C7C86E66415/"
+  },
+  "1345718244": {
+    "title": "Br0k3n C1rcu1t Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/911291028415963632/82E5D4B889C2E94DA5545A236C4C07FBAF77226A/"
+  },
+  "846444010": {
+    "title": "electro bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/163654259561560883/3BDE9A336330E449E899DE422CDC7564A4253AB4/"
+  },
+  "793337302": {
+    "title": "AssBolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/396708542391810778/FB18C99FEADC7CB6813A15359CE88A08E52812C0/"
+  },
+  "1370226417": {
+    "title": "A Lethal Spectrum",
+    "description": "A colourful, yet painful death.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/916922973116585155/5A5E4BAC543D15EBBD3F31AD5515C7AC81C36945/"
+  },
+  "885195997": {
+    "title": "Ghost Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/155777951179033143/424463535BE4ED770F1636E0CB0CA5251CB4CFE4/"
+  },
+  "838768743": {
+    "title": "Night Spirals",
+    "description": "Night Spirals",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/1005898022917496231/A96304A40FA6F341FA6636F577BF5B746A985DA5/"
+  },
+  "890933017": {
+    "title": "Forest Hunter",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/96105795503919753/73B559F3C13E1C28CD1FDEF18FD2232848BF5601/"
+  },
+  "929784294": {
+    "title": "bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/773902869633884027/F1CDE62B49E5B3ED321939764FFDF3613D0D8272/"
+  },
+  "914629235": {
+    "title": "SwatBoltRifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/817810804116333008/79E4590133FC0A55804A8BC4E2F5FA2F86D74F6C/"
+  },
+  "820677980": {
+    "title": "Old Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/106230098541311200/F3370DF53E7446E059039CA37FDE299312459B98/"
+  },
+  "1572360108": {
+    "title": "rifle wooden toy",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/945089495830102617/DF0B098D4208A0F74750CEE01764449D4ED57A2E/"
+  },
+  "877312156": {
+    "title": "Merica bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/89348815407118469/54278A9B76F25DE07ABDAB71ED41B8367878D3E4/"
+  },
+  "883524897": {
+    "title": "Widow Maker",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/171540222914102676/9A3344CF80F7128B6A27D19E0E574DC71CD1036C/"
+  },
+  "1710065647": {
+    "title": "VisionSeeker",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/972123867403515085/4D3DB74F40C8BD27024C95F955846AF42924A5B1/"
+  },
+  "849982211": {
+    "title": "Болт в гуталине",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/103981834726793341/EFB6B1969AD0FFDB18C2EB809C2E45F33C25E86A/"
+  },
+  "813953472": {
+    "title": "Wood Cammo Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/106229389280451169/C70D36DFA5F065CA24B00362F4192062213368E4/"
+  },
+  "910716544": {
+    "title": "Hunter Bolt Rifle",
+    "description": "An antique hunting rifle, decorated with leather trophies from hunts.\r\n\r\n[url=http://steamcommunity.com/id/kamotiko/myworkshopfiles/?p=1] Follow my workshop [/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/812180760857132364/E2CCA8E2FA86F40C505F8300F2A2D639989515F7/"
+  },
+  "904155613": {
+    "title": "Desert Camo Bolty",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/97233690475082517/75E805553163D47AEF4F12FE526718A4515809BD/"
+  },
+  "1380607572": {
+    "title": "Green Kryptek Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/923679478031922212/23B447BED238FAA5F9A820FBB9052453C3EF05A3/"
+  },
+  "1246953371": {
+    "title": "Julia's Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/912408703936965921/4C984C60759A880477D364829B551C87EAF39097/"
+  },
+  "847016545": {
+    "title": "OpFights Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/97226156315308622/59365DDF5A60EA55BF291F6FF20B94C3A8D152D3/"
+  },
+  "841097051": {
+    "title": "Nebula",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/93847818661161865/AD0AD66E2D0D45C6DFE3244E51F95F2C86BF715C/"
+  },
+  "1088456130": {
+    "title": "Rifle CAMO UCP",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/854973547811966799/9BFCB46AAD015F3D74B41087CCC1B4F09CBB8D60/"
+  },
+  "1083014890": {
+    "title": "Tiger Camo",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/839210512728061483/C13621D4B1AF1C47EA76391D70C71FDB60DBDB0A/"
+  },
+  "1323108940": {
+    "title": "Griffin",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/930429331967315237/4CE11058F3C64F7979694ACB066267D7F8C16946/"
+  },
+  "856487090": {
+    "title": "Bolt To The Galaxy",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/97227270618592758/42F8637449164F25DF9844736BE2BD36763977B0/"
+  },
+  "854863727": {
+    "title": "BlueFire",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/88220071319206672/28667B7FEE662F4B89DA18CC37967D805C65FFAF/"
+  },
+  "834825015": {
+    "title": "Blue Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/96098822763215611/EAFD6D025DCE389CD215519C4C3186B97E758260/"
+  },
+  "1174655195": {
+    "title": "The Watchful Eye",
+    "description": "This is my second skin for Rust i've made and I am trying to make a skin a day this weekend(4 day weekend).\r\nI've had a super long day, it's 1:51 AM, and I am going to bed. (I didn't do this all day, I took a LOT of breaks)\r\n\r\nIt's been fun and I like how ",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/862862738299889664/A187366D7BDC73880657485D27891FD7ED3DA51F/"
+  },
+  "876194543": {
+    "title": "Enigma's One Shot",
+    "description": "Thanks for viewing my content! If you like what you see then be sure to upvote and favourite this item. For more of my content be sure to follow me and dont hesitate in checking out my other workshop items [url=http://steamcommunity.com/id/-SOLLY-/myworksh",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/172665090132181884/0CF55DBC694515E492FEE4123502FE11952109F3/"
+  },
+  "844167730": {
+    "title": "RFLX Bolt Rifle",
+    "description": "[url=http://steamcommunity.com/profiles/76561198042749143/myworkshopfiles/?appid=252490&p=1&numperpage=30] \r\n ▬ ▬ ▬ ▬►look over here◄ ▬ ▬ ▬ ▬ [/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/187297802347599401/EA0CACB8F5490301B973B93B68C5C8862C53732D/"
+  },
+  "956842365": {
+    "title": "GANJA RIFLE",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/845963870798279799/B10BF4F1A86DD42B53C6FD511B320E0AEC5952CA/"
+  },
+  "793280969": {
+    "title": "Bolt elit",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/197424258847880077/D4E5A56787E5B67C43AF3709C1150ADBDAA961E5/"
+  },
+  "889022058": {
+    "title": "Vintage Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/96105795492430257/E9FBED976C7367B6E28841D90A5BCE5423383713/"
+  },
+  "889338832": {
+    "title": "Arctic Ops Bolt-Action Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/158030290408568982/0FAFBB738817D0861F5252B75ECE1285BD8501F9/"
+  },
+  "878207619": {
+    "title": "GOLDEN HUNTER",
+    "description": "GOLDSMITH AND MASTER-IN-ARMS MADE THIS BOLT RIFLE\r\n\r\n\r\n[img]http://s017.radikal.ru/i443/1612/12/f3302cf23ef1.png[/img]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/159154925363033436/3A2A6ECBD56A45EE1F561B39FF7197035E73F82A/"
+  },
+  "917112819": {
+    "title": "Infernal Bolt Rifle v2",
+    "description": "            [img]http://i.imgur.com/gUoaBlw.png[/img]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/813307680279277653/EDB6B726976D266791B3C827D50A418FA707FACE/"
+  },
+  "1624841266": {
+    "title": "Sakura",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/954101652217982196/9B3D29F4ECFD0D4CBFA1F62931B35D895C80C6CF/"
+  },
+  "1280550827": {
+    "title": "Xcentric BAR [V2]",
+    "description": "This is the second version. Made the rusty metal extra crusty and changed the misfitting logo for an engraved \"xD\". Also done some minor tweaks.\r\n\r\n[url=http://steamcommunity.com/sharedfiles/filedetails/?id=1279290350]Original[/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/918040705217378847/55D49F8EF0D7EC9C8EE46520D3EEF4BF18849520/"
+  },
+  "1301350820": {
+    "title": "Carbon Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/940560531085327897/2D6D21F24CCB76A41ECB4A61C712A6F5F141118D/"
+  },
+  "1104034699": {
+    "title": "Snakeskin",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/853848825688640572/712008244E2DCDF531BE3627F8D24BA2C1C6E0F2/"
+  },
+  "1264269469": {
+    "title": "MARPAT Camo Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/936053764498717624/36DFD888503BEE973A09A54B63B63EBD58EDF084/"
+  },
+  "926820415": {
+    "title": "Camo Hunting Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/818938489486882008/CE73EA3BDD1B6454EB415916EAD237250EFBE70A/"
+  },
+  "860950770": {
+    "title": "Atom",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/87094793647483810/C40C25BF2CAA724383FC1861205B47228CA667BE/"
+  },
+  "911775302": {
+    "title": "Molten BAR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/820062060210921903/238A0518AA9569DA9C3302EC369BE96FEF95E93B/"
+  },
+  "814882943": {
+    "title": "Gear bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/97222190039042430/1366D7C6DEE0921C0FD4B1F8BE7C1E31C3F788C7/"
+  },
+  "874653201": {
+    "title": "Black & white rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/81467197668772077/B93FD45BDD2D63DE51903704DC08CEA077F4559D/"
+  },
+  "888747985": {
+    "title": "Old Blossom",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/155778490552037448/78B3A76D47F49A49B510699BF19B33CCE8A64391/"
+  },
+  "1306148822": {
+    "title": "Red stripe Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/941686853765054802/B81463FCBB1048CEE19F600658FB2C47D4AA56C5/"
+  },
+  "970657597": {
+    "title": "Iron Core (Bolt Rifle)",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/836957765929449702/7EAAB39E1D913B3A37DD53395BE9095BD2C95857/"
+  },
+  "1267139517": {
+    "title": "Emoji Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/940557622712883623/192ECE2CDB3537106408B357DC87EC9D5822F300/"
+  },
+  "814984505": {
+    "title": "awp",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/97222190039896442/2269ED5A184BCBCACA23F76CBA45F6E36E3C09F4/"
+  },
+  "825427439": {
+    "title": "Bolt Rifle | Forest Hunter",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/197428893128535179/A2EAFC55482B31D694F0C2FF30A22A1580FB4A0A/"
+  },
+  "863690545": {
+    "title": "The Northerner",
+    "description": "The only gun I ever use in Rust is a bolty. I also almost always build my base in the snow. While there was a winter skin for the bolty a long while back, I decided to make another. I covered it with some hand-scribbled Inuit symbols (that actually have me",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/83717558764227504/D6A77E08E7922509FFCD7C24A9173A17C3A19818/"
+  },
+  "1115741118": {
+    "title": "Rusty camo bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/858353649743806422/C4C1522B2EEE11E06BD94A6338DB967CA5F85221/"
+  },
+  "922166738": {
+    "title": "SKULL BOLT",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/829070808210268401/A1EE697CAAF64006CBE764803AF6F608CF4A14E8/"
+  },
+  "879726441": {
+    "title": "DejaBlue Bold Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/82593731697371188/B259E18D04B8CA087C81C1FA5BB6C9D14AD3313C/"
+  },
+  "846483132": {
+    "title": "Hunting Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/98351890457614514/EC3136E6B0BEEED553D753A427CF56405A8A0B25/"
+  },
+  "868564593": {
+    "title": "Bandito Bolt",
+    "description": "Old wood and rusted metal with skulls and graffiti.\r\n[i]Marksman[/i]\r\n\r\n[url=http://steamcommunity.com/id/estavos/myworkshopfiles/][img]http://i.imgur.com/TFgeyea.png[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/81466356771053627/436F020BDA3E608602757CE5A2B7732478BF477C/"
+  },
+  "1620390235": {
+    "title": "Fresh made bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/950723435437757766/1834DFC0D9E421E9D7416BB85BA6CE67A1624507/"
+  },
+  "832406104": {
+    "title": "Night Terror Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/111861159453225862/605F5096E03245BDEDE6AD16AB847DE9445360C2/"
+  },
+  "863276765": {
+    "title": "All Ghillied Up Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/158026921455504851/C739E3A075022759783381CB8B6A0332950125F4/"
+  },
+  "879011073": {
+    "title": "Chrome BAR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/88223091564847453/118F27A6E9F1F7058C23582198143F94ADC3661A/"
+  },
+  "1226650795": {
+    "title": "Poker Live",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/875252309633553247/631DE76B9E72F62A3B23B0BF7371A34B9DC4D1B8/"
+  },
+  "860212289": {
+    "title": "american bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/155774687964312486/DC770D04A2E1C7CBC4A8EE0837FC18ABF269861B/"
+  },
+  "843441831": {
+    "title": "the hub gun",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/92722164042724079/09B4A641F1811F2B1AC2C9C36606B78387CEA20C/"
+  },
+  "822828883": {
+    "title": "Rusted",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/107356553085862778/B48DE39B75E7D8E7DE072E4220BD75469892BFD0/"
+  },
+  "884803517": {
+    "title": "Gustave",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/85972156531398166/A17F59CE3232C8D82734F377E0DFCDB47F18B640/"
+  },
+  "1576838380": {
+    "title": "Speciale Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/955223229294217912/F90B0515FC1CC8713D43F381E169DE90AC42E945/"
+  },
+  "918760592": {
+    "title": "Fertile Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/831322238204560592/869AEAD92764A09C79F41D5E14B1CCB89086510F/"
+  },
+  "836128980": {
+    "title": "Bolt Rifle vulcano",
+    "description": "https://www.twitch.tv/dwrocktv        - STAY IN FOLLOWING .:)",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/90469323235077634/BDEA37DC09CD2A82042F5676F47FBDB23DB5887F/"
+  },
+  "888720674": {
+    "title": "Fracture V1",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/97231695397007190/2E5D27F96BB27E8643913A23DD1763D30A230DC0/"
+  },
+  "879970558": {
+    "title": "GOLDEN HUNTER V2",
+    "description": "GOLDEN HUNTER V2\r\n\r\n\r\n[img]http://s017.radikal.ru/i443/1612/12/f3302cf23ef1.png[/img]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/159154925366989918/3E2428DFBE88BDE5BA7783FC305896C60D5D0D6C/"
+  },
+  "934083636": {
+    "title": "Dark matter",
+    "description": "Pick off your enemies under the stars with this new, fun Dark matter sniper rifle!",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/771651451532851373/E0A147AAE0FE093355F4B3521CE49AD496F72969/"
+  },
+  "880520919": {
+    "title": "Brutal Hunter BAR",
+    "description": "Humans aren't the only creatures being hunted in these lands...\r\n\r\n[URL=http://steamcommunity.com/id/Deltap42/myworkshopfiles/][IMG]http://i.imgur.com/s1ug55A.png[/IMG][/URL]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/97230430492348566/A4CBEA6CA8FBD854580769E84E76C943A454A79C/"
+  },
+  "837508046": {
+    "title": "Spectral Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/106232282979136314/E5AE8E3ABEA040248882C8FF8EA42D6D64C246C4/"
+  },
+  "916247881": {
+    "title": "Worn Damascus Bolt Action",
+    "description": "A damascus steel bolt action made from old rail lines, wrapped in deer hide scraps and engraved with \"For the roof\" and a useful \"Aim Here\" marker",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/817811247825089930/4FBEA7E129BECAF02D00C54293C5305EDD620529/"
+  },
+  "1233105952": {
+    "title": "Christmas Bolty",
+    "description": "My name is Christian, and this is my very first Rust skin. I always wanted to try and make my very own Rust skin. Since Christmas is right around the corner I decided to create a candy cane / christmas ball Bolty. I wanted to make it simple and not go over",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/922540726977038666/E4BD0C6166A5289697AEDDE1918995EC06580872/"
+  },
+  "1173549137": {
+    "title": "Circut Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/875247637248998516/8DFC1807A4CE5669754120246B3695D2D8D4238C/"
+  },
+  "957351584": {
+    "title": "Lava Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/853845093933898533/2FD277EDDA65806D729C3B35B345BFC1F89BEAD3/"
+  },
+  "880431508": {
+    "title": "Rusty Bolty",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/90475031050436024/67D4ED54676EB98A170D874A8019466999132B57/"
+  },
+  "879935388": {
+    "title": "GOLDEN HUNTER",
+    "description": "GOLDSMITH AND MASTER-IN-ARMS MADE THIS BOLT RIFLE\r\n\r\n\r\n[img]http://s017.radikal.ru/i443/1612/12/f3302cf23ef1.png[/img]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/159154925366743859/E1D8E1ED293AED74AEB268CE3C178BD43B9E91A0/"
+  },
+  "818935561": {
+    "title": "Gold Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/111859597160936370/2597EC64B55DCADE8886900B70A59C7F2284B49A/"
+  },
+  "1402219133": {
+    "title": "MagentaBolt",
+    "description": "Glowsh blue-ish in dark spaces.\r\n#glow in the dark",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/918052306842450430/160EAB975489029B0D077E6A213390CD53817B1A/"
+  },
+  "1207337496": {
+    "title": "Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/859488099489680729/22BF4FD41BD2CB370BD7556C82883B64DA0A02D9/"
+  },
+  "880058185": {
+    "title": "orıon stars bolt rıfle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/155777225649084740/68D66635F5A10D7E1C6D43D6FFA9E3AE71B52154/"
+  },
+  "817404141": {
+    "title": "Bolt Brazil Team",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/178286983347435061/FC15676E1A98A64CC9D2062DB88F7DB638F08AD9/"
+  },
+  "1225986268": {
+    "title": "Bubb",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/875252309631768990/F60FE7756FE84C40D1E934E66E71CAEECBC2D326/"
+  },
+  "910109642": {
+    "title": "Leathersmith | BAR",
+    "description": "[h1][b] A Bolt Rifle which has been left to rust for ages at the bottom of a river has been found by someone... this person decided to try and resurrect it with a bit of love and care, adding a leather cover, new wooden handle as the previous one rotted of",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/824565659828037885/50DCE71DEAB7980676A244F292F63EE0FFB6B670/"
+  },
+  "866707136": {
+    "title": "Sunrise Bolt Rifle",
+    "description": "[url=http://steamcommunity.com/id/badtripbg/myworkshopfiles/][img]http://i.imgur.com/u3a3NhQ.png[/img][/url]\r\n[url=http://steamcommunity.com/groups/wintrip][img]http://i.imgur.com/iEgnCSQ.png[/img][/url]\r\n",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/91599028256774049/9EBBA4BF157A0AB734657E80C4B595D8D75CA34B/"
+  },
+  "842871604": {
+    "title": "The Rusted Rail",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/101728956012447531/7DE9F773863FD727B1D25881AD0D8281D6675A0B/"
+  },
+  "817686175": {
+    "title": "Winter Bolt Damascus Steel",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/197427838390686835/24306AF3B457FFE320FFCAFB268C5DD316023089/"
+  },
+  "909403047": {
+    "title": "fire BR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/824565659823667038/C839FA67F8B74E352C8D9443BCCC74E332459BC2/"
+  },
+  "837804491": {
+    "title": "Water Sniper Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/170408216629834000/AD2E2FFE3B4E38FDB3CA44DE5627BEF7CA5A10FB/"
+  },
+  "1082799760": {
+    "title": "Good O'l Rusty",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/842588212451009039/F12721A2C24D81C6D1083AE417CDF24069766527/"
+  },
+  "1239050562": {
+    "title": "snipe camo  F.O.N.B.E.C",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/910156163264409162/4CFDFF2F1D2BAD5B3540C705DE6127958FF55707/"
+  },
+  "1413434930": {
+    "title": "\"BR\" Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/912423900270945478/BCC2B1AB8E3744F53416DC7D91F313214EA8F881/"
+  },
+  "863176749": {
+    "title": "Rainbow Bolty",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/85969284936653096/B0D4BE46674C996A90CB289CA4CA466A258E5F31/"
+  },
+  "871123467": {
+    "title": "Hazardous BAR",
+    "description": "[URL=http://steamcommunity.com/id/Deltap42/myworkshopfiles/][IMG]http://i.imgur.com/s1ug55A.png[/IMG][/URL]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/97230215091127962/C084D74596668F947211C7DF8B3AEE3011E31043/"
+  },
+  "1106842730": {
+    "title": "Night Striker",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/863982847778901965/21F7B7215B266A1694DCC29506D6F82141ED95AC/"
+  },
+  "863880653": {
+    "title": "Dragon Fire Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/96102470861454098/7EA6BF3353DACE7D3FC1A56910879B52AE79AE24/"
+  },
+  "1163081594": {
+    "title": "Expansive Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/878624414251379599/686C03CBE1E8C80DD43466F491E7FDDD7F9D3AAD/"
+  },
+  "844799436": {
+    "title": "Rusty bolt rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/105107289888112686/D413491918930DA53C331BB7F08BD5D1390D3752/"
+  },
+  "859915717": {
+    "title": "Bolt Rifle NAVI",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/90472493360839890/4C73DE81A55D42E3AACEF50B251D141AFFCE0757/"
+  },
+  "1107131180": {
+    "title": "Rainbolt V2",
+    "description": "[URL=http://steamcommunity.com/id/Deltap42/myworkshopfiles/][IMG]http://i.imgur.com/hBkHsbv.png[/IMG][/URL]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/866234140302144790/256629CB77AD9DDFDB012D42518C40BC52CAFBB9/"
+  },
+  "857475787": {
+    "title": "Medusa",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/80339015630611451/5EBBC5A87D9443465AEEA6DA23091AAF5C2F7E95/"
+  },
+  "839957613": {
+    "title": "Fire Incinerator",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/183919649195295454/54E4FD3B5CD95B706FD33F99067B34583AC75EE1/"
+  },
+  "887802610": {
+    "title": "M1 Garand",
+    "description": "The M1 Garand was not only unique in its self-loading ways but the system managed an eight round \"clip\" of 30-06 Springfield ammunition. This clip was interestingly enough loaded from the top of the weapon, keeping the overall design clean and smooth. Thou",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/82594844655521987/D01E8DC29834081DCDFC3E1249C279F8CE38DF82/"
+  },
+  "842736536": {
+    "title": "Hunter | Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/168157050515321789/36D71EAECF688C2862106D61B5F74B882AFAB93D/"
+  },
+  "1246889952": {
+    "title": "Bolt Action Wip - Glow Sight",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/912408628487062202/1E55B58E1166E2233C85BE0BC4885786C3672654/"
+  },
+  "1097765809": {
+    "title": "Zapper",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/863981579882921794/7F3F3153446B05A95545914BBAE2EAE0BA41548D/"
+  },
+  "831785861": {
+    "title": "Graffiti Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/110735275538643158/8B77BA8984128CE70CF50A92DDC3238667C3CA00/"
+  },
+  "821876820": {
+    "title": "MultiCam Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/199679790012266148/F0EE22D9BF6C8797AC43C9D4FCAB35B09CB337C7/"
+  },
+  "1541061641": {
+    "title": "Camouflage Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/955219426318654208/B4104558E1FA830D52D33FC967D4AEDBA68AF5A6/"
+  },
+  "1117276440": {
+    "title": "Radiation Hazard",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/866235164176676291/B6D7F3931195AD15B12A61A3A81375E775B44CC2/"
+  },
+  "1306126009": {
+    "title": "White Pine Camo",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/943938615592762672/41D8794C9E61593CC602D71A7894ABBFC6CC82B9/"
+  },
+  "1082237092": {
+    "title": "24K Gold Bolt Action Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/831329213373262770/03D1589164F402D85F67E13E28315A926DE25091/"
+  },
+  "1225003781": {
+    "title": "Abyss",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/875251999087996159/72F20A9B06273DBF09A4584E9C286578EA021D38/"
+  },
+  "910338749": {
+    "title": "Hunter Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/812180760854802608/4B114F0952BB6FA88FDCF07D6E1E24E21D7E5B2F/"
+  },
+  "1135503030": {
+    "title": "Plazma Purple",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/854978386863335845/8F91639F2D599A28D54C511CB7A49EA2FB3216A4/"
+  },
+  "914435526": {
+    "title": "Old Green Rifle",
+    "description": "Hey you probably like roof camping so here's a new skin for the Bar. Old dirty green paint with designs carved into the side. Along with black stock, handle and glowing red sight.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/816684904204447527/7A179F1CF3D79A08EBBCBD0DE52151AC1103EF61/"
+  },
+  "854966275": {
+    "title": "rrrrrradi",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/92723671006832811/ED1DD213C49E0B2F1DB2FC556BC52C71A736CCEE/"
+  },
+  "847530646": {
+    "title": "Lace&Marble",
+    "description": "[url=https://steamcommunity.com/id/060573/myworkshopfiles/][img]https://s29.postimg.org/pxjo92cjr/WORKSHOP.png[/img][/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/91596491021256591/13A63B7AF1B6B89C6563F95FC2E491E5827AD193/"
+  },
+  "1200142226": {
+    "title": "blackice bolt toxic",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/867368527051478629/E8BDE54023C6D1C39AC86B30079544A46B02F4A0/"
+  },
+  "1427045854": {
+    "title": "sand storm",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/957461211378354193/C9027F350089E2639C74A6EC43E2A5BCA244A7DA/"
+  },
+  "843251239": {
+    "title": "LEET",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/183919959770704725/8F63C8564A3FC3AE7665CAEE9D00B92F090E02F0/"
+  },
+  "1558491907": {
+    "title": "santa and the bears  bolt rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/963102562927832104/CE76CEF5B4BA5FB09E717EF3D926DDCDAE7276B7/"
+  },
+  "835962896": {
+    "title": "made to order",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/185044915410206108/4BE6A02139D763F0BCC746C84259740A63154DDB/"
+  },
+  "1488648416": {
+    "title": "Lady Love",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/942829449619460354/5FC51D6496FDDBEDBBBF26CCEADEFF1B83D358EF/"
+  },
+  "937132129": {
+    "title": "Pink Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/773903880478929340/6E57FF9F31352F6C2DF154C3034A321CEE84A783/"
+  },
+  "865953935": {
+    "title": "Stylish Hunter",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/156901222841546481/58BFAB47BACF18818579F5620D7D56588C43D130/"
+  },
+  "856700695": {
+    "title": "Bolt Bright Water",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/80339015627012990/96FC3525B871ADB58D55A25AB8EFB68C28DF44CD/"
+  },
+  "834544817": {
+    "title": "RustyGold",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/91595223133586901/F666E9C9EB6AA9F2ECDED79766C2BA9F8980CF0F/"
+  },
+  "850512283": {
+    "title": "red white bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/163654751770746673/02A34B2E2A437EE176A82F647CBD1CBA30CAA97B/"
+  },
+  "902689680": {
+    "title": "Old Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/94981434114337718/C9C7C6603B72461ED1FC4E6476F7D95648CBC4C7/"
+  },
+  "1641134512": {
+    "title": "Rusty bolt rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/937214613624627506/921FE114CDFB9001A1980FECD69888ACD9A54515/"
+  },
+  "856115360": {
+    "title": "Rusty old bolt riffle (LED)",
+    "description": "[b]If you like my work and want to see it in the game, support me, click YES, add to favorites.[/b]\r\n[b]Thank you very much![/b]\r\n[url=http://steamcommunity.com/profiles/76561198102492385/myworkshopfiles/?appid=252490]My workshop(click)[/url]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/156899965730623443/F00DDFB6799D1005F9B075A7ECED38E773171FB8/"
+  },
+  "1225231896": {
+    "title": "Hypno",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/875251999088611880/F3340CA8C8B121D0CA8678735AF2C0327FC3DC11/"
+  },
+  "926360345": {
+    "title": "FiReBolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/816686544240483339/DD38EEAB076BD1399F3ADA1F174C7F4C0E1B4250/"
+  },
+  "936851177": {
+    "title": "Rustic Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/784036979638741893/DECE3270CDC4A1028B8178CA2BD276E95193999B/"
+  },
+  "868849372": {
+    "title": "Mosaic Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/91599474209430634/56D9F8CEF510DFAFAF3A72003050E5427143872C/"
+  },
+  "1098788370": {
+    "title": "Zombie Camo Bolty",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/843715475924185241/DCDD1D964A87E3905C0012232885A500E242A4F4/"
+  },
+  "868340713": {
+    "title": "Gradpa's Rifle",
+    "description": "Back in my days...",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/83718115817408160/2153BFECE825B24EF3AF7F677AC09CB7EB75B1FD/"
+  },
+  "835282136": {
+    "title": "Honey",
+    "description": "Honey coloured bolt action :)\r\n\r\nFollow me if you want to see my new ideas!",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/89343560291906665/C7118298927EA4A44A0CDC22A2E0D2C0BD35ACE2/"
+  },
+  "1226657459": {
+    "title": "Poker",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/875252309633567911/09CB82CF0106CF20424874EA04E03FF5CFF5ABB3/"
+  },
+  "934351425": {
+    "title": "bandaids dont fix",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/766022249171824341/667C7AB15674017A4ED38983871FFA57BBD2006F/"
+  },
+  "877694786": {
+    "title": "Old Rifle",
+    "description": "An old wooden beauty!\r\n\r\nFeaturing:\r\n\r\n-Steel finished barrel\r\n-A luxurious red leather wrap\r\n-Varnished wood\r\n\r\n-------------------------------------------\r\n\r\nThis skin took me a very long time to make (5 hours)!\r\nSo please let me know what you like or di",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/169287877862182259/08CF714FB4ACEABC6498A7AE6E99E39441920495/"
+  },
+  "864888063": {
+    "title": "Agony Wasted | Bolt Rifle",
+    "description": "Agony Wasted | Bolt Rifle\r\nNow with 2048x1024 Textures\r\n\r\n[url=http://steamcommunity.com/sharedfiles/filedetails/?id=859713272][img]http://i.imgur.com/8JsoFMf.jpg[/img][/url]\r\n[url=http://steamcommunity.com/sharedfiles/filedetails/?id=859719233][img]http:/",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/92725318257523341/BD2481EC2AE633A9857246FB771DA57DFF3C6790/"
+  },
+  "1632373122": {
+    "title": "Bolt Rifle Belkin edition",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/956353893736669051/40A4FFD79F1C83FBA236596831C515FE4E1774C7/"
+  },
+  "864682298": {
+    "title": "Bolt - Diffuse",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/156901222833401824/2719E7EFB92BEB83DCBF0F5A78E0F140FCA924B7/"
+  },
+  "1637015700": {
+    "title": "перламутр",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/954102730669298245/DB8C155D87E008AF18F7473CDDB5C49B9B2A496A/"
+  },
+  "858303640": {
+    "title": "Water Damaged Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/80339162115009562/6390004DD8B43F94A0139CAAB48243FB0BE493A2/"
+  },
+  "879762806": {
+    "title": "BLueIgl2 Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/92726830859268267/8859DA68CE0CFDDD6061CA63CEF90E8475FEAAC1/"
+  },
+  "1387797091": {
+    "title": "5akura [さくら]",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/909043577243036747/B3E383B729436EC5A40922EA25D1813BF41894CC/"
+  },
+  "1432386894": {
+    "title": "Bolt Camo",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/946202841001249297/3B451891124CCB4F9A74AACB4F202BAEB3B52FF3/"
+  },
+  "1103738793": {
+    "title": "Lightning Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/861730156891408891/D8F7706C9F64F0E5912D823F45600CF74CEC5BD7/"
+  },
+  "818700489": {
+    "title": "Dragunov",
+    "description": "Crafted from the last dragon ever.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/110733697252866342/894062FBFA4094156D4BBF8818B04C3574103CFA/"
+  },
+  "1695259300": {
+    "title": "Cute Uni bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/909072114021846930/1B2EEB919CA1873BEEC817D07C8C2873386679E7/"
+  },
+  "1131849611": {
+    "title": "The Tempered Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/847096563489055615/929AEB80F609F78A4E64E6DE336CB8407AEF5520/"
+  },
+  "916535162": {
+    "title": "Grayscale Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/798670829082663434/30FAF043694230A045D281CCD580054948544950/"
+  },
+  "837416971": {
+    "title": "Bolt action, Worn digital camo",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/101728646655105935/E915A92BA110466569573A2A225A4FD10982FDFB/"
+  },
+  "1761475496": {
+    "title": "Gentlemans Bolty",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/782977665849255564/E3CADAD59A38F292223D606484763E78144861AA/"
+  },
+  "1376808998": {
+    "title": "FROST BOLTIE, GLOW AIM",
+    "description": "I dont think there is a boltie that's made for the cold winter biome in Rust.. So here you go. With a matching icy blue glow in the dark aim. Once you've built in the snow biome, you're gonna have a hard time comming back to the forest. \r\n\r\nPlease give thi",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/929308506299331583/27988D1D23EF2AE49AB0D46052D374A6A1CA5790/"
+  },
+  "879864413": {
+    "title": "Member bolt rifle",
+    "description": "★ Thanks all for votes!\r\n\r\n★ Check my other skins! and collections!",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/156903125553974831/54036C32248782D66899F6E4FD03F2637E29F29C/"
+  },
+  "870339514": {
+    "title": "Night Stalker",
+    "description": "Use this exceptionally crafted weapon to eliminate your enemies with amazing headshots or aim poorly and have it taken from your lifeless corpse as the trash talking escalates.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/96103261795198405/A364C4245B15538257EEEF0933EDA03B5711954D/"
+  },
+  "870825793": {
+    "title": "Ancient Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/94977361890887617/F67FF689CB895837A127F770CE0B77F8883DF83E/"
+  },
+  "961054083": {
+    "title": "Modern",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/850467924673555877/DDD030581ADF33C96540B4DB42BE240E07E0E51C/"
+  },
+  "1381519189": {
+    "title": "Military Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/930435039802118946/04AAB8DD059DA949D4BBE89A2299D1A807F98052/"
+  },
+  "1227193697": {
+    "title": "Distressed Penguin BAR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/874126486245900189/174EC1888AB019A5C5631517048DC74005DD3E3E/"
+  },
+  "1097636529": {
+    "title": "The Blueberry Popper",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/843715352048334898/1B853F20BB79BA5EFDC82FAF5FFF2B5FD78FEA88/"
+  },
+  "1221875051": {
+    "title": "Survivalist BAR",
+    "description": "Wieled by a lone ranger long ago. He held off hordes of enemies before being overwhelmed. Put this weapon to the right use.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/876377577853348912/F539B0158494745BD2D8C1BF574071D3BE2CA333/"
+  },
+  "1124159205": {
+    "title": "Snow Covered Forest Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/844843817268560595/7D1E224773BFEE1AFEEBEB56CAA00614573E649B/"
+  },
+  "842876027": {
+    "title": "Host-Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/102855182610130685/93CC85445699AA466261F972ACC5A0E60242DA4E/"
+  },
+  "1495770214": {
+    "title": "Snow Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/947333613425031256/06D775D601881001984D7C3EFDC46126E5F9F2FB/"
+  },
+  "814428953": {
+    "title": "Bolt Rifle Glam",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/107355289197331408/70F76C0EF289DA2DF58B5B4BBFECCC1F35F6E9D6/"
+  },
+  "1204797128": {
+    "title": "skull gun",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/882005587670988370/EC0DD725EC33CEAD952CB432444502644DE37A8A/"
+  },
+  "1225060189": {
+    "title": "Skull And ROses",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/875251999088150319/D61F442620A713AABE95258621CF792E1516E36F/"
+  },
+  "842891351": {
+    "title": "Spread Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/97225730264824625/73A7DBF8C163890C8A7EA30DC1F5C723FF885DBF/"
+  },
+  "875202666": {
+    "title": "Toxic Bolty",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/91600296832906202/F40B1E42F9D135B3E9FE81717D2B64BFC3616E14/"
+  },
+  "830261012": {
+    "title": "wooden bolt action rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/112986663345626136/1C445B0AA91934A80C393737ABE10D1BA3750687/"
+  },
+  "844451046": {
+    "title": "Cartel's Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/105106988868927986/C0C38BB6FB6052469427E3D195E93FF7B64444B3/"
+  },
+  "870985205": {
+    "title": "Mossy BAR",
+    "description": "[URL=http://steamcommunity.com/id/Deltap42/myworkshopfiles/][IMG]http://i.imgur.com/s1ug55A.png[/IMG][/URL]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/97229161705794981/0D5C052D7F0482BB20CD354B5556AF02D0006FEF/"
+  },
+  "875506990": {
+    "title": "Bolt Rifle Zebra Camo",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/81467197674554119/79013324E26C517CCFA8F2FCCB1A72C0D11ABC2D/"
+  },
+  "870234536": {
+    "title": "Walnut",
+    "description": "A beaten, but still serviceable hunting rifle.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/84844262730341132/E93670C008F519A29F7B3DF916299D3AA1FB3D08/"
+  },
+  "1094747042": {
+    "title": "Anarchist",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/863981158173137810/74FA3400DBA24A608B032FA5678F62EC66BE29AE/"
+  },
+  "1349688195": {
+    "title": "Static Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/936061078555150331/512BB2E5EE776C5E321903CFFA1DC8DF97106BCD/"
+  },
+  "1097977874": {
+    "title": "Carved Death",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/863981579884052207/B97B767C492AC97A4556F248075CC34B676CCCD3/"
+  },
+  "1270887000": {
+    "title": "Bolt_Rifle_Military_Green",
+    "description": "Creation and replacement of textures: wood, fabric strips, metal and welds.\r\nMilitary Green color of matte appearance.\r\n\r\nAn exceptional rifle manufactured by the legendary Facepunch! Ideal for hunting and very accurate in times of war :)\r\n\r\n\r\nFRENCH :\r\nCr",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/920291580057232153/2ECD9F2986E13C9626E92BA9C4CD7634ACB02F24/"
+  },
+  "1279475528": {
+    "title": "bolt nike",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/931551407027238335/C7D8862E63103DCB14393D0729A318C085838081/"
+  },
+  "1518239748": {
+    "title": "Hypnos Rifle |night|",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/963098188616757179/55AC5417D71600FEF45F83C6CD2755021D76361D/"
+  },
+  "879754517": {
+    "title": "Toxic liquid metal",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/171539824341443007/07886B27AB386204AEC02FBB0A81FCC950D1425F/"
+  },
+  "892795944": {
+    "title": "Digital Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/87099013033915533/193A8B9A0914564E60C1E7D785938E2835FA30EB/"
+  },
+  "873734871": {
+    "title": "RED DEATH",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/156901856786748017/11105DD561D05AB7C25A3CCFC75CF0C123A499AB/"
+  },
+  "948906682": {
+    "title": "Broken Wood",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/853844292445037899/CB52D51EB3A95A3A91300743C63006E9B59434D5/"
+  },
+  "935295877": {
+    "title": "Royal Bolty",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/777281349288621791/500CA42370DAD94EFBAFC8BC76939DCE985E3F61/"
+  },
+  "829576133": {
+    "title": "Carbon Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/101727694604445973/B40FCF8A89A89E7F63E50CF8B3A468F13E16A73D/"
+  },
+  "821046354": {
+    "title": "Winter BAR",
+    "description": "I Really worked very hard for this.\r\nI spent alot of Time in it aswell.\r\ni Thank you for your time.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/97222901299266788/DAD8FBC0597C48164E164C24DF896F83ED6AF128/"
+  },
+  "821441261": {
+    "title": "Bush Camper's Bolty",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/177162202727996896/9FBD005D4FBD0E252EC1E58679E02D42C939DC2B/"
+  },
+  "870409172": {
+    "title": "This Machine",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/84844262731333294/169AB9B338EB8A963E18C7BA57209C2566DA0952/"
+  },
+  "870163415": {
+    "title": "Renegade",
+    "description": "A beaten, but still serviceable hunting rifle.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/84844262730098074/DEB8B80364548675184B7BD557020FC97F2E4787/"
+  },
+  "844302970": {
+    "title": "lava bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/93848094783925942/8B2572E45AF82B9E33D7F715C8AC3D7D4C0861BD/"
+  },
+  "830488378": {
+    "title": "Bolt Grass Hunter",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/177163242876514349/5B861305AA60023DF9F14FFF9B5922465B908D9B/"
+  },
+  "918721343": {
+    "title": "Lucky Coin Bolt Action Rifle",
+    "description": "Call it.\r\n\r\nWhat's the most you ever lost on a coin toss?\r\n\r\nThe coin is affixed to the bolt itself. Some say it's lucky. Others, not so much. The rifle itself has seen better days.\r\nThe wood was salvaged from a crate of long forgotten supplies. The metal ",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/809930139964679497/52E9212134A79872C007B3D5C592E634E8B92E51/"
+  },
+  "922942877": {
+    "title": "Graphite Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/841455969768775629/7A9185EA6D3577498B08B795BF9BC9311DA991DA/"
+  },
+  "839961447": {
+    "title": "Paperpot Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/101728955995812596/39EA1957140545463D897130C0733D9FE283294D/"
+  },
+  "1124048552": {
+    "title": "Leprechaun's bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/850473316797127923/42500830BAFC4D5A7D93E384E9076BA1E0776A55/"
+  },
+  "1156144271": {
+    "title": "battle rife",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/869616562081966566/CBDA34E82661687BE8EA51AA76E50D8CEEF5CA5F/"
+  },
+  "839369005": {
+    "title": "Skin \"Wintry\"",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/93847515839370640/5476B914D0AF2FF995CAE2A80949C4A4AA66FFEF/"
+  },
+  "847261262": {
+    "title": "Magic Stick",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/97226319696851188/F2FCB01E5826156DAC3B0741EB46770B5E5F497D/"
+  },
+  "880669891": {
+    "title": "U235 Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/82593731704157188/30C369903F0041A2A212A55715549387CD39F233/"
+  },
+  "868732801": {
+    "title": "Warlock",
+    "description": "Thanks for viewing my content! If you like what you see then be sure to upvote and favourite this item. For more of my content be sure to follow me and dont hesitate in checking out my other workshop items [url=http://steamcommunity.com/id/-SOLLY-/myworksh",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/172664267728831182/9B00B41A76045255F1E1A88BFBED32CEB1B227D3/"
+  },
+  "814910103": {
+    "title": "Desert Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/106229389287790422/1202FBB9F132F90E67CD6743B461B6D8E865E1ED/"
+  },
+  "874913165": {
+    "title": "Graffiti Bolt Action",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/81467197670478148/368D03D461F3BA298AB34AA6D4873D0E88742011/"
+  },
+  "1332135320": {
+    "title": "GoldBotl",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/932681861441819722/3F8359D1FCB612104EA3748F464982484E4D9AC0/"
+  },
+  "1133898187": {
+    "title": "Ghillie Camo Boltie",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/869614663070033812/52812156683097C1E08E48A4FAB0710BCDF1D935/"
+  },
+  "888670333": {
+    "title": "Realistic Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/156905916539952069/8F4562735E8875C93E109EC4A2839B9578FD0990/"
+  },
+  "794229953": {
+    "title": "Neon",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/187291252689500157/945404E3FB2DFAB34AAA8D295FD50A6C7F2B5214/"
+  },
+  "835870654": {
+    "title": "Awp-DLore",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/186170815316492093/EC6C46E655587FF2FEAD2CF4D656386FB3B1DF42/"
+  },
+  "843466667": {
+    "title": "Wel rod",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/101729391651803635/7D925014C3640FF61B56A626BBB1BF0E200A4C4B/"
+  },
+  "1427050185": {
+    "title": "toy soldier",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/957461211378373370/63BD0A1199D25109A964EF97CDF014AF32D606F7/"
+  },
+  "911640478": {
+    "title": "army bolt rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/824565659835613819/0A3BB4D7B8E53EF946942A9F5B0B12EA48CA6327/"
+  },
+  "868118927": {
+    "title": "Shoot em to the galaxy",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/88221755546003795/669EC3D2334F1C95C578BD31C9A30A6A4BD8CF3F/"
+  },
+  "917855620": {
+    "title": "Yellow Impact",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/820063037365530894/47C15174932A51531D4D5F9E9F4807418CE3266E/"
+  },
+  "870775701": {
+    "title": "Muddy BAR",
+    "description": "[URL=http://steamcommunity.com/id/Deltap42/myworkshopfiles/][IMG]http://i.imgur.com/s1ug55A.png[/IMG][/URL]",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/97229161704196390/CFC88391A0D3DAE5631BA2E8536B87E448670E74/"
+  },
+  "814564584": {
+    "title": "Dirty Camo Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/109607089005508230/77A09EE09448059EA8EDAA9B795B6F392076D8BF/"
+  },
+  "894940685": {
+    "title": "Bolt Rifle Boobs",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/169290082326683937/0435FE31C008DF8FEBBFD1B6D07844CFF0CDDBF8/"
+  },
+  "837662565": {
+    "title": "Stripped Waves",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/91595569763422012/DD82A63A584A8DE774326287CC5BEBE597A07070/"
+  },
+  "916968856": {
+    "title": "Nerf - V2",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/804300448308579422/0AA6684E9D644FFF09B61205738E9D5000815D6E/"
+  },
+  "865044326": {
+    "title": "Water Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/91599028247483233/13432404908B53A42FB58E29E52222EFFA23E512/"
+  },
+  "868767252": {
+    "title": "Sand Blasted Bolt Rifle",
+    "description": "Thanks for viewing my content! If you like what you see then be sure to upvote and favourite this item. For more of my content be sure to follow me and dont hesitate in checking out my other workshop items [url=http://steamcommunity.com/id/-SOLLY-/myworksh",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/172664267729039178/C99941A5E300AB01D79B7AFB0B8D01E9C620CA2F/"
+  },
+  "1203539730": {
+    "title": "Worn Woodland Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/859487587015849913/DFAFF198A3B5D019E94BD68C17169433DE6C49F7/"
+  },
+  "887594233": {
+    "title": "Bolt Action / Night sights",
+    "description": "1st edition Kill Confirmed Bolt Action Version 1.0\r\n\r\nBy Das Jager\r\n\r\nAll Proceeds go to supporting Voxide Rust Server.\r\n\r\n\r\nShow your support \r\nhttp://steamcommunity.com/groups/VoxideRust\r\n\r\nRegards Voxide Rust",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/83720835824158470/15865D8BA7F4C176B76B129C8C311258935D3455/"
+  },
+  "1225995752": {
+    "title": "Killer",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/875252309631801996/C4FC3B1B5CB8FA71798E8504D97FF8058EEA4005/"
+  },
+  "814619418": {
+    "title": "Graffity Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/106229389285264414/EF5C09580A461201A790A063BB4F29D4242AFDFF/"
+  },
+  "852283884": {
+    "title": "Jupiter",
+    "description": "Here is jupiter added onto a Bolt Action Rifle. I hope you guys enjoy this skin!",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/88219606968294145/642A68364B21462C2F71CACEE573A2BBA7AA67EB/"
+  },
+  "880726750": {
+    "title": "bolt rıfle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/155777414515550456/70F841C71BB7606F5F0C69DA1CD487CF42F47F6C/"
+  },
+  "1355921874": {
+    "title": "DeadlyBlue",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/924802734826945567/8B3949E9A30A649FF0B1382DA4ECE63BE6DC8E77/"
+  },
+  "1139008192": {
+    "title": "Star-wars Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/858356490704919649/93CDEA9ABF811FC9649D2998C454F734AAC422DA/"
+  },
+  "828769001": {
+    "title": "Rusty Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/102853654343501015/85B50A69976985EACA716A8F3636F5294BF26136/"
+  },
+  "917580824": {
+    "title": "Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/812181709686268810/A349DB6E7478EB5D2626BBCCEAD66E08CE3F516D/"
+  },
+  "829467147": {
+    "title": "Case Hardened Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/101727694603911092/8323449760325FBBB9217AF1E602F46C53FB3E81/"
+  },
+  "866268932": {
+    "title": "Hunter's rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/159153022657687134/FC80956BF5521818CFCAAD3674EE9646710457C4/"
+  },
+  "837855949": {
+    "title": "Custom Scraped Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/91595569764786137/7E3ECA0E642748C2257DF18A3AE47E1C1A0A8CA5/"
+  },
+  "835398250": {
+    "title": "Deadly Masterpeace",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/105106022020190550/FF34618E1C0D2CE65F8C218F41DAB977E8459B6F/"
+  },
+  "881784203": {
+    "title": "Alphabet Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/92726830871156525/560618939F1814AADB2BE40AFB6EFF904D1B54AA/"
+  },
+  "835394329": {
+    "title": "Bolty | Bee",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/183919312566023198/ED4A94C9811993C63FFE4CF293E694B1D12F4494/"
+  },
+  "918640575": {
+    "title": "Bolt Rifle Stylized",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/814433739595601915/DC37A83E6A733662BDFD7AB441C7251AFC78EE76/"
+  },
+  "868112949": {
+    "title": "Brass Dragon",
+    "description": "My first attempt at using Photoshop to create skins.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/85969930490121012/831EAA837F3754AE84E93B0ECA75A0DD06101EDB/"
+  },
+  "1344921775": {
+    "title": "Plains Camo Bolty",
+    "description": "A bolt Action Rifle that any self respecting Sniper would dream of owning. Temperate Climate camo that blends into the bushes like its not even there.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/915794605624385509/2BEBEEF51F8A632F12728E05E5C8925015B39ACD/"
+  },
+  "1370058740": {
+    "title": "BOLT (JagiBlack Style)",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/912419373482231356/90EF3FBD58B9864E6E5B8C213093B8150A2CC116/"
+  },
+  "865066085": {
+    "title": "Glowing Circuit Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/97228527780829191/3D213CFF737BE72D6254CED503247ABED78DC160/"
+  },
+  "1629166556": {
+    "title": "harley new",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/954102094045057015/2AB5574F8E5638B4C61153253AD2829E56BE69C0/"
+  },
+  "894490280": {
+    "title": "Tygah",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/171541721463457951/FE1561D36C0D167F26221999E4ECC89E368ED6AE/"
+  },
+  "1285047505": {
+    "title": "Camo bolt rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/927048194282627289/0D4D5A6C3A7F585CDE0AAAD552D50A9025A1E610/"
+  },
+  "881691996": {
+    "title": "Graf Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/92726830870762468/9262ACC12C493AA24D372D6FC56322B22C3B1D26/"
+  },
+  "903599960": {
+    "title": "Red Khaki",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/81470688494065349/5AB746B42142CA14FB8BCF0DD2A1CD2A0D7FAF25/"
+  },
+  "1081666574": {
+    "title": "Patriot",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/831329213371800471/F91D09B19469465169D5290DF0CAE6E48B488431/"
+  },
+  "835862752": {
+    "title": "Camo",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/185044915409603375/483F0C61EFD8264105438C3D617A6532211EE7D3/"
+  },
+  "799835493": {
+    "title": "RedStripedBolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/156892437246185863/F0D0EFCBDBCBC290E947B7FD21C02D67FA6E6194/"
+  },
+  "840898343": {
+    "title": "Agrissive bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/101728956001504455/C7D8C2FD1AFDF4804F47335B5F22F9E3BB382F5C/"
+  },
+  "922313048": {
+    "title": "KITTY REVENGE RIFLE [SILVER VER.]",
+    "description": "Follow please - http://steamcommunity.com/id/TheRunya/myworkshopfiles/",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/831322625441317196/13BD2A10D28CA00BE78A2C6C81EF6D6D05D94F88/"
+  },
+  "954799465": {
+    "title": "Bolt Rifle | Emerald Crust",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/865104046468618176/14AAEA63AB9FA730A2871C9A65C1A607DCCD9DB9/"
+  },
+  "844473274": {
+    "title": "Bolt Rifle Cannabis",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/97225730274048179/3F628499F8ECAB17C94D56F65D7DDE1D311AFCDA/"
+  },
+  "794959919": {
+    "title": "Fire Spitter v1",
+    "description": "Want to see this item in game?? Like & Favorite",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/201927861829145516/D09AA8ABDA18A77313FDEC696E1881933D468236/"
+  },
+  "1193497790": {
+    "title": "Yellow Rusty",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/859486656092567290/AC224779CE2B36B147A4523A164D903A9B25CFDD/"
+  },
+  "821697935": {
+    "title": "blood bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/103978299297605945/F2A578FF4A2C6BA7E0D465987E9D2FED0F5302AF/"
+  },
+  "860989656": {
+    "title": "Camo Bolt Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/172663186570863594/BFB4D516E32B68A732AF43E904792BCA5775B17A/"
+  },
+  "876141895": {
+    "title": "Lightning Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/171539431145716200/1FAF2BAB16796551B0746F0386AA9E0CBA1257D3/"
+  },
+  "887728282": {
+    "title": "Lost Rifle",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/85972516793034981/D1CC9F160B8A16CB5C671CA38EB531B811695D89/"
+  },
+  "856670269": {
+    "title": "Desert Eagle Eye BAR",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/97227270619699230/2F9219EFA4EDFA1A120347EE256E589B0FB5018F/"
+  },
+  "855062057": {
+    "title": "Metallic Ruby Coated Bolt Action Rifle",
+    "description": "Sit up high on your beautiful base and look good while doing it with this Metallic Ruby Coated Bolt Action Rifle skin! I redid the whole rifle texture from the ground up, giving it better looking rust, wear, and scratches. I also retextured the wood so tha",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/93849570889160370/61364164F113E526BD26D7FDE94464FE7961711C/"
+  },
+  "908789079": {
+    "title": "Bolt Guerra Camuflagem",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/93856527265793102/58C78F64B459CED56B031106A23C17E8F1262EF3/"
+  },
+  "840060383": {
+    "title": "happy hunter",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/92721756752138645/EE91B9CDCE6DC5E7E5CC1C1F44C76F5397D42F92/"
+  },
+  "952305263": {
+    "title": "Rock Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/851592877001465460/166C24F9BABE241C658C5C5253F1A8BD4BCD2EAF/"
+  },
+  "1357490551": {
+    "title": "Anarchy",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/923677009589738530/6FAD77F8B034897C36F1318837A27A5174A63D5B/"
+  },
+  "920538381": {
+    "title": "SnakeEye Bolt",
+    "description": "Snakeskin rifle body with a few snake eye details",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/817811439335322043/8347AD17631CCC65B7ED0090C5237BEB691EAE0E/"
+  },
+  "875244922": {
+    "title": "White Kill Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/96103896460733157/937C45D6A28775D1C6F02254A0743050778DB3CF/"
+  },
+  "820353308": {
+    "title": "Daimyo Bolty",
+    "description": "A take on the Evil Daimyo skin from CS:GO. Also my first rust skin.",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/99474701109171985/178F9650D3FA91D66CCBD03C3E92693CFE859E05/"
+  },
+  "922313905": {
+    "title": "KITTY REVENGE RIFLE [SILVER+GOLD VER.]",
+    "description": "Follow please - http://steamcommunity.com/id/TheRunya/myworkshopfiles/",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/831322625441322919/847A8362E3898154239E0973457E9A6CE7BAACE1/"
+  },
+  "921150704": {
+    "title": "KITTY REVENGE RIFLE",
+    "description": "Also i have a few variations:\r\n\r\n🐱 🐾 [SILVER VER.] - https://steamcommunity.com/sharedfiles/filedetails/?id=922313048\r\n🐱 🐾 [SILVER+GOLD VER.] - https://steamcommunity.com/sharedfiles/filedetails/?id=922313905\r\n\r\nFollow please - http://steamcommunity.com/id",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/831322625441419177/3DF802EBCA4324BC49F582ED1ECAB12443849285/"
+  },
+  "796804748": {
+    "title": "Soul Reaper Bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/275111928020294248/279667FD7B2A428634B088C0463731ADB5C95EF2/"
+  },
+  "818412607": {
+    "title": "Alien",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/107355998433777582/B7E3D95863C668CC31E4A8CD53F470E2D5D5344F/"
+  },
+  "1456032379": {
+    "title": "Galaxy bolt",
+    "description": "",
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/970974702499700421/A96304A40FA6F341FA6636F577BF5B746A985DA5/"
+  }
+}

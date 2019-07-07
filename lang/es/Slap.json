@@ -1,0 +1,9 @@
+{
+  "CommandUsage": "Uso: {0} <nombre o id> <amount> (la cantidad es opcional)",
+  "Cooldown": "Esperar un poco antes de intentar otra vez la palmada",
+  "NotAllowed": "No se permite utilizar el comando '{0}'",
+  "PlayerNotFound": "Jugador '{0}' no se encontró",
+  "PlayerSlapped": "{0} tiene una bofetada!",
+  "YouGotSlapped": "Usted consiguió una bofetada!",
+  "YouGotSlappedBy": "¡Recibió una bofetada por {0}!"
+}

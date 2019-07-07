@@ -1,0 +1,34 @@
+{
+  "Earthquake Presets": {
+    "Mild": {
+      "Amount of damage to deal to players (percentage of current health)": 0.0,
+      "Chance of players being damaged (0 - 100)": 0.0,
+      "Amount of damage to deal to structures (percentage of current health)": 0.0,
+      "Chance of structures being damaged (0 - 100)": 0.0,
+      "Duration of earthquake (seconds)": 10.0
+    },
+    "Medium": {
+      "Amount of damage to deal to players (percentage of current health)": 2.0,
+      "Chance of players being damaged (0 - 100)": 5.0,
+      "Amount of damage to deal to structures (percentage of current health)": 0.0,
+      "Chance of structures being damaged (0 - 100)": 0.0,
+      "Duration of earthquake (seconds)": 30.0
+    },
+    "Intense": {
+      "Amount of damage to deal to players (percentage of current health)": 5.0,
+      "Chance of players being damaged (0 - 100)": 10.0,
+      "Amount of damage to deal to structures (percentage of current health)": 5.0,
+      "Chance of structures being damaged (0 - 100)": 20.0,
+      "Duration of earthquake (seconds)": 60.0
+    }
+  },
+  "Broadcast message when earthquake begins": true,
+  "Broadcast message when earthquake finishes": true,
+  "Earthquake begin message": "<color=#ce422b>HAHAHA FUCK YALL ADMINS TROLLING</color>",
+  "Earthquake finish message": "<color=#ce422b>ITS OVER GUYS PLEASE LOVE ME</color>",
+  "Version": {
+    "Major": 0,
+    "Minor": 1,
+    "Patch": 2
+  }
+}

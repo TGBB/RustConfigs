@@ -1,0 +1,13 @@
+{
+  "YouDied": "Your corpse was last seen {0} meters from here.",
+  "YouDiedGrid": "Your corpse was last seen {0} meters from here, in {1}.",
+  "ArrivedAtYourCorpse": "You have arrived at your corpse.",
+  "ArrivedAtTheCorpse": "You have arrived at the corpse of {0}.",
+  "OutOfTeleports": "You have no more teleports left today.",
+  "TeleportsRemaining": "You have {0} teleports remaining today.",
+  "UnknownLocation": "Your last death location is unknown.",
+  "UnknownLocationTarget": "{0}'s last death location is unknown.",
+  "NeedTarget": "You need to specify a player to teleport to the corpse of, using either their name or steam id.",
+  "InvalidPlayer": "{0} is not part of a known player's name/id.",
+  "NotAllowed": "You do not have permission to use that command."
+}

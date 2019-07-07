@@ -1,0 +1,200 @@
+{
+  "Horde Options": {
+    "Maximum amount of spawned zombies per horde": 10,
+    "Amount of zombies to spawn when a new horde is created": 5,
+    "Amount hordes to create": 35,
+    "Amount of time from when a horde is destroyed until a new horde is created (seconds)": 900,
+    "Amount of time before a horde grows in size": 350,
+    "Add a zombie to the horde when a horde member kills a player": true,
+    "Maximum distance a horde can be away from a target before losing interest": 45.0,
+    "Merge hordes together if they collide": true,
+    "Spawn system (Default, SpawnsDatabase, RandomSpawns)": "RandomSpawns",
+    "Spawn file (only required when using SpawnsDatabase)": "",
+    "All hordes will only roam locally in a set distance from their initial spawn point": false,
+    "Distance that hordes can roam from their initial spawn point (Local roam hordes only)": 50.0
+  },
+  "Horde Member Options": {
+    "Zombie damage multiplier": 0.8,
+    "Zombie speed modifier": 0.4,
+    "Zombie kits (selected at random per zombie)": [],
+    "Initial health": 90.0,
+    "Members can target animals": true,
+    "Members can be targeted by turrets": true,
+    "Members can target scientists": true,
+    "Types of loot dropped when killed (Default, Random, Kit)": [
+      "Default"
+    ],
+    "NPC Names": [
+      "Zombie"
+    ]
+  },
+  "Loot Table": {
+    "Minimum amount of items to spawn": 2,
+    "Maximum amount of items to spawn": 5,
+    "Loot list": [
+      {
+        "Item shortname": "apple",
+        "Item skin ID": 0,
+        "Minimum amount of item": 2,
+        "Maximum amount of item": 6
+      },
+      {
+        "Item shortname": "bearmeat.cooked",
+        "Item skin ID": 0,
+        "Minimum amount of item": 2,
+        "Maximum amount of item": 4
+      },
+      {
+        "Item shortname": "blueberries",
+        "Item skin ID": 0,
+        "Minimum amount of item": 4,
+        "Maximum amount of item": 8
+      },
+      {
+        "Item shortname": "corn",
+        "Item skin ID": 0,
+        "Minimum amount of item": 4,
+        "Maximum amount of item": 8
+      },
+      {
+        "Item shortname": "fish.raw",
+        "Item skin ID": 0,
+        "Minimum amount of item": 2,
+        "Maximum amount of item": 4
+      },
+      {
+        "Item shortname": "granolabar",
+        "Item skin ID": 0,
+        "Minimum amount of item": 1,
+        "Maximum amount of item": 4
+      },
+      {
+        "Item shortname": "meat.pork.cooked",
+        "Item skin ID": 0,
+        "Minimum amount of item": 4,
+        "Maximum amount of item": 8
+      },
+      {
+        "Item shortname": "candycane",
+        "Item skin ID": 0,
+        "Minimum amount of item": 0,
+        "Maximum amount of item": 1
+      }
+    ]
+  },
+  "Monument Spawn Options": {
+    "Airfield": {
+      "Enable spawns at this monument": true,
+      "This horde can only roam locally": true,
+      "Distance that this horde can roam from their initial spawn point (Local roam only)": 85.0,
+      "Maximum amount of members in this horde": 30
+    },
+    "Dome": {
+      "Enable spawns at this monument": true,
+      "This horde can only roam locally": true,
+      "Distance that this horde can roam from their initial spawn point (Local roam only)": 50.0,
+      "Maximum amount of members in this horde": 30
+    },
+    "Junkyard": {
+      "Enable spawns at this monument": true,
+      "This horde can only roam locally": true,
+      "Distance that this horde can roam from their initial spawn point (Local roam only)": 50.0,
+      "Maximum amount of members in this horde": 30
+    },
+    "LargeHarbor": {
+      "Enable spawns at this monument": true,
+      "This horde can only roam locally": true,
+      "Distance that this horde can roam from their initial spawn point (Local roam only)": 120.0,
+      "Maximum amount of members in this horde": 30
+    },
+    "GasStation": {
+      "Enable spawns at this monument": true,
+      "This horde can only roam locally": true,
+      "Distance that this horde can roam from their initial spawn point (Local roam only)": 15.0,
+      "Maximum amount of members in this horde": 30
+    },
+    "Powerplant": {
+      "Enable spawns at this monument": true,
+      "This horde can only roam locally": true,
+      "Distance that this horde can roam from their initial spawn point (Local roam only)": 120.0,
+      "Maximum amount of members in this horde": 30
+    },
+    "Stone Quarry": {
+      "Enable spawns at this monument": true,
+      "This horde can only roam locally": true,
+      "Distance that this horde can roam from their initial spawn point (Local roam only)": 15.0,
+      "Maximum amount of members in this horde": 30
+    },
+    "Sulfur Quarry": {
+      "Enable spawns at this monument": true,
+      "This horde can only roam locally": true,
+      "Distance that this horde can roam from their initial spawn point (Local roam only)": 15.0,
+      "Maximum amount of members in this horde": 30
+    },
+    "HQM Quarry": {
+      "Enable spawns at this monument": true,
+      "This horde can only roam locally": true,
+      "Distance that this horde can roam from their initial spawn point (Local roam only)": 15.0,
+      "Maximum amount of members in this horde": 30
+    },
+    "Radtown": {
+      "Enable spawns at this monument": true,
+      "This horde can only roam locally": true,
+      "Distance that this horde can roam from their initial spawn point (Local roam only)": 85.0,
+      "Maximum amount of members in this horde": 30
+    },
+    "RocketFactory": {
+      "Enable spawns at this monument": true,
+      "This horde can only roam locally": true,
+      "Distance that this horde can roam from their initial spawn point (Local roam only)": 140.0,
+      "Maximum amount of members in this horde": 30
+    },
+    "Satellite": {
+      "Enable spawns at this monument": true,
+      "This horde can only roam locally": true,
+      "Distance that this horde can roam from their initial spawn point (Local roam only)": 60.0,
+      "Maximum amount of members in this horde": 30
+    },
+    "SmallHarbor": {
+      "Enable spawns at this monument": true,
+      "This horde can only roam locally": true,
+      "Distance that this horde can roam from their initial spawn point (Local roam only)": 85.0,
+      "Maximum amount of members in this horde": 30
+    },
+    "Supermarket": {
+      "Enable spawns at this monument": true,
+      "This horde can only roam locally": true,
+      "Distance that this horde can roam from their initial spawn point (Local roam only)": 20.0,
+      "Maximum amount of members in this horde": 30
+    },
+    "Trainyard": {
+      "Enable spawns at this monument": true,
+      "This horde can only roam locally": true,
+      "Distance that this horde can roam from their initial spawn point (Local roam only)": 100.0,
+      "Maximum amount of members in this horde": 30
+    },
+    "Tunnels": {
+      "Enable spawns at this monument": true,
+      "This horde can only roam locally": true,
+      "Distance that this horde can roam from their initial spawn point (Local roam only)": 90.0,
+      "Maximum amount of members in this horde": 30
+    },
+    "Warehouse": {
+      "Enable spawns at this monument": true,
+      "This horde can only roam locally": true,
+      "Distance that this horde can roam from their initial spawn point (Local roam only)": 15.0,
+      "Maximum amount of members in this horde": 30
+    },
+    "WaterTreatment": {
+      "Enable spawns at this monument": true,
+      "This horde can only roam locally": true,
+      "Distance that this horde can roam from their initial spawn point (Local roam only)": 120.0,
+      "Maximum amount of members in this horde": 30
+    }
+  },
+  "Version": {
+    "Major": 0,
+    "Minor": 1,
+    "Patch": 16
+  }
+}

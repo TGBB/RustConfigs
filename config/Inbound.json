@@ -1,0 +1,12 @@
+{
+  "APC Bradley Alerts (true/false)": true,
+  "Cargo Plane Alerts (true/false)": true,
+  "Cargoship Alerts (true/false)": true,
+  "CH47 Chinook Alerts (true/false)": true,
+  "Hackable Crate Alerts (true/false)": true,
+  "Hackable Player In Alert (true/false)": true,
+  "Helicopter Alerts (true/false)": true,
+  "Player Supply Drop Alert (true/false)": true,
+  "Show Coordinates (true/false)": true,
+  "Supply Drop Alerts (true/false)": true
+}
