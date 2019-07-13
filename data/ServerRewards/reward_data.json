@@ -8,7 +8,7 @@
       "isBp": false,
       "category": 1,
       "displayName": "L96 Rifle",
-      "cost": 420,
+      "cost": 450,
       "cooldown": 0
     },
     "rifle.ak_0": {
@@ -19,7 +19,7 @@
       "isBp": false,
       "category": 1,
       "displayName": "Assault Rifle",
-      "cost": 250,
+      "cost": 350,
       "cooldown": 0
     },
     "rifle.lr300_0": {
@@ -55,17 +55,6 @@
       "cost": 20,
       "cooldown": 0
     },
-    "explosive.timed_0": {
-      "shortname": "explosive.timed",
-      "customIcon": null,
-      "amount": 15,
-      "skinId": 0,
-      "isBp": false,
-      "category": 6,
-      "displayName": "Timed Explosive Charge",
-      "cost": 300,
-      "cooldown": 0
-    },
     "supply.signal_0": {
       "shortname": "supply.signal",
       "customIcon": null,
@@ -74,18 +63,18 @@
       "isBp": false,
       "category": 6,
       "displayName": "Supply Signal",
-      "cost": 277,
+      "cost": 280,
       "cooldown": 0
     },
     "lowgradefuel_0": {
       "shortname": "lowgradefuel",
       "customIcon": null,
-      "amount": 1000,
+      "amount": 500,
       "skinId": 0,
       "isBp": false,
       "category": 4,
       "displayName": "Low Grade Fuel",
-      "cost": 75,
+      "cost": 80,
       "cooldown": 0
     },
     "wall.external.high.stone_0": {
@@ -96,7 +85,7 @@
       "isBp": false,
       "category": 2,
       "displayName": "High External Stone Wall",
-      "cost": 10,
+      "cost": 50,
       "cooldown": 0
     },
     "gears_0": {
@@ -118,7 +107,7 @@
       "isBp": false,
       "category": 2,
       "displayName": "Wooden Ladder",
-      "cost": 55,
+      "cost": 60,
       "cooldown": 0
     },
     "techparts_0": {
@@ -129,18 +118,18 @@
       "isBp": false,
       "category": 12,
       "displayName": "Tech Trash",
-      "cost": 40,
+      "cost": 100,
       "cooldown": 0
     },
     "pumpkin_0": {
       "shortname": "pumpkin",
       "customIcon": null,
-      "amount": 1093,
+      "amount": 1100,
       "skinId": 0,
       "isBp": false,
       "category": 8,
       "displayName": "Pumpkin",
-      "cost": 64,
+      "cost": 70,
       "cooldown": 0
     },
     "cloth_0": {
@@ -154,37 +143,70 @@
       "cost": 100,
       "cooldown": 0
     },
-    "furnace_0": {
-      "shortname": "furnace",
+    "pookie.bear_0": {
+      "shortname": "pookie.bear",
       "customIcon": null,
       "amount": 1,
       "skinId": 0,
       "isBp": false,
       "category": 3,
-      "displayName": "Furnace",
-      "cost": 58,
+      "displayName": "Pookie Bear",
+      "cost": 60,
       "cooldown": 0
     },
-    "fridge_0": {
-      "shortname": "fridge",
+    "mining.quarry_0": {
+      "shortname": "mining.quarry",
       "customIcon": null,
       "amount": 1,
       "skinId": 0,
       "isBp": false,
-      "category": 3,
-      "displayName": "Fridge",
-      "cost": 103,
+      "category": 11,
+      "displayName": "Mining Quarry",
+      "cost": 1000,
+      "cooldown": 0
+      },
+    "surveycharge_0": {
+      "shortname": "surveycharge",
+      "customIcon": null,
+      "amount": 5,
+      "skinId": 0,
+      "isBp": false,
+      "category": 11,
+      "displayName": "Mining Quarry",
+      "cost": 400,
       "cooldown": 0
     },
-    "sleepingbag_0": {
-      "shortname": "sleepingbag",
+    "explosive.timed_0": {
+      "shortname": "explosive.timed",
+      "customIcon": null,
+      "amount": 5,
+      "skinId": 0,
+      "isBp": false,
+      "category": 11,
+      "displayName": "Timed Explosive Charge",
+      "cost": 1000,
+      "cooldown": 0
+    },
+    "fogmachine_0": {
+      "shortname": "fogmachine",
       "customIcon": null,
       "amount": 1,
       "skinId": 0,
       "isBp": false,
-      "category": 3,
-      "displayName": "Sleeping Bag",
-      "cost": 45,
+      "category": 11,
+      "displayName": "Fog Machine",
+      "cost": 410,
+      "cooldown": 0
+      },
+    "electric.generator.small_0": {
+      "shortname": "electric.generator.small",
+      "customIcon": null,
+      "amount": 1,
+      "skinId": 0,
+      "isBp": false,
+      "category": 11,
+      "displayName": "Generator",
+      "cost": 2000,
       "cooldown": 0
     },
     "snowmachine_0": {
@@ -195,7 +217,18 @@
       "isBp": false,
       "category": 11,
       "displayName": "Snow Machine",
-      "cost": 412,
+      "cost": 410,
+      "cooldown": 0
+      },
+    "strobelight_0": {
+      "shortname": "strobelight",
+      "customIcon": null,
+      "amount": 1,
+      "skinId": 0,
+      "isBp": false,
+      "category": 11,
+      "displayName": "Strobe Light",
+      "cost": 410,
       "cooldown": 0
     },
     "grenade.smoke_0": {
@@ -215,9 +248,20 @@
       "amount": 1,
       "skinId": 0,
       "isBp": false,
-      "category": 6,
+      "category": 11,
       "displayName": "Birthday Cake",
       "cost": 35,
+      "cooldown": 0
+      },
+    "barrelcostume_0": {
+      "shortname": "barrelcostume",
+      "customIcon": null,
+      "amount": 1,
+      "skinId": 0,
+      "isBp": false,
+      "category": 11,
+      "displayName": "Barrel Costume",
+      "cost": 100,
       "cooldown": 0
     },
     "flare_0": {
@@ -226,9 +270,9 @@
       "amount": 100,
       "skinId": 0,
       "isBp": false,
-      "category": 6,
+      "category": 11,
       "displayName": "Flare",
-      "cost": 88,
+      "cost": 90,
       "cooldown": 0
     },
     "autoturret_0": {
@@ -239,7 +283,7 @@
       "isBp": false,
       "category": 10,
       "displayName": "Auto Turret",
-      "cost": 184,
+      "cost": 185,
       "cooldown": 0
     },
     "guntrap_0": {
@@ -250,7 +294,7 @@
       "isBp": false,
       "category": 10,
       "displayName": "Shotgun Trap",
-      "cost": 69,
+      "cost": 70,
       "cooldown": 0
     },
     "flameturret_0": {
@@ -261,7 +305,7 @@
       "isBp": false,
       "category": 10,
       "displayName": "Flame Turret",
-      "cost": 84,
+      "cost": 85,
       "cooldown": 0
     },
     "diving.wetsuit_0": {
@@ -283,7 +327,7 @@
       "isBp": false,
       "category": 5,
       "displayName": "Diving Tank",
-      "cost": 336,
+      "cost": 330,
       "cooldown": 0
     },
     "diving.fins_0": {
@@ -305,7 +349,7 @@
       "isBp": false,
       "category": 5,
       "displayName": "Diving Mask",
-      "cost": 63,
+      "cost": 60,
       "cooldown": 0
     },
     "rocket.launcher_853494512": {
@@ -316,18 +360,18 @@
       "isBp": false,
       "category": 1,
       "displayName": "Rocket Launcher",
-      "cost": 489,
+      "cost": 500,
       "cooldown": 0
     },
-    "ammo.rocket.basic_0": {
-      "shortname": "ammo.rocket.basic",
+    "coffin.storage_0": {
+      "shortname": "coffin.storage",
       "customIcon": null,
-      "amount": 30,
+      "amount": 5,
       "skinId": 0,
       "isBp": false,
       "category": 9,
-      "displayName": "Rocket",
-      "cost": 300,
+      "displayName": "Coffin Storage",
+      "cost": 150,
       "cooldown": 0
     },
     "multiplegrenadelauncher_0": {
@@ -344,18 +388,18 @@
     "ammo.grenadelauncher.he_0": {
       "shortname": "ammo.grenadelauncher.he",
       "customIcon": null,
-      "amount": 50,
+      "amount": 5,
       "skinId": 0,
       "isBp": false,
       "category": 9,
       "displayName": "40mm HE Grenade",
-      "cost": 200,
+      "cost": 300,
       "cooldown": 0
     },
     "ammo.grenadelauncher.buckshot_0": {
       "shortname": "ammo.grenadelauncher.buckshot",
       "customIcon": null,
-      "amount": 50,
+      "amount": 30,
       "skinId": 0,
       "isBp": false,
       "category": 9,
@@ -366,23 +410,23 @@
     "ammo.grenadelauncher.smoke_0": {
       "shortname": "ammo.grenadelauncher.smoke",
       "customIcon": null,
-      "amount": 100,
+      "amount": 30,
       "skinId": 0,
       "isBp": false,
       "category": 9,
       "displayName": "40mm Smoke Grenade",
-      "cost": 69,
+      "cost": 70,
       "cooldown": 0
     },
-    "ammo.rifle.explosive_0": {
-      "shortname": "ammo.rifle.explosive",
+    "black.raspberries_0": {
+      "shortname": "black.raspberries",
       "customIcon": null,
-      "amount": 1000,
+      "amount": 100,
       "skinId": 0,
       "isBp": false,
-      "category": 9,
+      "category": 8,
       "displayName": "Explosive 5.56 Rifle Ammo",
-      "cost": 96,
+      "cost": 70,
       "cooldown": 0
     },
     "ammo.rifle_0": {
@@ -393,18 +437,18 @@
       "isBp": false,
       "category": 9,
       "displayName": "5.56 Rifle Ammo",
-      "cost": 69,
+      "cost": 80,
       "cooldown": 0
     },
     "corn_0": {
       "shortname": "corn",
       "customIcon": null,
-      "amount": 1102,
+      "amount": 1100,
       "skinId": 0,
       "isBp": false,
       "category": 8,
       "displayName": "Corn",
-      "cost": 66,
+      "cost": 70,
       "cooldown": 0
     },
     "chicken.cooked_0": {
@@ -415,18 +459,18 @@
       "isBp": false,
       "category": 8,
       "displayName": "Cooked Chicken",
-      "cost": 53,
+      "cost": 55,
       "cooldown": 0
     },
-    "easter.goldegg_0": {
-      "shortname": "easter.goldegg",
+    "arcade.machine.chippy_0": {
+      "shortname": "arcade.machine.chippy",
       "customIcon": null,
       "amount": 1,
       "skinId": 0,
       "isBp": false,
       "category": 11,
-      "displayName": "Gold Egg",
-      "cost": 300,
+      "displayName": "Chippy Arcade",
+      "cost": 1000,
       "cooldown": 0
     },
     "keycard_blue_0": {
@@ -476,7 +520,7 @@
     "syringe.medical_0": {
       "shortname": "syringe.medical",
       "customIcon": null,
-      "amount": 250,
+      "amount": 50,
       "skinId": 0,
       "isBp": false,
       "category": 7,
@@ -494,7 +538,7 @@
         "env.time 12"
       ],
       "displayName": null,
-      "cost": 100,
+      "cost": 50,
       "cooldown": 0
     }
   }
