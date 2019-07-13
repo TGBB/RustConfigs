@@ -176,6 +176,17 @@
       "cost": 400,
       "cooldown": 0
     },
+    "explosive.timed_0": {
+      "shortname": "explosive.timed",
+      "customIcon": null,
+      "amount": 5,
+      "skinId": 0,
+      "isBp": false,
+      "category": 11,
+      "displayName": "Timed Explosive Charge",
+      "cost": 1000,
+      "cooldown": 0
+    },
     "fogmachine_0": {
       "shortname": "fogmachine",
       "customIcon": null,
