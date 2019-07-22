@@ -154,28 +154,6 @@
       "cost": 60,
       "cooldown": 0
     },
-    "mining.quarry_0": {
-      "shortname": "mining.quarry",
-      "customIcon": null,
-      "amount": 1,
-      "skinId": 0,
-      "isBp": false,
-      "category": 11,
-      "displayName": "Mining Quarry",
-      "cost": 1000,
-      "cooldown": 0
-      },
-    "surveycharge_0": {
-      "shortname": "surveycharge",
-      "customIcon": null,
-      "amount": 5,
-      "skinId": 0,
-      "isBp": false,
-      "category": 11,
-      "displayName": "Mining Quarry",
-      "cost": 400,
-      "cooldown": 0
-    },
     "explosive.timed_0": {
       "shortname": "explosive.timed",
       "customIcon": null,
@@ -369,7 +347,7 @@
       "amount": 5,
       "skinId": 0,
       "isBp": false,
-      "category": 9,
+      "category": 11,
       "displayName": "Coffin Storage",
       "cost": 150,
       "cooldown": 0
@@ -425,7 +403,7 @@
       "skinId": 0,
       "isBp": false,
       "category": 8,
-      "displayName": "Explosive 5.56 Rifle Ammo",
+      "displayName": "Black Raspberries",
       "cost": 70,
       "cooldown": 0
     },
